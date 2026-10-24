@@ -1,0 +1,9 @@
+{
+  "g5_file": "/Volumes/ORICO/CodexProjects/三国/三国屯田战-微信小游戏-v0.6.5/minigame/js/data.js",
+  "g5_sha256": "d986b7c93e2fd8e14f22860465a5a6e0a95cd1111d1173dd3f3ba18ec7955d1f",
+  "expected_count": 72,
+  "actual_count": 72,
+  "exact_id_name_set_match": true,
+  "concept_order_matches_g5_order": false,
+  "note": "概念纸按美术审阅顺序排列；mapping中的g5_index记录真实BOND_DEFS顺序。"
+}

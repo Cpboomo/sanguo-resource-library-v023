@@ -1,0 +1,1010 @@
+[
+  {
+    "bond_id": "wuhu",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 235.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 156.5,
+    "source_crop_box": [
+      74,
+      18,
+      395,
+      339
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "taoyuan",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 612.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      449,
+      16,
+      775,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "wolongfengchu",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 990.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      828,
+      17,
+      1152,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "wuzi",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 1368.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      1206,
+      17,
+      1529,
+      340
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "jiangdongsying",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 1744.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      1582,
+      17,
+      1906,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "chuhanyinghun",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 235.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 156.5,
+    "source_crop_box": [
+      74,
+      398,
+      395,
+      719
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "taipingdao",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 612.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      449,
+      396,
+      775,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sanzhang",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 990.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      828,
+      397,
+      1152,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sanying",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 1368.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      1206,
+      397,
+      1529,
+      720
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "shumou",
+    "source_sheet": "概念纸01-01至10.png",
+    "detected_center_x": 1744.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      1582,
+      397,
+      1906,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "guanmen",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 238.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      74,
+      15,
+      402,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "hanchen",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 611.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      446,
+      14,
+      775,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "wolongbandi",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 989.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      825,
+      15,
+      1153,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "liuzongqin",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 1365.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      1202,
+      16,
+      1527,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "guansanjie",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 1741.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      1577,
+      15,
+      1905,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "beifasanjiang",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 235.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      72,
+      396,
+      398,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "shitu",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 611.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      446,
+      394,
+      775,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yushui",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 989.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      825,
+      395,
+      1153,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "zhugefufu",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 1365.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      1203,
+      397,
+      1527,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "shaozhuang",
+    "source_sheet": "概念纸02-11至20.png",
+    "detected_center_x": 1741.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      1577,
+      395,
+      1905,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "mashiliangsu",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 237.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 161.0,
+    "source_crop_box": [
+      72,
+      14,
+      402,
+      344
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "weisimou",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 617.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      453,
+      15,
+      781,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "weisizong",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 990.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 156.5,
+    "source_crop_box": [
+      829,
+      18,
+      1150,
+      339
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sancao",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 1364.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      1201,
+      16,
+      1526,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sanma",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 1740.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.5,
+    "source_crop_box": [
+      1576,
+      15,
+      1903,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "weisanmou",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 237.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 162.5,
+    "source_crop_box": [
+      70,
+      392,
+      403,
+      725
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "caoshizongqin",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 618.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 161.5,
+    "source_crop_box": [
+      452,
+      393,
+      783,
+      724
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "wuzixiansheng",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 989.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      826,
+      396,
+      1152,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "huwei",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 1363.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 165.0,
+    "source_crop_box": [
+      1194,
+      390,
+      1532,
+      728
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "wangzuo",
+    "source_sheet": "概念纸03-21至30.png",
+    "detected_center_x": 1739.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      1574,
+      394,
+      1903,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "xiahouxiongdi",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 234.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      72,
+      17,
+      395,
+      340
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "caopizhen",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 612.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.5,
+    "source_crop_box": [
+      448,
+      15,
+      775,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "simafufu",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 988.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      825,
+      16,
+      1150,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "fashu",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 1363.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1200,
+      16,
+      1526,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "hefei",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 1742.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      1578,
+      15,
+      1906,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "caocaoxunyu",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 234.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      72,
+      397,
+      396,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "jiangdongwuhu",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 612.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      448,
+      395,
+      776,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sunsanjie",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 990.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      825,
+      394,
+      1154,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sandudu",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 1364.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.5,
+    "source_crop_box": [
+      1200,
+      395,
+      1527,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "huchenxian",
+    "source_sheet": "概念纸04-31至40.png",
+    "detected_center_x": 1743.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      1578,
+      394,
+      1907,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "shenting",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 237.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      73,
+      15,
+      401,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "guose",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 612.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      449,
+      16,
+      774,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "zhouxiaojiao",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 989.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      827,
+      17,
+      1150,
+      340
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "suncedaqiao",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 1367.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      1204,
+      16,
+      1529,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "ganninglingtong",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 1744.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1581,
+      16,
+      1907,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "laojiang",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 235.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 162.0,
+    "source_crop_box": [
+      69,
+      393,
+      401,
+      725
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "lvmengluxun",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 613.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      449,
+      395,
+      777,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "dongzhuohuixia",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 990.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      825,
+      394,
+      1154,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "hebeitingzhu",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 1367.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      1202,
+      394,
+      1531,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "hebeisanmou",
+    "source_sheet": "概念纸05-41至50.png",
+    "detected_center_x": 1744.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.5,
+    "source_crop_box": [
+      1580,
+      395,
+      1907,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "fangwaisanxian",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 236.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      74,
+      17,
+      397,
+      340
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "dongzhuosanjian",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 612.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      448,
+      15,
+      776,
+      343
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yuansanjie",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 989.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      826,
+      16,
+      1152,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "lianhuan",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 1365.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1202,
+      16,
+      1528,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yanliangwenchou",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 1743.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      1581,
+      17,
+      1905,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "manzhurong",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 235.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.5,
+    "source_crop_box": [
+      72,
+      396,
+      397,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yuanshixiongdi",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 612.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.0,
+    "source_crop_box": [
+      448,
+      395,
+      776,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "dongzhuoliru",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 989.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      826,
+      396,
+      1152,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "lvbulvqiling",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 1365.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1202,
+      396,
+      1528,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "taipingsishou",
+    "source_sheet": "概念纸06-51至60.png",
+    "detected_center_x": 1743.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1580,
+      396,
+      1906,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "huangjinsanshuai",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 231.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      68,
+      16,
+      394,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "qushuai",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 608.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      446,
+      17,
+      770,
+      341
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "huangjinxianfeng",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 987.0,
+    "detected_center_y": 179.0,
+    "detected_radius": 157.5,
+    "source_crop_box": [
+      825,
+      17,
+      1148,
+      340
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yijun",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 1366.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1203,
+      16,
+      1529,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "sanlian",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 1747.5,
+    "detected_center_y": 179.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1584,
+      16,
+      1910,
+      342
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "jishengyu",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 230.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 160.5,
+    "source_crop_box": [
+      65,
+      394,
+      394,
+      723
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "huarong",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 608.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      446,
+      397,
+      770,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "guagu",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 985.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 158.0,
+    "source_crop_box": [
+      823,
+      397,
+      1147,
+      721
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "shuiyan",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 1366.0,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.5,
+    "source_crop_box": [
+      1202,
+      395,
+      1529,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "qishan",
+    "source_sheet": "概念纸07-61至70.png",
+    "detected_center_x": 1747.5,
+    "detected_center_y": 559.0,
+    "detected_radius": 159.0,
+    "source_crop_box": [
+      1584,
+      396,
+      1910,
+      722
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "mashifuzi",
+    "source_sheet": "概念纸08-71至72.png",
+    "detected_center_x": 720.5,
+    "detected_center_y": 368.0,
+    "detected_radius": 223.0,
+    "source_crop_box": [
+      493,
+      141,
+      947,
+      595
+    ],
+    "output_badge_diameter": 304
+  },
+  {
+    "bond_id": "yinping",
+    "source_sheet": "概念纸08-71至72.png",
+    "detected_center_x": 1258.0,
+    "detected_center_y": 368.0,
+    "detected_radius": 223.5,
+    "source_crop_box": [
+      1030,
+      140,
+      1485,
+      595
+    ],
+    "output_badge_diameter": 304
+  }
+]

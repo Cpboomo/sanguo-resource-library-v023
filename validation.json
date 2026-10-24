@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "version": "v023",
+  "cards": 164,
+  "heroes": 129,
+  "soldiers": 32,
+  "resourceCards": 3,
+  "transparentRoleIcons": 20,
+  "roleIconInstances": 190,
+  "cardSize": [
+    313,
+    473
+  ],
+  "rankLettersVisible": false,
+  "starsVisible": false,
+  "gradeEncoding": "border color only",
+  "archives": {
+    "role-icons-transparent-png.zip": {
+      "bytes": 280181,
+      "sha256": "6e4c7cd25e6fae65b5d93a19a8857b72407c2df6d7cc1e29340cb52f233d645d"
+    }
+  },
+  "errors": []
+}

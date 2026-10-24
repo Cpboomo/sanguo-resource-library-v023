@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "viewports": [
+    {
+      "viewport": "1280x1120",
+      "cards": 108,
+      "roleIconOverlaps": 13,
+      "nameFontRatio": [
+        0.33299999999999996,
+        0.333
+      ],
+      "result": "PASS"
+    },
+    {
+      "viewport": "390x844",
+      "cards": 108,
+      "roleIconOverlaps": 14,
+      "nameFontRatio": [
+        0.33299999999999996,
+        0.333
+      ],
+      "result": "PASS"
+    },
+    {
+      "viewport": "390x620",
+      "cards": 108,
+      "roleIconOverlaps": 14,
+      "nameFontRatio": [
+        0.33299999999999996,
+        0.333
+      ],
+      "result": "PASS"
+    }
+  ],
+  "units": 36,
+  "renderedCardsPerViewport": 108,
+  "iconSystem": "round-black-white"
+}

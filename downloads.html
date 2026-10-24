@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>164张卡牌 · 资源下载</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#121512;color:#f6f2e8;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+    header,main{max-width:980px;margin:auto;padding:24px}header{padding-bottom:8px}h1{margin:0 0 8px;font-size:28px}p{color:#aeb9ae}a{color:inherit}
+    .back{color:#7ff0a6}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.item{padding:20px;border:1px solid #465146;border-radius:16px;background:#1d221d}
+    h2{margin:0 0 7px;font-size:19px}.item p{min-height:42px;margin:0 0 18px}.button{display:inline-block;padding:10px 15px;border-radius:10px;background:#293529;border:1px solid #607160;text-decoration:none}.button:hover{background:#354635}
+    @media(max-width:680px){.grid{grid-template-columns:1fr}header,main{padding:16px}.item p{min-height:0}}
+  </style>
+</head>
+<body>
+  <header><h1>164张卡牌 · 资源下载</h1><p>完整卡牌和组件均以独立PNG保存，可逐张下载，也可根据清单与配方直接调用。所有卡牌均为313×473透明PNG。</p><a class="back" href="cards.html">← 返回全部卡牌</a></header>
+  <main><section class="grid">
+    <article class="item"><h2>164张完整卡牌</h2><p>129张英雄、32张小兵，以及粮田、土块、粮仓3张资源卡；支持筛选和逐张下载。</p><a class="button" href="cards.html">打开卡牌页</a></article>
+    <article class="item"><h2>全部卡牌清单</h2><p>卡牌ID、名称、类别、章节、边框颜色和成品PNG路径。</p><a class="button" href="docs/card-inventory.csv" download>下载 CSV</a></article>
+    <article class="item"><h2>组装配方</h2><p>完整JSON清单，记录每张卡使用的共用卡框、人物、图标、阵营和姓名组件。</p><a class="button" href="manifest.json" download>下载 JSON</a></article>
+    <article class="item"><h2>组件使用关系</h2><p>全部组件实例与位置关系，便于程序批量调用和复用。</p><a class="button" href="docs/assembly-instances.csv" download>下载 CSV</a></article>
+    <article class="item"><h2>透明组件预览</h2><p>共用卡框、原人物、阵营、图标和姓名组件可直接打开并逐个下载。</p><a class="button" href="components.html">打开组件页</a></article>
+    <article class="item"><h2>20个圆形兵种图标</h2><p>黑白透明PNG图标，双图标卡按独立组件复用。</p><a class="button" href="role-icons-transparent-png.zip" download>下载 ZIP</a></article>
+  </section></main>
+</body>
+</html>

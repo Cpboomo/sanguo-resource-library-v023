@@ -1,0 +1,133 @@
+{
+  "updatedAt": "2026-10-22",
+  "categories": [
+    {
+      "id": "cards",
+      "name": "卡牌资源",
+      "description": "已完成的卡牌、图层、图标与组装清单",
+      "color": "#efaa58"
+    },
+    {
+      "id": "simulators",
+      "name": "模拟器",
+      "description": "可直接打开和共享调用的本地模拟器副本",
+      "color": "#78b8ad"
+    },
+    {
+      "id": "bonds",
+      "name": "羁绊图标",
+      "description": "72组羁绊透明PNG与映射文件",
+      "color": "#ae80de"
+    },
+    {
+      "id": "cardbacks",
+      "name": "卡背素材",
+      "description": "独立卡背原图与设计复核资料",
+      "color": "#d6b65f"
+    }
+  ],
+  "items": [
+    {
+      "id": "card-role-icons-v023",
+      "category": "cards",
+      "type": "卡牌",
+      "version": "v023",
+      "status": "可用",
+      "name": "第1—13章卡牌与兵种图标",
+      "summary": "164张卡牌的统一风格实装预览，包含129张英雄、32张小兵、粮田、土块与粮仓3张资源卡，并保留独立PNG图层、组件复用关系、卡牌清单和组装配方。评级仅由边框颜色表达。",
+      "facts": [
+        "164张卡牌",
+        "共用卡框",
+        "无评级字母"
+      ],
+      "preview": "assembled/hero_CH09_N10.png",
+      "previewMode": "cardback",
+      "open": "cards.html",
+      "downloadPage": "downloads.html",
+      "secondary": {
+        "label": "组件预览 ↗",
+        "href": "components.html"
+      },
+      "call": "cards.html"
+    },
+    {
+      "id": "barracks-hud-v020",
+      "category": "simulators",
+      "type": "兵营模拟器",
+      "version": "v020",
+      "status": "在线副本",
+      "name": "36种兵营 HUD 模拟器",
+      "summary": "36种兵营素材的一体圆角方块展示。可切换血量、暂停和重置出兵CD，并对照我方蓝边、敌方红边的34px战场兵营。",
+      "facts": [
+        "36种兵营",
+        "头像与兵种图标",
+        "血量/CD演示"
+      ],
+      "preview": "previews/barracks-hud-v020.png",
+      "open": "simulators/barracks-hud-v020-20261021/index.html#battle-barracks",
+      "call": "simulators/barracks-hud-v020-20261021/index.html#battle-barracks"
+    },
+    {
+      "id": "troop-width-health-v095",
+      "category": "simulators",
+      "type": "战斗模拟器",
+      "version": "v095",
+      "status": "在线副本",
+      "name": "39兵种宽度、血条与动作模拟器",
+      "summary": "用于39兵种全量战场预览、共享动作、兵种尺寸、血条、兵营、地图与战斗效果检查，保留批量兵种入口参数。",
+      "facts": [
+        "39兵种",
+        "共享动作",
+        "战斗与调节面板"
+      ],
+      "preview": "previews/troop-width-health-v095.png",
+      "open": "simulators/troop-width-health-v095/index.html?v=troop-width-health-v095&motion=shared&art=approved&preview=battle&batch=allTroops",
+      "call": "simulators/troop-width-health-v095/index.html?v=troop-width-health-v095&motion=shared&art=approved&preview=battle&batch=allTroops"
+    },
+    {
+      "id": "bonds-72-v021",
+      "category": "bonds",
+      "type": "透明PNG",
+      "version": "v021",
+      "status": "完整交付",
+      "name": "72组羁绊图标",
+      "summary": "72组羁绊的透明PNG资源，包含320px、128px、96px三套尺寸，以及名称映射、透明边缘检查和手机32px预览。",
+      "facts": [
+        "72组羁绊",
+        "216个PNG",
+        "3套尺寸"
+      ],
+      "preview": "previews/bonds-72-v021.png",
+      "previewMode": "contain",
+      "open": "resources/bonds-v021/evidence/全部72枚-128px透明总览.png",
+      "secondary": {
+        "label": "映射 CSV ↗",
+        "href": "resources/bonds-v021/mapping.csv"
+      },
+      "call": "resources/bonds-v021/icons-128/"
+    },
+    {
+      "id": "card-back-v024",
+      "category": "cardbacks",
+      "type": "卡背PNG",
+      "version": "v024",
+      "status": "原图",
+      "name": "黑金稻穗英雄卡背",
+      "summary": "黑纸与金色稻穗主题的独立英雄卡背原图，1024×1536 RGBA，并附设计复核记录。",
+      "facts": [
+        "1024×1536",
+        "RGBA",
+        "独立原图"
+      ],
+      "preview": "previews/card-back-v024.png",
+      "previewMode": "cardback",
+      "open": "resources/card-back-v024/英雄卡背-纸艺简化.png",
+      "download": "resources/card-back-v024/英雄卡背-纸艺简化.png",
+      "secondary": {
+        "label": "设计复核 ↗",
+        "href": "resources/card-back-v024/设计复核.md"
+      },
+      "call": "resources/card-back-v024/英雄卡背-纸艺简化.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿卡牌标记,正式组件assetId,透明PNG文件,卡牌数,实例数,说明
+亡,role-v021bw-亡,shared/role-icons-black-white-thick-ring/亡.png,2,2,
+全,刀 + 盾,两个独立圆形PNG竖排,,,组合标记
+刀,role-v021bw-刀,shared/role-icons-black-white-thick-ring/刀.png,42,42,
+医,role-v021bw-医,shared/role-icons-black-white-thick-ring/医.png,12,12,
+召,role-v021bw-召,shared/role-icons-black-white-thick-ring/召.png,2,2,
+城,role-v021bw-城,shared/role-icons-black-white-thick-ring/城.png,2,2,
+尸,role-v021bw-尸,shared/role-icons-black-white-thick-ring/尸.png,1,1,
+弓,role-v021bw-弓,shared/role-icons-black-white-thick-ring/弓.png,18,18,
+技,role-v021bw-技,shared/role-icons-black-white-thick-ring/技.png,1,1,
+敌,role-v021bw-敌,shared/role-icons-black-white-thick-ring/敌.png,4,4,
+术,role-v021bw-术,shared/role-icons-black-white-thick-ring/术.png,1,1,
+枪,role-v021bw-枪,shared/role-icons-black-white-thick-ring/枪.png,20,20,
+械,role-v021bw-械,shared/role-icons-black-white-thick-ring/械.png,17,17,
+火,role-v021bw-火,shared/role-icons-black-white-thick-ring/火.png,2,2,
+灯,role-v021bw-飞,shared/role-icons-black-white-thick-ring/飞.png,2,2,与飞共用单翼组件
+爆,role-v021bw-爆,shared/role-icons-black-white-thick-ring/爆.png,2,2,
+盾,role-v021bw-盾,shared/role-icons-black-white-thick-ring/盾.png,37,37,
+营,role-v021bw-营,shared/role-icons-black-white-thick-ring/营.png,1,1,
+象,role-v021bw-象,shared/role-icons-black-white-thick-ring/象.png,1,1,
+隐,role-v021bw-隐,shared/role-icons-black-white-thick-ring/隐.png,4,4,
+飞,role-v021bw-飞,shared/role-icons-black-white-thick-ring/飞.png,2,2,与灯共用单翼组件
+骑,role-v021bw-骑,shared/role-icons-black-white-thick-ring/骑.png,19,19,

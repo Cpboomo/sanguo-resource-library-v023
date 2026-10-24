@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark">
+  <title>第1—13章卡牌 · 彩色边框共用卡框版</title>
+  <link rel="stylesheet" href="gallery.css"><script src="gallery.js" defer></script>
+</head>
+<body>
+<main>
+  <header class="page-head">
+    <div><p class="eyebrow">第1—13章 · v023 · 164张卡统一风格</p><h1>卡牌图标实装资源</h1><p id="intro" class="muted">读取卡牌与组装清单…</p></div>
+    <nav class="downloads" aria-label="站点入口"><a class="primary" href="index.html">资源库主页 ↗</a><a href="compare.html">22类卡牌总览 ↗</a><a href="downloads.html">全部下载包 ↗</a><a id="download-components" href="role-icons-transparent-png.zip" download>20个透明图标 ZIP</a><a href="components.html">透明组件预览 ↗</a><a href="docs/兵种图标共用表.csv" download>兵种图标共用表 CSV</a><a href="docs/role-icon-usage.csv" download>图标使用关系 CSV</a><a href="docs/card-inventory.csv" download>全部卡牌清单 CSV</a><a href="manifest.json" download>组装配方 JSON</a></nav>
+  </header>
+  <div id="load-error" class="error" hidden><span></span><button id="reload" type="button">重新读取</button></div>
+  <div id="gallery" hidden>
+    <section class="filter-bar panel" aria-label="卡牌筛选">
+      <label>类型<select id="kind-filter"><option value="all">全部</option><option value="hero">英雄</option><option value="soldier">小兵</option><option value="resource">资源卡</option></select></label>
+      <label>章节<select id="chapter-filter"><option value="all">全部章节</option></select></label>
+      <label>边框颜色<select id="grade-filter"><option value="all">全部边框颜色</option></select></label>
+      <label class="search-label"><span>搜索</span><input id="card-search" type="search" placeholder="名字、国家或卡牌ID" autocomplete="off"></label>
+      <button type="button" id="reset-filter" class="text-button">重置</button><span id="filter-count" class="small filter-count"></span>
+    </section>
+    <section class="workspace" aria-label="卡牌与实际组装图层">
+      <div class="preview-panel panel">
+        <div class="selected-head"><div><h2 id="selected-name"></h2><p id="selected-meta" class="small"></p></div><a id="download-selected" download class="small-link">下载PNG ↓</a></div>
+        <div class="preview-tools"><div class="segmented" role="group" aria-label="预览背景"><button type="button" class="selected" data-background="checker" aria-pressed="true">棋盘</button><button type="button" data-background="white" aria-pressed="false">白底</button><button type="button" data-background="dark" aria-pressed="false">深底</button></div><label class="zoom-label">大小 <select id="zoom" aria-label="卡牌缩放"><option value="fit">适应完整卡牌</option><option value="1">100%</option><option value="1.3">130%</option><option value="2">200%</option></select></label></div>
+        <div id="preview-surface" class="preview-surface bg-checker"><div id="scaled-card"><div id="card-stack" aria-label="独立PNG图层实际叠加"></div></div></div>
+        <p class="preview-note" id="composition-note"></p><div id="image-error" class="image-error" hidden></div>
+        <div class="preview-footer"><a id="open-native" target="_blank" rel="noopener">打开合成PNG原图 ↗</a><button id="download-recipe" type="button" class="text-button">下载当前卡配方</button></div>
+      </div>
+      <aside class="roster-panel panel"><div class="panel-head"><h2>全部卡牌</h2><span id="roster-count" class="small"></span></div><div id="roster" class="roster" aria-label="筛选后的卡牌"></div><p id="empty-roster" class="empty" hidden>没有符合筛选的卡牌</p></aside>
+      <aside class="layers-panel panel"><div class="panel-head"><h2>实际组装图层</h2><button id="reset-layers" type="button" class="text-button">全部显示</button></div><p id="layer-count" class="small"></p><div id="layer-controls" class="layer-controls"></div><p id="reuse-summary" class="reuse-callout"></p></aside>
+    </section>
+    <section class="component-section" aria-labelledby="components-heading">
+      <div class="section-head"><div><h2 id="components-heading">独立透明PNG组件库</h2><p class="small">直接打开或下载原始组件，引用次数来自全部卡牌的组装配方。</p></div><span id="component-total" class="pill"></span></div>
+      <div class="library-filters"><label>范围<select id="library-scope"><option value="current">当前卡使用的组件</option><option value="shared">全库复用组件</option><option value="all">全库所有组件</option></select></label><label>类别<select id="category-filter"><option value="all">全部类别</option></select></label><input id="asset-search" type="search" placeholder="查找组件名称、ID或文件路径" aria-label="查找组件" autocomplete="off"><span id="library-count" class="small"></span></div>
+      <div id="components" class="components-grid"></div><p id="empty-components" class="empty" hidden>没有符合条件的组件</p><div class="load-more"><button id="more-components" type="button" hidden>显示更多组件</button></div>
+    </section>
+    <section class="reuse-section panel" aria-labelledby="reuse-heading"><div class="panel-head"><h2 id="reuse-heading">检查实际复用</h2><span class="small">同一 assetId → 同一PNG文件</span></div><p class="small">下表与上方组件筛选一致。“卡牌数”统计不同卡牌，“实例数”包含同一张卡内的重复使用。</p><div class="table-wrap"><table><thead><tr><th>组件 / assetId</th><th>当前卡</th><th>全库卡牌数</th><th>全库实例数</th><th>源PNG文件</th></tr></thead><tbody id="reuse-table"></tbody></table></div></section>
+    <details id="limitations" class="notes panel" hidden><summary>制作说明</summary><div id="limitations-content"></div></details>
+    <footer>预览主体由清单中的独立PNG叠加；完整卡PNG用于下载与左侧缩略图。</footer>
+  </div>
+</main>
+</body>
+</html>

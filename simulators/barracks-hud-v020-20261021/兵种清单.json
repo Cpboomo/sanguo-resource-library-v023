@@ -1,0 +1,1114 @@
+{
+  "version": "v020",
+  "count": 36,
+  "cardPoolCount": 32,
+  "combinationBarracksCount": 4,
+  "materialCount": 36,
+  "pendingMaterialCount": 0,
+  "excluded": {
+    "summons": [
+      "corpsePuppet",
+      "heroSpearPuppet"
+    ],
+    "actionReviewOnly": [
+      "daoDunDog"
+    ]
+  },
+  "sourceCardManifest": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/manifest.json",
+  "sourceActionRuntime": "/Volumes/ORICO/deepseek kimi weixin/simulators/02-动作模拟/battle-v036/runtime",
+  "units": [
+    {
+      "id": "blade",
+      "name": "刀兵",
+      "fullName": "刀兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "blade",
+      "level": 1,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_blade.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.9803921568627451,
+      "spriteSize": "101.2% 100.7843137254902%",
+      "spritePos": "33.33333333333333% 50.0%",
+      "pixelSize": [
+        253,
+        257
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        251,
+        256
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/blade.png",
+      "roleIcon": "role-icons/刀.png",
+      "roleIconLabel": "刀"
+    },
+    {
+      "id": "spear",
+      "name": "枪兵",
+      "fullName": "枪兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "spear",
+      "level": 2,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_spear.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.9923076923076923,
+      "spriteSize": "101.16279069767442% 100.76923076923077%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        261,
+        262
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        260,
+        261
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/spear.png",
+      "roleIcon": "role-icons/枪.png",
+      "roleIconLabel": "枪"
+    },
+    {
+      "id": "daoDun",
+      "name": "刀盾兵",
+      "fullName": "刀盾兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "shield",
+      "level": 4,
+      "headStatus": "action_idle",
+      "sourceHead": "/Volumes/ORICO/deepseek kimi weixin/simulators/02-动作模拟/battle-v036/runtime/dao_dun/idle.png",
+      "sourceSet": "4-combination-barracks",
+      "longName": false,
+      "ratio": 1.05679012345679,
+      "spriteSize": "119.62616822429905% 129.62962962962962%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        1024,
+        1050
+      ],
+      "alphaBounds": [
+        84,
+        120,
+        940,
+        930
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/daoDun.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "jiBing",
+      "name": "戟兵",
+      "fullName": "戟兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "spear",
+      "level": 7,
+      "headStatus": "action_idle",
+      "sourceHead": "/Volumes/ORICO/deepseek kimi weixin/simulators/02-动作模拟/battle-v036/runtime/ji_bing/idle.png",
+      "sourceSet": "4-combination-barracks",
+      "longName": false,
+      "ratio": 1.5577889447236182,
+      "spriteSize": "110.10752688172043% 175.87939698492463%",
+      "spritePos": "50.0% 50.11037527593819%",
+      "pixelSize": [
+        1024,
+        1050
+      ],
+      "alphaBounds": [
+        47,
+        227,
+        977,
+        824
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/jiBing.png",
+      "roleIcon": "role-icons/枪.png",
+      "roleIconLabel": "枪"
+    },
+    {
+      "id": "youJi",
+      "name": "游击兵",
+      "fullName": "游击兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "bow",
+      "level": 8,
+      "headStatus": "action_idle",
+      "sourceHead": "/Volumes/ORICO/deepseek kimi weixin/simulators/02-动作模拟/battle-v036/runtime/you_ji/idle.png",
+      "sourceSet": "4-combination-barracks",
+      "longName": false,
+      "ratio": 0.9719626168224299,
+      "spriteSize": "109.40170940170941% 109.03426791277258%",
+      "spritePos": "50.0% 49.42528735632184%",
+      "pixelSize": [
+        1024,
+        1050
+      ],
+      "alphaBounds": [
+        44,
+        43,
+        980,
+        1006
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/youJi.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "sheSheng",
+      "name": "射声兵",
+      "fullName": "射声兵",
+      "quality": "C",
+      "faction": "common",
+      "role": "bow",
+      "level": 9,
+      "headStatus": "action_idle",
+      "sourceHead": "/Volumes/ORICO/deepseek kimi weixin/simulators/02-动作模拟/battle-v036/runtime/she_sheng/idle.png",
+      "sourceSet": "4-combination-barracks",
+      "longName": false,
+      "ratio": 0.9832635983263598,
+      "spriteSize": "108.93617021276596% 109.8326359832636%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        1024,
+        1050
+      ],
+      "alphaBounds": [
+        42,
+        47,
+        982,
+        1003
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/sheSheng.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "b1_huangjin",
+      "name": "太平弓",
+      "fullName": "太平弓手",
+      "quality": "B",
+      "faction": "huangjin",
+      "role": "bow",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b1_huangjin.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8551724137931035,
+      "spriteSize": "100.80645161290323% 100.6896551724138%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        250,
+        292
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        249,
+        291
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b1_huangjin.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "b2_huangjin",
+      "name": "黄天骑",
+      "fullName": "黄天骑",
+      "quality": "B",
+      "faction": "huangjin",
+      "role": "cavalry",
+      "level": 5,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b2_huangjin.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 1.003831417624521,
+      "spriteSize": "101.14503816793894% 100.76628352490422%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        265,
+        263
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        264,
+        262
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b2_huangjin.png",
+      "roleIcon": "role-icons/骑.png",
+      "roleIconLabel": "骑"
+    },
+    {
+      "id": "b3_huangjin",
+      "name": "黄巾士",
+      "fullName": "黄巾力士",
+      "quality": "B",
+      "faction": "huangjin",
+      "role": "shield",
+      "level": 8,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b3_huangjin.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.9776951672862454,
+      "spriteSize": "100.76045627376426% 100.74349442379183%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        265,
+        271
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        264,
+        270
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b3_huangjin.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "b5_huangjin",
+      "name": "太平道",
+      "fullName": "太平道士",
+      "quality": "B",
+      "faction": "huangjin",
+      "role": "heal",
+      "level": 10,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b5_huangjin.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8316151202749141,
+      "spriteSize": "101.2396694214876% 100.6872852233677%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        245,
+        293
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        244,
+        292
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b5_huangjin.png",
+      "roleIcon": "role-icons/医.png",
+      "roleIconLabel": "医"
+    },
+    {
+      "id": "c_huang_guidao",
+      "name": "鬼道师",
+      "fullName": "鬼道师",
+      "quality": "A",
+      "faction": "huangjin",
+      "role": "magic",
+      "level": 12,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_huang_guidao.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8442028985507246,
+      "spriteSize": "100.85836909871244% 100.72463768115942%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        235,
+        278
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        234,
+        277
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_huang_guidao.png",
+      "roleIcon": "role-icons/术.png",
+      "roleIconLabel": "术"
+    },
+    {
+      "id": "c_huang_zombie",
+      "name": "僵尸兵",
+      "fullName": "僵尸兵",
+      "quality": "A",
+      "faction": "huangjin",
+      "role": "undead",
+      "level": 20,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_huang_zombie.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.9845559845559846,
+      "spriteSize": "100.7843137254902% 100.77220077220078%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        257,
+        261
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        256,
+        260
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_huang_zombie.png",
+      "roleIcon": "role-icons/尸.png",
+      "roleIconLabel": "尸"
+    },
+    {
+      "id": "b1_qun",
+      "name": "河北弓手",
+      "fullName": "河北弓手",
+      "quality": "B",
+      "faction": "qun",
+      "role": "bow",
+      "level": 9,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b1_qun.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.9074074074074074,
+      "spriteSize": "100.81632653061226% 100.74074074074073%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        247,
+        272
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        246,
+        271
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b1_qun.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "b2_qun",
+      "name": "金戈铁马",
+      "fullName": "金戈铁马",
+      "quality": "B",
+      "faction": "qun",
+      "role": "cavalry",
+      "level": 1,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b2_qun.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.8921568627450981,
+      "spriteSize": "100.73260073260073% 100.98039215686273%",
+      "spritePos": "50.0% 33.33333333333333%",
+      "pixelSize": [
+        275,
+        309
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        274,
+        307
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b2_qun.png",
+      "roleIcon": "role-icons/骑.png",
+      "roleIconLabel": "骑"
+    },
+    {
+      "id": "b3_qun",
+      "name": "金甲勇士",
+      "fullName": "金甲勇士",
+      "quality": "B",
+      "faction": "qun",
+      "role": "shield",
+      "level": 2,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b3_qun.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.847682119205298,
+      "spriteSize": "101.171875% 100.66225165562915%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        259,
+        304
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        258,
+        303
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b3_qun.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "b4_qun",
+      "name": "强石车",
+      "fullName": "强石车",
+      "quality": "B",
+      "faction": "qun",
+      "role": "siege",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b4_qun.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.7907801418439716,
+      "spriteSize": "100.89686098654708% 101.06382978723406%",
+      "spritePos": "50.0% 66.66666666666666%",
+      "pixelSize": [
+        225,
+        285
+      ],
+      "alphaBounds": [
+        1,
+        2,
+        224,
+        284
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b4_qun.png",
+      "roleIcon": "role-icons/械.png",
+      "roleIconLabel": "械"
+    },
+    {
+      "id": "c_qun_baima",
+      "name": "白马义从",
+      "fullName": "白马义从",
+      "quality": "A",
+      "faction": "qun",
+      "role": "cavalry",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_qun_baima.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.8934707903780069,
+      "spriteSize": "100.76923076923077% 101.03092783505154%",
+      "spritePos": "50.0% 33.33333333333333%",
+      "pixelSize": [
+        262,
+        294
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        261,
+        292
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_qun_baima.png",
+      "roleIcon": "role-icons/骑.png",
+      "roleIconLabel": "骑"
+    },
+    {
+      "id": "c_qun_xiang",
+      "name": "巨象甲兵",
+      "fullName": "巨象甲兵",
+      "quality": "A",
+      "faction": "qun",
+      "role": "elephant",
+      "level": 2,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_qun_xiang.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.8136645962732919,
+      "spriteSize": "101.14503816793894% 100.62111801242236%",
+      "spritePos": "33.33333333333333% 50.0%",
+      "pixelSize": [
+        265,
+        324
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        263,
+        323
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_qun_xiang.png",
+      "roleIcon": "role-icons/象.png",
+      "roleIconLabel": "象"
+    },
+    {
+      "id": "b2_wei",
+      "name": "虎豹骑",
+      "fullName": "虎豹骑",
+      "quality": "B",
+      "faction": "wei",
+      "role": "cavalry",
+      "level": 4,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b2_wei.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8666666666666667,
+      "spriteSize": "100.76923076923077% 100.66666666666666%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        262,
+        302
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        261,
+        301
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b2_wei.png",
+      "roleIcon": "role-icons/骑.png",
+      "roleIconLabel": "骑"
+    },
+    {
+      "id": "b3_wei",
+      "name": "虎卫军",
+      "fullName": "虎卫军",
+      "quality": "B",
+      "faction": "wei",
+      "role": "shield",
+      "level": 8,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b3_wei.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.7507987220447284,
+      "spriteSize": "100.85106382978724% 100.63897763578275%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        237,
+        315
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        236,
+        314
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b3_wei.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "b4_wei",
+      "name": "霹雳车",
+      "fullName": "霹雳车",
+      "quality": "B",
+      "faction": "wei",
+      "role": "siege",
+      "level": 9,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b4_wei.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8120805369127517,
+      "spriteSize": "100.82644628099173% 101.00671140939596%",
+      "spritePos": "50.0% 66.66666666666666%",
+      "pixelSize": [
+        244,
+        301
+      ],
+      "alphaBounds": [
+        1,
+        2,
+        243,
+        300
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b4_wei.png",
+      "roleIcon": "role-icons/械.png",
+      "roleIconLabel": "械"
+    },
+    {
+      "id": "b5_wei",
+      "name": "随军医士",
+      "fullName": "随军医士",
+      "quality": "B",
+      "faction": "wei",
+      "role": "heal",
+      "level": 1,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b5_wei.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.8145695364238411,
+      "spriteSize": "100.8130081300813% 100.66225165562915%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        248,
+        304
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        247,
+        303
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b5_wei.png",
+      "roleIcon": "role-icons/医.png",
+      "roleIconLabel": "医"
+    },
+    {
+      "id": "c_wei_baowei",
+      "name": "豹卫军",
+      "fullName": "豹卫军",
+      "quality": "A",
+      "faction": "wei",
+      "role": "blade",
+      "level": 4,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_wei_baowei.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.9487179487179487,
+      "spriteSize": "100.77220077220078% 101.0989010989011%",
+      "spritePos": "50.0% 33.33333333333333%",
+      "pixelSize": [
+        261,
+        276
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        260,
+        274
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_wei_baowei.png",
+      "roleIcon": "role-icons/刀.png",
+      "roleIconLabel": "刀"
+    },
+    {
+      "id": "c_wei_huwei",
+      "name": "虎卫军",
+      "fullName": "虎卫军",
+      "quality": "A",
+      "faction": "wei",
+      "role": "shield",
+      "level": 1,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_wei_huwei.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.7986348122866894,
+      "spriteSize": "100.85470085470085% 101.02389078498292%",
+      "spritePos": "50.0% 66.66666666666666%",
+      "pixelSize": [
+        236,
+        296
+      ],
+      "alphaBounds": [
+        1,
+        2,
+        235,
+        295
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_wei_huwei.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "b1_shu",
+      "name": "益州弓手",
+      "fullName": "益州弓手",
+      "quality": "B",
+      "faction": "shu",
+      "role": "bow",
+      "level": 6,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b1_shu.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.8695652173913043,
+      "spriteSize": "100.76923076923077% 100.66889632107024%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        262,
+        301
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        261,
+        300
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b1_shu.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "b2_shu",
+      "name": "汉中突骑",
+      "fullName": "汉中突骑",
+      "quality": "B",
+      "faction": "shu",
+      "role": "cavalry",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b2_shu.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.9206896551724137,
+      "spriteSize": "101.12359550561798% 100.6896551724138%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        270,
+        292
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        269,
+        291
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b2_shu.png",
+      "roleIcon": "role-icons/骑.png",
+      "roleIconLabel": "骑"
+    },
+    {
+      "id": "b4_shu",
+      "name": "旋刃车",
+      "fullName": "旋刃车",
+      "quality": "B",
+      "faction": "shu",
+      "role": "siege",
+      "level": 6,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b4_shu.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8850174216027874,
+      "spriteSize": "100.78740157480314% 101.04529616724737%",
+      "spritePos": "50.0% 33.33333333333333%",
+      "pixelSize": [
+        256,
+        290
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        255,
+        288
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b4_shu.png",
+      "roleIcon": "role-icons/械.png",
+      "roleIconLabel": "械"
+    },
+    {
+      "id": "b5_shu",
+      "name": "蜀中医士",
+      "fullName": "蜀中医士",
+      "quality": "B",
+      "faction": "shu",
+      "role": "heal",
+      "level": 7,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b5_shu.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.7612456747404844,
+      "spriteSize": "101.36363636363637% 100.69204152249137%",
+      "spritePos": "66.66666666666666% 50.0%",
+      "pixelSize": [
+        223,
+        291
+      ],
+      "alphaBounds": [
+        2,
+        1,
+        222,
+        290
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b5_shu.png",
+      "roleIcon": "role-icons/医.png",
+      "roleIconLabel": "医"
+    },
+    {
+      "id": "c_shu_huben",
+      "name": "虎贲",
+      "fullName": "虎贲",
+      "quality": "A",
+      "faction": "shu",
+      "role": "blade",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_shu_huben.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8642384105960265,
+      "spriteSize": "100.76628352490422% 100.66225165562915%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        263,
+        304
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        262,
+        303
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_shu_huben.png",
+      "roleIcon": "role-icons/刀.png",
+      "roleIconLabel": "刀"
+    },
+    {
+      "id": "c_shu_kongming",
+      "name": "孔明灯",
+      "fullName": "孔明灯",
+      "quality": "A",
+      "faction": "shu",
+      "role": "lantern",
+      "level": 9,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_c_shu_kongming.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.7859649122807018,
+      "spriteSize": "100.89285714285714% 101.05263157894737%",
+      "spritePos": "50.0% 33.33333333333333%",
+      "pixelSize": [
+        226,
+        288
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        225,
+        286
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_shu_kongming.png",
+      "roleIcon": "role-icons/飞.png",
+      "roleIconLabel": "飞"
+    },
+    {
+      "id": "b1_wu",
+      "name": "江东弓手",
+      "fullName": "江东弓手",
+      "quality": "B",
+      "faction": "wu",
+      "role": "bow",
+      "level": 2,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_b1_wu.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.868421052631579,
+      "spriteSize": "100.75757575757575% 100.6578947368421%",
+      "spritePos": "50.0% 50.0%",
+      "pixelSize": [
+        266,
+        306
+      ],
+      "alphaBounds": [
+        1,
+        1,
+        265,
+        305
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b1_wu.png",
+      "roleIcon": "role-icons/弓.png",
+      "roleIconLabel": "弓"
+    },
+    {
+      "id": "b3_wu",
+      "name": "巾帼卫",
+      "fullName": "巾帼卫",
+      "quality": "B",
+      "faction": "wu",
+      "role": "shield",
+      "level": 3,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_wu-new-b3_wu.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8562628336755647,
+      "spriteSize": "100.0% 100.0%",
+      "spritePos": "0% 0%",
+      "pixelSize": [
+        834,
+        974
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        834,
+        974
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b3_wu.png",
+      "roleIcon": "role-icons/盾.png",
+      "roleIconLabel": "盾"
+    },
+    {
+      "id": "b4_wu",
+      "name": "劲弩车",
+      "fullName": "劲弩车",
+      "quality": "B",
+      "faction": "wu",
+      "role": "siege",
+      "level": 4,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_wu-new-b4_wu.png",
+      "sourceSet": "32-card-pool",
+      "longName": false,
+      "ratio": 0.8371859296482412,
+      "spriteSize": "100.0% 100.0%",
+      "spritePos": "0% 0%",
+      "pixelSize": [
+        833,
+        995
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        833,
+        995
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b4_wu.png",
+      "roleIcon": "role-icons/械.png",
+      "roleIconLabel": "械"
+    },
+    {
+      "id": "b5_wu",
+      "name": "江东医士",
+      "fullName": "江东医士",
+      "quality": "B",
+      "faction": "wu",
+      "role": "heal",
+      "level": 5,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_wu-new-b5_wu.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.7754880694143167,
+      "spriteSize": "100.0% 100.0%",
+      "spritePos": "0% 0%",
+      "pixelSize": [
+        715,
+        922
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        715,
+        922
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/b5_wu.png",
+      "roleIcon": "role-icons/医.png",
+      "roleIconLabel": "医"
+    },
+    {
+      "id": "c_wu_firebow",
+      "name": "火攻弓手",
+      "fullName": "火攻弓手",
+      "quality": "A",
+      "faction": "wu",
+      "role": "bow",
+      "level": 6,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_wu-new-c_wu_firebow.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.9551208285385501,
+      "spriteSize": "100.0% 100.0%",
+      "spritePos": "0% 0%",
+      "pixelSize": [
+        830,
+        869
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        830,
+        869
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_wu_firebow.png",
+      "roleIcon": "role-icons/火.png",
+      "roleIconLabel": "火"
+    },
+    {
+      "id": "c_wu_jieying",
+      "name": "劫营步兵",
+      "fullName": "劫营步兵",
+      "quality": "A",
+      "faction": "wu",
+      "role": "blade",
+      "level": 5,
+      "headStatus": "card_material",
+      "sourceHead": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-全图标兵种-v012-20261018/unique/portraits/soldier_wu-new-c_wu_jieying.png",
+      "sourceSet": "32-card-pool",
+      "longName": true,
+      "ratio": 0.9797619047619047,
+      "spriteSize": "100.0% 100.0%",
+      "spritePos": "0% 0%",
+      "pixelSize": [
+        823,
+        840
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        823,
+        840
+      ],
+      "displayMode": "avatar-only",
+      "avatarFile": "assets/c_wu_jieying.png",
+      "roleIcon": "role-icons/刀.png",
+      "roleIconLabel": "刀"
+    }
+  ],
+  "displayRule": {
+    "character": "avatar-only",
+    "weapon": "hidden",
+    "alignment": "center",
+    "roleIcon": "top-left-overlap-allowed",
+    "nameFontRatio": "1/3 tile width"
+  },
+  "iconSystem": {
+    "source": "/Volumes/ORICO/CodexProjects/微信界面/outputs/第1-13章卡牌-黑白圆形兵种图标实装-v019-20261021/shared/current-role-icons-v019-bw",
+    "style": "round-black-white",
+    "referenceCard": "hero:CH09_N10",
+    "placement": "top-left-overlap-allowed"
+  }
+}

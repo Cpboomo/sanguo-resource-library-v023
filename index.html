@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>三国项目资源库</title>
+  <link rel="stylesheet" href="library.css">
+  <script src="library.js" defer></script>
+</head>
+<body>
+<main>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">RESOURCE COLLECTION · 2026.10.22</p>
+      <h1>三国项目资源库</h1>
+      <p class="intro">这里是分类主页。卡牌、模拟器、羁绊图标和卡背都作为独立资源收集，供预览、下载和其他项目直接调用。</p>
+    </div>
+    <div class="hero-count"><strong id="resource-total">5</strong><span>当前资源</span></div>
+  </header>
+
+  <nav id="category-nav" class="category-nav" aria-label="资源分类"></nav>
+
+  <section class="catalog-head">
+    <div><p class="eyebrow">COLLECTIONS</p><h2>按你提供的内容分类</h2></div>
+    <p>每个条目保留明确版本、在线入口和可复用文件路径。</p>
+  </section>
+  <div id="resource-sections"></div>
+
+  <section class="usage panel" aria-labelledby="usage-title">
+    <div><p class="eyebrow">DIRECT USE</p><h2 id="usage-title">给其他人调用</h2></div>
+    <p>点击条目里的“复制路径”，即可获得站内稳定相对路径；线上发布后会自动复制完整公网地址。资源清单也可由程序读取。</p>
+    <a href="resources.json">打开机器可读清单 JSON ↗</a>
+  </section>
+  <footer>资源主页只按已收到的资料建立分类；新增资料会在确认内容后继续归档。</footer>
+</main>
+</body>
+</html>

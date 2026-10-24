@@ -1,0 +1,15 @@
+{
+  "source": "/Volumes/ORICO/deepseek kimi weixin/simulators/04-小兵卡牌/barracks-hud-v008-20261015/index.html",
+  "referenceHeads": [
+    "blade",
+    "spear",
+    "b1_huangjin",
+    "b2_huangjin",
+    "b3_huangjin",
+    "b5_huangjin",
+    "c_huang_guidao",
+    "c_huang_zombie"
+  ],
+  "sourceIcons": "/Volumes/ORICO/deepseek kimi weixin/simulators/04-小兵卡牌/role-icons-v001-20261014",
+  "method": "original PNG bytes copied, no repaint; original CSS atlas rectangles preserved"
+}

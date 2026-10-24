@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <base href="../../">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <meta name="theme-color" content="#9f98a9">
+  <link rel="icon" href="data:,">
+  <title>动作原版移植 · 新图素 v001</title>
+  <link rel="stylesheet" href="./previews/troop-width-health-v095/styles.css?v=troop-width-health-v095">
+</head>
+<body>
+  <svg width="0" height="0" aria-hidden="true" style="position:absolute;pointer-events:none"><defs>
+    <filter id="troopWhiteOutline" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1.3" result="expanded"/>
+      <feFlood flood-color="white" result="white"/>
+      <feComposite in="white" in2="expanded" operator="in" result="edge"/>
+      <feMerge><feMergeNode in="edge"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs></svg>
+
+<div id="editorShell">
+  <div class="phone-wrap">
+    <div class="phone" id="phoneFrame">
+      <main id="app">
+        <header class="hud">
+          <div class="hud-title"><strong><i class="trend-tag">汉末 35</i>三十九兵种 · 纵览/自由混战</strong><span id="clock">0.00s</span></div>
+          <div class="roster" id="roster" aria-label="当前地图兵种批次"></div>
+        </header>
+
+        <section id="field" aria-label="完整地图、兵营持续出兵和全兵种会战预览">
+          <div id="board" aria-hidden="true"></div>
+          <div id="overviewGrid" class="overview-grid" aria-label="全部三十九个兵种汇总" hidden></div>
+          <div class="battle-ribbon"><span id="battleState">载入刀盾狗上下对战…</span><span id="modeState">新兵种 1</span></div>
+        </section>
+
+        <footer class="controls">
+          <div class="mode-bar" role="group" aria-label="展示模式切换">
+            <button id="modeBattle" type="button" class="mode-btn on">对战</button>
+            <button id="modeShow" type="button" class="mode-btn">展示</button>
+            <button id="modeAdjust" type="button" class="mode-btn">调整</button>
+            <span id="sizeRow" hidden>
+              <label for="troopSizeRange">小兵</label><input id="troopSizeRange" data-size-key="troopScale" type="range" min="0" max="100" step="0.1" value="50"><b id="troopSizeValue">170%</b>
+            </span>
+          </div>
+          <div class="status"><span id="statusText">v035 全兵种 · 红上蓝下纵向对战</span><span id="assetState">0/176</span></div>
+          <div class="buttons">
+            <button id="pauseButton" type="button">暂停</button>
+            <button id="resetButton" type="button">重新战斗</button>
+            <button id="speedButton" type="button">0.5×</button>
+            <button id="reviewButton" type="button">特效轮播</button>
+            <button id="batchButton" type="button">看新增</button>
+            <button id="frameToggleButton" type="button" aria-pressed="false">显示小兵底图</button>
+          </div>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+  <aside id="editorPanel" aria-label="打斗效果编辑面板">
+    <div class="panel-heading"><h1 id="panelHeading">动作原版移植 <i>v089</i></h1><button id="panelClose" type="button" aria-label="关闭调节面板">关闭</button></div>
+    <section class="troop-rates-entry">
+      <h2>逐兵种调节</h2>
+      <button id="troopRatesOpen" class="wide" type="button">兵种设置 · 出兵 / 攻速 →</button>
+      <div class="hint">39个兵种单独设置，自动保存。</div>
+    </section>
+    <section>
+      <h2>图素来源</h2>
+      <label class="row">图素 <select id="artSource" class="grow"><option value="approved">新图素 · 上下方向动作</option><option value="original">原版图素 · v036.3</option></select></label>
+      <label class="row">逐个看 <select id="inspectApproved" class="grow"><option value="">选择新图素兵种</option></select></label>
+      <div class="hint">已接入素材页中 34 种兵、66 组上下方向三态。游击兵和射声兵暂缺朝上，另 5 种沿用现有素材。地图、血条和战斗规则保留。</div>
+    </section>
+    <section>
+      <h2>模式</h2>
+      <div class="seg" role="group">
+        <button id="panelModeBattle" type="button">对战</button>
+        <button id="panelModeShow" type="button" class="on">展示</button>
+        <button id="panelModeAdjust" type="button">调整</button>
+      </div>
+    </section>
+    <section>
+      <h2>战斗控制</h2>
+      <div class="seg four">
+        <button id="panelPause" type="button">暂停</button>
+        <button id="panelReset" type="button">重开</button>
+        <button id="panelSpeed" type="button">0.5×</button>
+        <button id="panelReview" type="button">轮播</button>
+      </div>
+      <label class="row">批次 <select id="panelBatch" class="grow"></select></label>
+      <label class="row">碰撞距离 <input id="panelCollisionScale" aria-label="碰撞距离" type="range" min="0.25" max="2" step="0.01" value="1"><span class="collision-scale-value"><input id="panelCollisionScaleNumber" aria-label="碰撞距离百分比" type="number" min="25" max="200" step="1" value="100">%</span></label>
+      <p class="hint">以脚下阴影为锚点；同种队友无碰撞，不同队友可重叠穿行。刀盾近战、枪戟中距、弓弩远射、器械与飞行远投。</p>
+      <label class="chk"><input id="panelCollision" type="checkbox" checked> 碰撞（脚底碰撞、队友可穿行）</label>
+      <label class="chk"><input id="panelAreaDamage" type="checkbox" checked> AOE伤害兵营和主将</label>
+      <p class="hint">兵营被摧毁后停止出兵，不重建。关闭此项可单独测试完整44营持续出兵的压力。</p>
+      <div class="hint" id="panelStatus">载入中…</div>
+    </section>
+    <section id="combatTuning">
+      <h2>数值调节</h2>
+      <label class="row">攻击速度 <input id="panelAttackSpeed" type="range" min="0.5" max="4" step="0.25" value="1.5"><b id="panelAttackSpeedV">1.5×</b></label>
+      <label class="row">弓箭攻击 <input id="panelArcherAttack" type="range" min="0.1" max="10" step="0.05" value="0.9"><b id="panelArcherAttackV">90%</b></label>
+      <label class="row">骑兵血量 <input id="panelCavalryHp" type="range" min="0.1" max="10" step="0.05" value="1.25"><b id="panelCavalryHpV">125%</b></label>
+      <label class="row">大象血量 <input id="panelElephantHp" type="range" min="0.1" max="10" step="0.05" value="1.25"><b id="panelElephantHpV">125%</b></label>
+      <div class="hint" id="combatReadout">弓箭攻击降低10%，骑兵和大象血量增加25%。</div>
+      <button id="panelCombatReset" type="button" class="wide">恢复数值默认</button>
+      <div class="hint">攻击速度 0.5–4×；攻击、血量 10%–1000%，每格5%。红蓝双方同时生效；弓骑也算弓箭手。调节血量保留剩余比例，重开后满血。</div>
+    </section>
+    <section>
+      <h2>兵种对战</h2>
+      <label class="row">兵种 <select id="panelCustomKind" class="grow"></select></label>
+      <label class="row">每方数量 <input id="panelCustomCount" type="range" min="1" max="20" step="1" value="6"><b id="panelCustomCountV">6</b></label>
+      <button id="panelCustomStart" type="button" class="wide">生成自由混战</button>
+      <div class="hint">任选兵种与数量，在大地图上蓝红双方自由索敌对战。</div>
+    </section>
+    <section>
+      <h2>动作调节</h2>
+      <label class="row">动作速度 <input id="panelTimeScale" type="range" min="0.25" max="4" step="0.25" value="1"><b id="panelTimeScaleV">1×</b></label>
+      <label class="row">打击停顿 <input id="panelImpactFeel" type="range" min="0" max="2" step="0.1" value="1"><b id="panelImpactFeelV">100%</b></label>
+      <div class="hint">速度作用于全部动作与弹道；打击停顿只缩放命中瞬间的硬直与受击反应，不影响攻击节奏。</div>
+    </section>
+    <section id="mapTuning">
+      <h2>地图</h2>
+      <label class="row">地图亮暗 <input id="panelMapBrightness" type="range" min="0.5" max="1.5" step="0.05" value="1"><b id="panelMapBrightnessV">100%</b></label>
+      <label class="row">地图大小 <input id="panelMapScale" type="range" min="0.75" max="1.25" step="0.05" value="1"><b id="panelMapScaleV">100%</b></label>
+      <label class="row">地图上下 <input id="panelMapY" type="range" min="-160" max="160" step="1" value="0"><b id="panelMapYV">0</b></label>
+      <div class="hint">亮暗只影响底图。大小与上下移动同步地图和小兵的位置。</div>
+    </section>
+    <section id="frameTuning">
+      <h2>敌我底框</h2>
+      <label class="row frame-size-row">小兵底图大小 <input id="panelFrameScale" aria-label="小兵底图大小" type="range" min="0.5" max="1.5" step="0.05" value="1"><span class="frame-scale-value"><input id="panelFrameScaleNumber" aria-label="小兵底图大小百分比" type="number" min="50" max="150" step="5" value="100">%</span></label>
+      <label class="row frame-size-row">其他底图大小 <input id="panelOtherFrameScale" aria-label="其他兵种底图大小" type="range" min="0.5" max="1.5" step="0.05" value="1"><span class="frame-scale-value"><input id="panelOtherFrameScaleNumber" aria-label="其他兵种底图大小百分比" type="number" min="50" max="150" step="5" value="100">%</span></label>
+      <div class="hint">大小分开调节：小兵为普通步兵；其他为骑兵、大象、飞行兵和器械等组合兵。100% 居中，可调 50%–150%，每格5%。亮暗和显示开关共用。</div>
+      <label class="row">底框亮暗 <input id="panelFrameBrightness" type="range" min="0.5" max="1.5" step="0.05" value="1"><b id="panelFrameBrightnessV">100%</b></label>
+      <button id="panelFrameToggle" type="button" class="wide" aria-pressed="false">显示小兵底图</button>
+      <div class="hint">兵营恢复原底色，使用我方青蓝、敌方砖红包边；小兵默认无底图。亮暗只影响可选的小兵底图。</div>
+      <label class="row">无底框标识大小 <input id="panelBareHudScale" type="range" min="0.65" max="1.1" step="0.05" value="0.9"><b id="panelBareHudScaleV">90%</b></label>
+      <label class="row">无底框标识间距 <input id="panelBareHudGap" type="range" min="1" max="10" step="1" value="3"><b id="panelBareHudGapV">3px</b></label>
+      <div class="hint">隐藏底框后，合成等级和血条靠近人物顶部，并跟随人物动作。</div>
+    </section>
+    <section>
+      <h2>尺寸调整</h2>
+      <label class="row">小兵整体 <input id="panelTroop" data-size-key="troopScale" type="range" min="0" max="100" step="0.1" value="50"><b id="panelTroopV">170%</b></label>
+      <label class="row">· 骑兵 <input id="panelCatMounted" data-size-key="mounted" type="range" min="0" max="100" step="0.1" value="50"><b id="panelCatMountedV">80%</b></label>
+      <label class="row">· 飞行兵 <input id="panelCatFlying" data-size-key="flying" type="range" min="0" max="100" step="0.1" value="50"><b id="panelCatFlyingV">65%</b></label>
+      <label class="row">· 大象 <input id="panelCatGiant" data-size-key="giant" type="range" min="0" max="100" step="0.1" value="50"><b id="panelCatGiantV">55%</b></label>
+      <label class="row">· 器械 <input id="panelCatMachine" data-size-key="machine" type="range" min="0" max="100" step="0.1" value="50"><b id="panelCatMachineV">105%</b></label>
+      <div class="hint">中点为默认：整体170% · 骑兵80% · 飞行65% · 大象55% · 器械105%。向左缩小、向右放大，范围50%–500%，每格5%；最终大小为整体×分类。</div>
+      <div class="hint" id="realReadout">--</div>
+      <button id="panelViewReset" type="button" class="wide">重置视图</button>
+    </section>
+    <section id="panelRecords">
+      <h2>调整记录</h2>
+      <label class="row">名称 <input id="panelRecordName" type="text" placeholder="如：大象压阵" class="grow"></label>
+      <button id="panelRecordSave" type="button" class="wide">保存当前调节</button>
+      <button id="panelSettingsExport" type="button" class="wide" data-settings-export>导出当前数值（JSON）</button>
+      <div id="panelExportStatus" class="hint settings-export-status" role="status" hidden></div>
+      <div id="panelRecordList" class="record-list"></div>
+      <div class="hint">调节值自动保存到本机，重开自动恢复；命名记录可反复套用。</div>
+    </section>
+    <div id="troopRatesPage" hidden>
+      <div id="troopRatesNav"><button id="troopRatesBack" type="button">← 返回调整</button><span>六类兵种 · 折叠设置</span></div>
+      <section id="troopRatesSummary">
+        <h2>兵种分类设置</h2>
+        <p class="hint">点击分类展开单个兵种，旁边的“全局设置”统一调整该类。红蓝双方共用。</p>
+        <p class="hint">出兵间隔：0.5–60秒，越小越快；攻速：0.1–5倍，越大越快。人口上限每方100。</p>
+        <button id="troopRatesSettingsExport" type="button" class="wide" data-settings-export>导出当前数值（JSON）</button>
+        <p id="troopRatesExportStatus" class="hint settings-export-status" role="status" hidden></p>
+        <button id="troopRatesResetAll" type="button" class="wide">恢复全部39兵种默认</button>
+        <p class="hint" id="troopRatesStatus" role="status">调节即时生效，自动保存到本机。</p>
+      </section>
+      <div id="troopRatesList" aria-label="全部39个兵种的出兵和攻速设置"></div>
+    </div>
+  </aside>
+</div>
+  <script src="./runtime-geometry-v048.js?v=level-cd-v092"></script>
+  <script src="./previews/troop-width-health-v095/directional-pack.js?v=troop-width-health-v095"></script>
+  <script src="./previews/level-cd-v092/troop-core-metrics.js?v=level-cd-v092"></script>
+  <script src="./previews/troop-width-health-v095/directional-runtime.js?v=troop-width-health-v095"></script>
+  <script src="./art-pack.js?v=first-v001-restored"></script>
+  <script src="./terrain.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/camp-navigation.js?v=level-cd-v092"></script>
+  <script src="./shared-motion.js?v=cavalry-charge-v033"></script>
+  <script src="./motion-feedback.js?v=level-cd-v092"></script>
+  <script src="./troop-sizing.js?v=level-cd-v092"></script>
+  <script src="./charge-motion.js?v=level-cd-v092"></script>
+  <script src="./charge-launch.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/troop-outline.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/sprite-batch.js?v=level-cd-v092"></script>
+  <script src="./damage-canvas.js?v=level-cd-v092"></script>
+  <script src="./previews/troop-width-health-v095/crowd-canvas.js?v=troop-width-health-v095"></script>
+  <script src="./charge-feedback.js?v=level-cd-v092"></script>
+  <script src="./heavy-combat.js?v=level-cd-v092"></script>
+  <script src="./combat-timing.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/projectile-anchors.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/barracks-stress.js?v=level-cd-v092"></script>
+  <script src="./barracks-skin-v063.js"></script>
+  <script src="./previews/level-cd-v092/camp-skin.js?v=level-cd-v092"></script>
+  <script src="./previews/level-cd-v092/troop-rates.js"></script>
+  <script src="./previews/troop-width-health-v095/app.js?v=troop-width-health-v095"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>22类图标 · 彩色边框卡牌总览</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#111311;color:#f7f7f3;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+    header{position:sticky;top:0;z-index:2;padding:17px 24px;background:#141714ed;border-bottom:1px solid #394139}h1{margin:0 0 5px;font-size:25px}
+    p{margin:0;color:#aeb9ae;font-size:13px}header a{color:#7ff0a6}main{max-width:1440px;margin:auto;padding:22px}
+    .grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:15px}article{position:relative;background:#1d211d;border:1px solid #3d493d;border-radius:13px;padding:12px 10px 10px;text-align:center}
+    article img{display:block;width:100%;height:310px;object-fit:contain}.tag{position:absolute;left:9px;top:9px;z-index:1;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:#070807;border:2px solid #f4c84d;font-size:20px;font-weight:700}
+    .caption{display:flex;align-items:baseline;justify-content:center;gap:8px}b{font-size:15px}span{font-size:11px;color:#aeb9ae}
+    @media(max-width:1050px){.grid{grid-template-columns:repeat(4,1fr)}}@media(max-width:650px){main{padding:12px}.grid{grid-template-columns:repeat(2,1fr);gap:9px}article img{height:260px}}
+  </style>
+</head>
+<body>
+  <header><h1>22类图标 · 彩色边框卡牌总览</h1><p>164张卡已统一为共用卡框；评级只用边框颜色区分。 <a href="cards.html">进入全部卡牌资源</a></p></header>
+  <main><section id="grid" class="grid" aria-live="polite"></section></main>
+  <script>
+    const glyphs=['亡','全','刀','医','召','城','尸','弓','技','敌','术','枪','械','火','灯','爆','盾','营','象','隐','飞','骑'];
+    fetch('manifest.json').then(r=>r.json()).then(manifest=>{
+      const grid=document.querySelector('#grid');
+      const cards=manifest.cards;
+      for(const glyph of glyphs){
+        const card=cards.find(item=>(item.roleGlyphs||[]).includes(glyph));
+        if(!card) continue;
+        const article=document.createElement('article');
+        article.innerHTML=`<div class="tag">${glyph}</div><img src="${card.image}" alt="${glyph} ${card.name}"><div class="caption"><b>${card.name}</b><span>${card.gradeDisplay} · ${glyph}</span></div>`;
+        grid.append(article);
+      }
+    }).catch(()=>{document.querySelector('#grid').textContent='卡牌清单读取失败，请刷新页面。'});
+  </script>
+</body>
+</html>
