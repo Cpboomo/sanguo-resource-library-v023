@@ -1,0 +1,2509 @@
+{
+  "version": "v026",
+  "date": "2026-10-26",
+  "checked": 161,
+  "repaired": 69,
+  "scope": "头像缺口与残留边缘精修；复用原资产ID、画布和卡牌公共结构。",
+  "records": [
+    {
+      "cardId": "hero:CH01_N01",
+      "name": "高升",
+      "assetId": "portrait-hero_CH01_N01",
+      "file": "unique/portraits/hero_CH01_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N02",
+      "name": "邓茂",
+      "assetId": "portrait-hero_CH01_N02",
+      "file": "unique/portraits/hero_CH01_N02.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N03",
+      "name": "严政",
+      "assetId": "portrait-hero_CH01_N03",
+      "file": "unique/portraits/hero_CH01_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N04",
+      "name": "裴元绍",
+      "assetId": "portrait-hero_CH01_N04",
+      "file": "unique/portraits/hero_CH01_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N05",
+      "name": "张曼成",
+      "assetId": "portrait-hero_CH01_N05",
+      "file": "unique/portraits/hero_CH01_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "a585bd14181de39db2130108315627f61079e8ee8779028e9761d10a5a65666b",
+      "generatedSha256": "32114aecfa41c76cfcab3f66993f8ace478868e1ac8f79ea3fd0cfbf24947386",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 49464,
+        "transparentPixels": 16896,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        237,
+        280
+      ],
+      "transparentMargin": 3,
+      "sha256": "1861414b0630577ca022775b3c24da6d67c998385eac41f9bb0646a07c86ebab"
+    },
+    {
+      "cardId": "hero:CH01_N06",
+      "name": "波才",
+      "assetId": "portrait-hero_CH01_N06",
+      "file": "unique/portraits/hero_CH01_N06.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N07",
+      "name": "张宝",
+      "assetId": "portrait-hero_CH01_N07",
+      "file": "unique/portraits/hero_CH01_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N08",
+      "name": "张梁",
+      "assetId": "portrait-hero_CH01_N08",
+      "file": "unique/portraits/hero_CH01_N08.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N09",
+      "name": "管亥",
+      "assetId": "portrait-hero_CH01_N09",
+      "file": "unique/portraits/hero_CH01_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH01_N10",
+      "name": "张角",
+      "assetId": "portrait-hero_CH01_N10",
+      "file": "unique/portraits/hero_CH01_N10.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N01",
+      "name": "董白",
+      "assetId": "portrait-hero_CH02_N01",
+      "file": "unique/portraits/hero_CH02_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "68b810a44edc1893af0e37367f041916f6f16eb7d04f6e05cde4beb2c80153df",
+      "generatedSha256": "c917e90734c06b3d26c9e2b0694c6e0c5c40e6c8bad0bdd5084745d41d307bea",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51416,
+        "transparentPixels": 18542,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        266
+      ],
+      "transparentMargin": 3,
+      "sha256": "e983b95b8aed16efda1d56861c8adf35c6cf28a2a81a9f9ca2552762a2d91d94"
+    },
+    {
+      "cardId": "hero:CH02_N02",
+      "name": "蔡邕",
+      "assetId": "portrait-hero_CH02_N02",
+      "file": "unique/portraits/hero_CH02_N02.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N03",
+      "name": "杨奉",
+      "assetId": "portrait-hero_CH02_N03",
+      "file": "unique/portraits/hero_CH02_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N04",
+      "name": "李儒",
+      "assetId": "portrait-hero_CH02_N04",
+      "file": "unique/portraits/hero_CH02_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N05",
+      "name": "华雄",
+      "assetId": "portrait-hero_CH02_N05",
+      "file": "unique/portraits/hero_CH02_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N06",
+      "name": "李傕",
+      "assetId": "portrait-hero_CH02_N06",
+      "file": "unique/portraits/hero_CH02_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "473f4a4e5b961f4d8c80fa2b444e070dc4734b08b371ee89e667e4ee647ba6bb",
+      "generatedSha256": "6521b5821defdc7e9077727864860601042f3a84c8a29e8e8dd4b0aded4a5c01",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52587,
+        "transparentPixels": 20313,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        243,
+        300
+      ],
+      "transparentMargin": 3,
+      "sha256": "98df32a02da43c33500c9e84b64ae125c264848c1a9f2f6b3977f5a594cb289f"
+    },
+    {
+      "cardId": "hero:CH02_N07",
+      "name": "郭汜",
+      "assetId": "portrait-hero_CH02_N07",
+      "file": "unique/portraits/hero_CH02_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N08",
+      "name": "梁兴",
+      "assetId": "portrait-hero_CH02_N08",
+      "file": "unique/portraits/hero_CH02_N08.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N09",
+      "name": "貂蝉",
+      "assetId": "portrait-hero_CH02_N09",
+      "file": "unique/portraits/hero_CH02_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH02_N10",
+      "name": "董卓",
+      "assetId": "portrait-hero_CH02_N10",
+      "file": "unique/portraits/hero_CH02_N10.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N01",
+      "name": "王门",
+      "assetId": "portrait-hero_CH03_N01",
+      "file": "unique/portraits/hero_CH03_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N02",
+      "name": "纪灵",
+      "assetId": "portrait-hero_CH03_N02",
+      "file": "unique/portraits/hero_CH03_N02.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N03",
+      "name": "胡车儿",
+      "assetId": "portrait-hero_CH03_N03",
+      "file": "unique/portraits/hero_CH03_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N04",
+      "name": "审配",
+      "assetId": "portrait-hero_CH03_N04",
+      "file": "unique/portraits/hero_CH03_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "34d2dde0f1863069cd8e8fc15737a4cfc509e79ae1aef9a2c337b2185f5b6b44",
+      "generatedSha256": "b35f454822b5f6373ffb5e65dd80b1c917b28e863f80766b2e8bc5b2cc1c928d",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 47346,
+        "transparentPixels": 23121,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        249,
+        283
+      ],
+      "transparentMargin": 3,
+      "sha256": "6b44d0b5848e427029b2986a4cec9894aba753013e1f9ada98438a72cca76bce"
+    },
+    {
+      "cardId": "hero:CH03_N05",
+      "name": "公孙瓒",
+      "assetId": "portrait-hero_CH03_N05",
+      "file": "unique/portraits/hero_CH03_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0be5f3ee90226571a389005b77b1d2565bca3c6d62e0a272011a50a9987da83c",
+      "generatedSha256": "c22370e8b0dbef49ab4f2f4eda160144949c8f859d9b299bbb0b779400226600",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51361,
+        "transparentPixels": 27795,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        257,
+        308
+      ],
+      "transparentMargin": 3,
+      "sha256": "af780dda417194b9171e366c2969923993ec69a9649602fbfe7bcedd95995259"
+    },
+    {
+      "cardId": "hero:CH03_N06",
+      "name": "潘凤",
+      "assetId": "portrait-hero_CH03_N06",
+      "file": "unique/portraits/hero_CH03_N06.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N07",
+      "name": "颜良",
+      "assetId": "portrait-hero_CH03_N07",
+      "file": "unique/portraits/hero_CH03_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N08",
+      "name": "文丑",
+      "assetId": "portrait-hero_CH03_N08",
+      "file": "unique/portraits/hero_CH03_N08.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N09",
+      "name": "陈宫",
+      "assetId": "portrait-hero_CH03_N09",
+      "file": "unique/portraits/hero_CH03_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH03_N10",
+      "name": "吕布",
+      "assetId": "portrait-hero_CH03_N10",
+      "file": "unique/portraits/hero_CH03_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "3e4d088dbc218d3c8a33f418ca587eec356ebbe6986de0cb0f4dd22c0171497e",
+      "generatedSha256": "4818db37374490b040e37788569021a6b5a2441a8747f929fcb749d4510a84a7",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48511,
+        "transparentPixels": 20896,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        247,
+        281
+      ],
+      "transparentMargin": 3,
+      "sha256": "c01716b5a5350ea8fc5163cd34d0df21143400ca525394a3df64f61e6a861a26"
+    },
+    {
+      "cardId": "hero:CH04_N01",
+      "name": "袁谭",
+      "assetId": "portrait-hero_CH04_N01",
+      "file": "unique/portraits/hero_CH04_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH04_N02",
+      "name": "田丰",
+      "assetId": "portrait-hero_CH04_N02",
+      "file": "unique/portraits/hero_CH04_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c66ff568b31e417c16637a9df35f776262d0e235fc325717e880df7ba015dbef",
+      "generatedSha256": "07030df14543b2e99badace589df1fc4bddbf894deaf24ab688452b3c1691efc",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53527,
+        "transparentPixels": 19301,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        238,
+        306
+      ],
+      "transparentMargin": 3,
+      "sha256": "4e06309d7731022d42c78e978a1a8572a3c134bc89c8afe17cd53a80bc7102ce"
+    },
+    {
+      "cardId": "hero:CH04_N03",
+      "name": "鞠义",
+      "assetId": "portrait-hero_CH04_N03",
+      "file": "unique/portraits/hero_CH04_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "1829e32088e424d3c09117713fa2499519642539fc62b957f1c88c2f5b80882d",
+      "generatedSha256": "cca3e812a46f18731af9e4f26834f6c1bd6b3e059b84cb2ddde573ee7a37ecf5",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55232,
+        "transparentPixels": 18758,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        245,
+        302
+      ],
+      "transparentMargin": 3,
+      "sha256": "6fbb4dc1580efaa45ab31a0eb7b967ae5a8e3f54188a0b2b854689750ddbf84c"
+    },
+    {
+      "cardId": "hero:CH04_N04",
+      "name": "范增",
+      "assetId": "portrait-hero_CH04_N04",
+      "file": "unique/portraits/hero_CH04_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH04_N05",
+      "name": "张良",
+      "assetId": "portrait-hero_CH04_N05",
+      "file": "unique/portraits/hero_CH04_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH04_N06",
+      "name": "龚都",
+      "assetId": "portrait-hero_CH04_N06",
+      "file": "unique/portraits/hero_CH04_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "f0742bbcf047d1954f350663dcc992b31966ba8eeaafbe6be90f5adec4c0c880",
+      "generatedSha256": "2506d6b0336f37682e401acc35dce740bde08b7e8c899309be84b6032bf60ac0",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53228,
+        "transparentPixels": 21154,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        253,
+        294
+      ],
+      "transparentMargin": 3,
+      "sha256": "9c2ddc1b10c93d8023c2c7c4da04463dbcd1c7793ab5bf1f4841dd0055edf64a"
+    },
+    {
+      "cardId": "hero:CH04_N07",
+      "name": "韩信",
+      "assetId": "portrait-hero_CH04_N07",
+      "file": "unique/portraits/hero_CH04_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH04_N08",
+      "name": "淳于琼",
+      "assetId": "portrait-hero_CH04_N08",
+      "file": "unique/portraits/hero_CH04_N08.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH04_N09",
+      "name": "袁术",
+      "assetId": "portrait-hero_CH04_N09",
+      "file": "unique/portraits/hero_CH04_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "f6a6a33d51689eb154b815f15757865a80ea1a4e60a43898c5793acc30283867",
+      "generatedSha256": "8472de5c19ebed3c35d2855d046c4b1da68beb1d470adbb6958605c54bbbf470",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54442,
+        "transparentPixels": 23894,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        256,
+        306
+      ],
+      "transparentMargin": 3,
+      "sha256": "8f406d54db79dfdb40574739c8fa7fd8bcae55fce77f096f99ecbea8b62da38a"
+    },
+    {
+      "cardId": "hero:CH04_N10",
+      "name": "袁绍",
+      "assetId": "portrait-hero_CH04_N10",
+      "file": "unique/portraits/hero_CH04_N10.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N01",
+      "name": "曹昂",
+      "assetId": "portrait-hero_CH05_N01",
+      "file": "unique/portraits/hero_CH05_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N02",
+      "name": "曹彰",
+      "assetId": "portrait-hero_CH05_N02",
+      "file": "unique/portraits/hero_CH05_N02.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N03",
+      "name": "曹真",
+      "assetId": "portrait-hero_CH05_N03",
+      "file": "unique/portraits/hero_CH05_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N04",
+      "name": "曹仁",
+      "assetId": "portrait-hero_CH05_N04",
+      "file": "unique/portraits/hero_CH05_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N05",
+      "name": "典韦",
+      "assetId": "portrait-hero_CH05_N05",
+      "file": "unique/portraits/hero_CH05_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N06",
+      "name": "夏侯惇",
+      "assetId": "portrait-hero_CH05_N06",
+      "file": "unique/portraits/hero_CH05_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0d10ef49c6e87c8f579b02001dde1bf245b0f0cc4b09a87471e9d94971452523",
+      "generatedSha256": "df53a13e3730c2c12bcbe9e2122bd84c516c9f5077f4895b5dadb853df32a407",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 50880,
+        "transparentPixels": 26410,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        262,
+        295
+      ],
+      "transparentMargin": 3,
+      "sha256": "4add7a54b710adab45fa0105b5d63da457a6c41ff8522377ecb17fe9d7da6c83"
+    },
+    {
+      "cardId": "hero:CH05_N07",
+      "name": "曹丕",
+      "assetId": "portrait-hero_CH05_N07",
+      "file": "unique/portraits/hero_CH05_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N08",
+      "name": "荀文若",
+      "assetId": "portrait-hero_CH05_N08",
+      "file": "unique/portraits/hero_CH05_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "8577aad69d4cae1809709c55edc1f41e71b661dd23c162022e79514eb4a6f960",
+      "generatedSha256": "c82b8d256de6ef86161cad352141d148933353df4ec22c145a15d2492d988c4f",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 42279,
+        "transparentPixels": 16815,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        201,
+        294
+      ],
+      "transparentMargin": 3,
+      "sha256": "82fc20ebc4ba5792d4ea4657a8bcdb94dcb2a71d2c5594705adcbd2f1d8cb5ce"
+    },
+    {
+      "cardId": "hero:CH05_N09",
+      "name": "曹植",
+      "assetId": "portrait-hero_CH05_N09",
+      "file": "unique/portraits/hero_CH05_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH05_N10",
+      "name": "曹操",
+      "assetId": "portrait-hero_CH05_N10",
+      "file": "unique/portraits/hero_CH05_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "85a9cc468d9bd09f094d8f2c062084055552df1582f672b1953eb126b02d749e",
+      "generatedSha256": "ef0e938c872642dfc71b1db6f0c294875edc63d19f11450c4cb52b90734b8ad5",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 44210,
+        "transparentPixels": 15564,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        209,
+        286
+      ],
+      "transparentMargin": 3,
+      "sha256": "36210faa239122676ac3ecfe7f97fcb2862bbf059c4b30637f9392b3014fca27"
+    },
+    {
+      "cardId": "hero:CH06_N01",
+      "name": "曹节",
+      "assetId": "portrait-hero_CH06_N01",
+      "file": "unique/portraits/hero_CH06_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "9b0a698c76b5f61ebc0bb1147e1666e33908a08509f82ccd829988043d790377",
+      "generatedSha256": "34969fde735f9c298bfc639f202db510c693e028454577d7ffd29f0ad6f851e8",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55481,
+        "transparentPixels": 19827,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        268,
+        281
+      ],
+      "transparentMargin": 3,
+      "sha256": "2562ed2d3aa6dd154d9f7dbe168f3030ffb24e597426af454292e30cfa3a9055"
+    },
+    {
+      "cardId": "hero:CH06_N02",
+      "name": "陈琳",
+      "assetId": "portrait-hero_CH06_N02",
+      "file": "unique/portraits/hero_CH06_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "40ef3788183446217ca04130d96ed352f0de2fdebc93be246b01b18a8e2cf99d",
+      "generatedSha256": "26333f8fb98b6e408d836b9473bab2ae11ec51345c355545f07b8a786100aa45",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 49892,
+        "transparentPixels": 21928,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        252,
+        285
+      ],
+      "transparentMargin": 3,
+      "sha256": "6b59edf9959d81f90cf73753c08eab4a781fae6947162f9d9b4e7c95a7ea9e42"
+    },
+    {
+      "cardId": "hero:CH06_N03",
+      "name": "韩福",
+      "assetId": "portrait-hero_CH06_N03",
+      "file": "unique/portraits/hero_CH06_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "8f72e4bf7f61c06d43416aa392dcdc170a3c47e243c415de43ee35c7b72fe271",
+      "generatedSha256": "26cf7f8af302b7941a81579ae5e8359e6711d97a1b56784c123f9a9a707c3983",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55173,
+        "transparentPixels": 22472,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        265,
+        293
+      ],
+      "transparentMargin": 3,
+      "sha256": "0f169053a9afea5aa9343e716177a7080c55422ec4e38d275b256bf05fa64090"
+    },
+    {
+      "cardId": "hero:CH06_N04",
+      "name": "卞夫人",
+      "assetId": "portrait-hero_CH06_N04",
+      "file": "unique/portraits/hero_CH06_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "105f09950178e1e19baeda392c109c7f584902480b153a20ee9f6f313d9da686",
+      "generatedSha256": "9a9367e0ca4633ff9b24071278e14ac7cec451cd2e2cac1fd4dbfbc480a6c1ae",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52723,
+        "transparentPixels": 21153,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        253,
+        292
+      ],
+      "transparentMargin": 3,
+      "sha256": "4ceb6c05330c1fdc4a1931b2d466ece0ebaedd74741c46c6c71a166900d00a6b"
+    },
+    {
+      "cardId": "hero:CH06_N05",
+      "name": "徐庶",
+      "assetId": "portrait-hero_CH06_N05",
+      "file": "unique/portraits/hero_CH06_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "7a590fd5c73997f06885ab1518b6e4eb86a3fcd4287fa151b122ee5cd4ee06d7",
+      "generatedSha256": "56bd7eb5b381d6f9f06e8d6d213dd58e1d6c5a7e87f4b935eddde27bb5f2d025",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 49683,
+        "transparentPixels": 22337,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        260,
+        277
+      ],
+      "transparentMargin": 3,
+      "sha256": "e594f8183600237e28721fe8e25553ed5eb391362dd5738959ef8473a14f1a66"
+    },
+    {
+      "cardId": "hero:CH06_N06",
+      "name": "郭嘉",
+      "assetId": "portrait-hero_CH06_N06",
+      "file": "unique/portraits/hero_CH06_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "cb585ab49b304bad6eae015433bab806892012ff9c4651265e167419050b762b",
+      "generatedSha256": "5d05eea9514ae81a1a95fa33011022110bc3ab5fd7d2600677a65358af7fb121",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 44669,
+        "transparentPixels": 28691,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        262,
+        280
+      ],
+      "transparentMargin": 3,
+      "sha256": "73d6b8809ad52019c921fd2452557e05e0624f269064cb8d800077c7a4b0ade7"
+    },
+    {
+      "cardId": "hero:CH06_N07",
+      "name": "满宠",
+      "assetId": "portrait-hero_CH06_N07",
+      "file": "unique/portraits/hero_CH06_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "a6f2788ec45d429698eb8bc1faac0bdf9324296897e1287613abea55e1195fe0",
+      "generatedSha256": "ee3a74a039d25d7e9372025a183e27bf069d0a2a158555f8a35cd00e6b013faa",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 45907,
+        "transparentPixels": 20173,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        236,
+        280
+      ],
+      "transparentMargin": 3,
+      "sha256": "18e03e16bddab040803dfc8494302ca444e1ce4c94c967f5cead5cd1d5de8b1d"
+    },
+    {
+      "cardId": "hero:CH06_N08",
+      "name": "李典",
+      "assetId": "portrait-hero_CH06_N08",
+      "file": "unique/portraits/hero_CH06_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "ee3ad3b7e791e11434eba324e4c15f7bbb18b40a35152a7b07045773941323aa",
+      "generatedSha256": "77b6765d41cc26f3c632e5ed5fbc89f64fcd5d91ba8664b68eb2123b235311c3",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51727,
+        "transparentPixels": 23228,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        285
+      ],
+      "transparentMargin": 3,
+      "sha256": "82ab6bbbdd7355709b31983f22ab0a6b90f33901212ed26ae7c4ec73d27e5a93"
+    },
+    {
+      "cardId": "hero:CH06_N09",
+      "name": "乐进",
+      "assetId": "portrait-hero_CH06_N09",
+      "file": "unique/portraits/hero_CH06_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "2722189c7b75bffa9d0efdc39d42e5421829403ac322615b43c725cdccbcb252",
+      "generatedSha256": "3cd8548bd8f1bbb64df48bc9c09a133a2c86017dedf4938a02933145eb76eead",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 38648,
+        "transparentPixels": 24858,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        226,
+        281
+      ],
+      "transparentMargin": 3,
+      "sha256": "ca8c7ca764eee67ad9d1428367288063f36e7e2d3cbf002c5b399a0a716a5c6a"
+    },
+    {
+      "cardId": "hero:CH07_N01",
+      "name": "牛金",
+      "assetId": "portrait-hero_CH07_N01",
+      "file": "unique/portraits/hero_CH07_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "ebcfb287a54e1de8ff64db97811e50a2de3c250a03dd8cf3ae0d059232aa81b1",
+      "generatedSha256": "d55038dd3655613dc7870096557e480efd20d471c9c2161c6affaea5a6e4329d",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48047,
+        "transparentPixels": 25111,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        267,
+        274
+      ],
+      "transparentMargin": 3,
+      "sha256": "60bbab6b8562aa3eba7f4dd54b2b56ef6d263341e01db9d5fb088fd2fed85001"
+    },
+    {
+      "cardId": "hero:CH07_N02",
+      "name": "王双",
+      "assetId": "portrait-hero_CH07_N02",
+      "file": "unique/portraits/hero_CH07_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c578bf537e05d367e1eda6c1a6387228503663cd62430a3d18caadd0274d8a18",
+      "generatedSha256": "95812d5479c4c4df85e5474cf548c683566fca7d1ba1c50ff30cdc424fa108f1",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48332,
+        "transparentPixels": 30708,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        260,
+        304
+      ],
+      "transparentMargin": 3,
+      "sha256": "a8babe8884703c2c138923d7aba6d64b8cf0d8055f0bdd9e375b3211d692c6bb"
+    },
+    {
+      "cardId": "hero:CH07_N03",
+      "name": "文聘",
+      "assetId": "portrait-hero_CH07_N03",
+      "file": "unique/portraits/hero_CH07_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH07_N04",
+      "name": "田豫",
+      "assetId": "portrait-hero_CH07_N04",
+      "file": "unique/portraits/hero_CH07_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH07_N05",
+      "name": "郝昭",
+      "assetId": "portrait-hero_CH07_N05",
+      "file": "unique/portraits/hero_CH07_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0d6989932cf9779d21cd01bbb93a47ea41718b522846e1771eed0d26cc46dd18",
+      "generatedSha256": "5ef5a5df33965c06b552ccaca5c5244d06e3818c1b35e5252c1ef2dd2dbf7865",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 46819,
+        "transparentPixels": 29586,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        259,
+        295
+      ],
+      "transparentMargin": 3,
+      "sha256": "af6815c0946af155ee7f5051fb75a89d731ce00dfb899bb8a28ec23d021d6986"
+    },
+    {
+      "cardId": "hero:CH07_N06",
+      "name": "郭淮",
+      "assetId": "portrait-hero_CH07_N06",
+      "file": "unique/portraits/hero_CH07_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "4f35d8d8b6b43bfab4a93fcb4289b6d165e74707013c1ebb5c7b2294f2cd5353",
+      "generatedSha256": "4f6e8edecc2fd92a273d1871f127dbb99a64367ea2964eb0e375cd4b210adb91",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 44010,
+        "transparentPixels": 31842,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        258,
+        294
+      ],
+      "transparentMargin": 3,
+      "sha256": "f4461f4aac17c2a4034734a8cff00d2d14dc9f0d937c00e00d4bf617ba53e5ed"
+    },
+    {
+      "cardId": "hero:CH07_N07",
+      "name": "邓艾",
+      "assetId": "portrait-hero_CH07_N07",
+      "file": "unique/portraits/hero_CH07_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "3cf5d7f092339c5bcfe789c7744b2a1f8b3921283353268d1d0c64da39bdc444",
+      "generatedSha256": "3cbe75b4732241cb6ea94e361957383454efa836c20f100aef93872bbdd388ef",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 46764,
+        "transparentPixels": 29478,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        262,
+        291
+      ],
+      "transparentMargin": 3,
+      "sha256": "cd614dd51356ce7f7cc5f7bea6fe664bacd8533e1b1334eab51d0212a84e3d4c"
+    },
+    {
+      "cardId": "hero:CH07_N08",
+      "name": "陈泰",
+      "assetId": "portrait-hero_CH07_N08",
+      "file": "unique/portraits/hero_CH07_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "095e7d8ab41048b7f767970911ad2061268e8d5c688b60ac575c9ea5a5d8ec5b",
+      "generatedSha256": "79df71b5a3e84e71968ba92c239228ada5918783425a1a1031116c4d16780104",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 38715,
+        "transparentPixels": 23605,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        205,
+        304
+      ],
+      "transparentMargin": 3,
+      "sha256": "a28186c70579412edc88481288e80efe3e9327dd1b63c1ceb3a27338b87944ac"
+    },
+    {
+      "cardId": "hero:CH07_N09",
+      "name": "贾充",
+      "assetId": "portrait-hero_CH07_N09",
+      "file": "unique/portraits/hero_CH07_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "5f2a84c15bedef2249b1099c7ad18c6b78334bacddbab45b10161415babc97a8",
+      "generatedSha256": "d4596efcf1535f4a88ebe3076b7a2ae5d7a50567b8f7b4ea3fb23313871386e3",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 41447,
+        "transparentPixels": 16351,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        234,
+        247
+      ],
+      "transparentMargin": 3,
+      "sha256": "6f1efdb57b79da32a4252b5801ec0bada1d5d54e82ecf78af7fc544c12a892e6"
+    },
+    {
+      "cardId": "hero:CH07_N10",
+      "name": "庞德",
+      "assetId": "portrait-hero_CH07_N10",
+      "file": "unique/portraits/hero_CH07_N10.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH08_N01",
+      "name": "周仓",
+      "assetId": "portrait-hero_CH08_N01",
+      "file": "unique/portraits/hero_CH08_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH08_N02",
+      "name": "简雍",
+      "assetId": "portrait-hero_CH08_N02",
+      "file": "unique/portraits/hero_CH08_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "intact-original",
+      "originalSha256": "3e7c4527918cde089d12a49c7e32926c4bd07c6de0291bfd2177b467e417d390",
+      "generatedSha256": "3e6ee7cdd25c2f511ad3c9c95bf155c5b55de745e5c0f6d25accf382857bb276",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 49721,
+        "transparentPixels": 23704,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        267,
+        275
+      ],
+      "transparentMargin": 3,
+      "sha256": "aaf12e46479aa3e4babbdce00a155914d1ede8f5468495db67a1a31ad8e6812d"
+    },
+    {
+      "cardId": "hero:CH08_N03",
+      "name": "刘封",
+      "assetId": "portrait-hero_CH08_N03",
+      "file": "unique/portraits/hero_CH08_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "4c9f38820507c745cb30df510152c0dd8f44d4337c7e66a653ba1d7f67f537bc",
+      "generatedSha256": "0c5306929a3f72d74f399185c8d41c1e20b69b206aac71255ea223307be69d90",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54505,
+        "transparentPixels": 22715,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        270,
+        286
+      ],
+      "transparentMargin": 3,
+      "sha256": "264cf612f24d4016fca1f5823d42429310ca07697782478cae4f058174d5d436"
+    },
+    {
+      "cardId": "hero:CH08_N04",
+      "name": "关索",
+      "assetId": "portrait-hero_CH08_N04",
+      "file": "unique/portraits/hero_CH08_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH08_N05",
+      "name": "关银屏",
+      "assetId": "portrait-hero_CH08_N05",
+      "file": "unique/portraits/hero_CH08_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c78c8982c22dd26c4567aa3c1ef91c694bfeb5fa139a32cdc3093ee99f1274f7",
+      "generatedSha256": "7e16b8e9c9f7fe385a73f54782b625e8654ac596f0f076ada176f9d9e2a8c12d",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48906,
+        "transparentPixels": 19729,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        259,
+        265
+      ],
+      "transparentMargin": 3,
+      "sha256": "cbfa0e79510ffb75a60953c5bbff6d423a3fd3dd52b3c9d70613932aef170dee"
+    },
+    {
+      "cardId": "hero:CH08_N06",
+      "name": "鲍三娘",
+      "assetId": "portrait-hero_CH08_N06",
+      "file": "unique/portraits/hero_CH08_N06.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH08_N07",
+      "name": "诸葛亮",
+      "assetId": "portrait-hero_CH08_N07",
+      "file": "unique/portraits/hero_CH08_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "a7a4173f2268d1b7b605e8695ceff5d0e11eaf30894ec970589c2b0373d725b6",
+      "generatedSha256": "7f9b6fa6a5766610c8e1bcc3787bfe95cc2236b943f20196e1c14cb08af6eeea",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48403,
+        "transparentPixels": 18521,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        234,
+        286
+      ],
+      "transparentMargin": 3,
+      "sha256": "0a31f03e69c039b08e0a10de3a87a0dc68f3d40dbc97c42708eaf38597c6dc13"
+    },
+    {
+      "cardId": "hero:CH08_N08",
+      "name": "赵云",
+      "assetId": "portrait-hero_CH08_N08",
+      "file": "unique/portraits/hero_CH08_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0ebd15b1279b4d526bedbc2997a06dcb589976142da029e7a06e13bd8b3f3901",
+      "generatedSha256": "49497695eb9efbdc5f595588b3f7a3d91e5dadf29f8e09bfe22a06b73ffef879",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53595,
+        "transparentPixels": 23835,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        267,
+        290
+      ],
+      "transparentMargin": 3,
+      "sha256": "334bf6340dab754d25edaefc786f8ab4c9ab3537dfe6045f0768a0d97981a069"
+    },
+    {
+      "cardId": "hero:CH08_N09",
+      "name": "马超",
+      "assetId": "portrait-hero_CH08_N09",
+      "file": "unique/portraits/hero_CH08_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "ba374983dae7589c78a8067dcf389843f727f7e9ee58ac2d1e90db28ffe6cc79",
+      "generatedSha256": "3a785bfed99819bec7404bd4475d1fd2a99e01aba78dabdf06f204d9f775363e",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55589,
+        "transparentPixels": 25279,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        276,
+        293
+      ],
+      "transparentMargin": 3,
+      "sha256": "836482e81850b648747e95538d76e9ce6b4bd2578cebcf433f23d083e6cd65ff"
+    },
+    {
+      "cardId": "hero:CH08_N10",
+      "name": "刘备",
+      "assetId": "portrait-hero_CH08_N10",
+      "file": "unique/portraits/hero_CH08_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "4b3c3d5dd7f97fead2ea0f928ea581f4fadf1d0a9f72c28b94d8568085a12d0d",
+      "generatedSha256": "c9a0e16ff2db6f7593f9a42d7139639fe01e1c2d42cfe625a7466589bd06db9d",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48430,
+        "transparentPixels": 22037,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        249,
+        283
+      ],
+      "transparentMargin": 3,
+      "sha256": "d414cc5e7e1fa46bc49e2d54dedeedee59489fa74a1dd4034eb19f87ea1c22da"
+    },
+    {
+      "cardId": "hero:CH09_N01",
+      "name": "孟达",
+      "assetId": "portrait-hero_CH09_N01",
+      "file": "unique/portraits/hero_CH09_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH09_N02",
+      "name": "黄权",
+      "assetId": "portrait-hero_CH09_N02",
+      "file": "unique/portraits/hero_CH09_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "125f97edcd974d41e8ce01184f9700717fd5550f8944bcf015692f199849410e",
+      "generatedSha256": "5a47c486a24ab290d5abcfd340fe61e2eba5a0cefdd8fa1424cd8404803c2c72",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 49890,
+        "transparentPixels": 29438,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        268,
+        296
+      ],
+      "transparentMargin": 3,
+      "sha256": "d4e4f27f77c3a5101e0b6879d4f88ba574d336be1d03bfa39a73da03ff46c06e"
+    },
+    {
+      "cardId": "hero:CH09_N03",
+      "name": "张苞",
+      "assetId": "portrait-hero_CH09_N03",
+      "file": "unique/portraits/hero_CH09_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH09_N04",
+      "name": "廖化",
+      "assetId": "portrait-hero_CH09_N04",
+      "file": "unique/portraits/hero_CH09_N04.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH09_N05",
+      "name": "张任",
+      "assetId": "portrait-hero_CH09_N05",
+      "file": "unique/portraits/hero_CH09_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH09_N06",
+      "name": "严颜",
+      "assetId": "portrait-hero_CH09_N06",
+      "file": "unique/portraits/hero_CH09_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c556d3e7dca9e366dc4a392c16bb92dcdaa02b9cc66a25704f1a20ac5a2a00f9",
+      "generatedSha256": "686c23bfe531e5be8b07203866064adf0160dae6f8037c72b89ae2894f8fbb65",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53134,
+        "transparentPixels": 24188,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        294
+      ],
+      "transparentMargin": 3,
+      "sha256": "3fe6a00b6f413fdca24099a712b4b371b286fa7eda0cebe0c69241fb25017ad6"
+    },
+    {
+      "cardId": "hero:CH09_N07",
+      "name": "黄忠",
+      "assetId": "portrait-hero_CH09_N07",
+      "file": "unique/portraits/hero_CH09_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "799fe5b9263c31e4118b833d7a267fd7d2d05ffeb2dcf4fc1dc709616a969bf1",
+      "generatedSha256": "9833e54a77f6321a38822fd409d36c872bfe3dceff9bcc2053ca5412f5f67367",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51212,
+        "transparentPixels": 26636,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        296
+      ],
+      "transparentMargin": 3,
+      "sha256": "f0110f7731393b9e1fcc188c701d84b4d98f25fba469f806845e1d351e795f7f"
+    },
+    {
+      "cardId": "hero:CH09_N08",
+      "name": "王平",
+      "assetId": "portrait-hero_CH09_N08",
+      "file": "unique/portraits/hero_CH09_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0161f5af453bafbf6ed66ff7651924c582075c7c291fb97c6db8c393aecaf363",
+      "generatedSha256": "e5db50c442adfd195d8e0874a2c639f46ffb2fed307b68e08cc61b3c3ced142f",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52917,
+        "transparentPixels": 25287,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        266,
+        294
+      ],
+      "transparentMargin": 3,
+      "sha256": "07b35c3c2505a99666bfc2189a26b7e4643b71fae8eac7096b657d65dedb5e17"
+    },
+    {
+      "cardId": "hero:CH09_N09",
+      "name": "魏延",
+      "assetId": "portrait-hero_CH09_N09",
+      "file": "unique/portraits/hero_CH09_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH09_N10",
+      "name": "关羽（神）",
+      "assetId": "portrait-hero_CH09_N10",
+      "file": "unique/portraits/hero_CH09_N10.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N01",
+      "name": "罗宪",
+      "assetId": "portrait-hero_CH10_N01",
+      "file": "unique/portraits/hero_CH10_N01.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N02",
+      "name": "花鬓",
+      "assetId": "portrait-hero_CH10_N02",
+      "file": "unique/portraits/hero_CH10_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "58a7fc8fe2468880c107040f7cf3691fcfc649c7de09edba28714bd206b21079",
+      "generatedSha256": "21d4b15b704e7c8d19582309b1c1e0d442f40a1ec51344f89baf79fd57aa54f9",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52642,
+        "transparentPixels": 25828,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        266,
+        295
+      ],
+      "transparentMargin": 3,
+      "sha256": "34603fb27224a7e0592f381d460ca42148efba522346560811ac3e05d569c6ee"
+    },
+    {
+      "cardId": "hero:CH10_N03",
+      "name": "忙牙长",
+      "assetId": "portrait-hero_CH10_N03",
+      "file": "unique/portraits/hero_CH10_N03.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N04",
+      "name": "阿会喃",
+      "assetId": "portrait-hero_CH10_N04",
+      "file": "unique/portraits/hero_CH10_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "f78a424d97b7608a851688d236ae9af6043e5654507c58237f14f7849fc7ed38",
+      "generatedSha256": "03da710d06b84bae6c4852c2a187ea457a9bac64d5e47b00c18badcab6e0f6a7",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54516,
+        "transparentPixels": 19347,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        261,
+        283
+      ],
+      "transparentMargin": 3,
+      "sha256": "a7fc2b42bfb14cb8841d45f31caabc10472a91d63fdf001c7cc76ac4e2867e40"
+    },
+    {
+      "cardId": "hero:CH10_N05",
+      "name": "兀突骨",
+      "assetId": "portrait-hero_CH10_N05",
+      "file": "unique/portraits/hero_CH10_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N06",
+      "name": "带来洞主",
+      "assetId": "portrait-hero_CH10_N06",
+      "file": "unique/portraits/hero_CH10_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "afad9eb242dfef3259f0b1558848d73d3e6f02f0c4ae3044400ca2ee9238f370",
+      "generatedSha256": "d84a20a668705fed286aa3c0b9b2e7f29818469fad2a5cafb6af738c0296ef8c",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51549,
+        "transparentPixels": 22053,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        261,
+        282
+      ],
+      "transparentMargin": 3,
+      "sha256": "d12987be21145deba45f5a03b8d298e25fd78f3b1fb428a5d75c6a68bcd59ee9"
+    },
+    {
+      "cardId": "hero:CH10_N07",
+      "name": "姜维",
+      "assetId": "portrait-hero_CH10_N07",
+      "file": "unique/portraits/hero_CH10_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N08",
+      "name": "朵思大王",
+      "assetId": "portrait-hero_CH10_N08",
+      "file": "unique/portraits/hero_CH10_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "6d09a64452c8e42576f524d8aea407cb080f762aa3424ea3197a57a864f83b56",
+      "generatedSha256": "f57eb7e03acb42d3e6ec899be45c2761488d13bed0e7e94f8dd0e4996de02082",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 50642,
+        "transparentPixels": 22510,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        254,
+        288
+      ],
+      "transparentMargin": 3,
+      "sha256": "51993ee453fe3e098dde5dfd8f5af9d14841af96c41a7697d2ee18b75310e6f3"
+    },
+    {
+      "cardId": "hero:CH10_N09",
+      "name": "沙摩柯",
+      "assetId": "portrait-hero_CH10_N09",
+      "file": "unique/portraits/hero_CH10_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH10_N10",
+      "name": "诸葛亮（神）",
+      "assetId": "portrait-hero_CH10_N10",
+      "file": "unique/portraits/hero_CH10_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "fb8644d5b521835b858ca80ba36cdcbd5dab8786b9fa136ac4dbd7cae1b00e9d",
+      "generatedSha256": "c75fc8cd0cbe5c73b1bfcdd5b89902acf9e36da43791b7d31ae481c444798e58",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 47228,
+        "transparentPixels": 29615,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        257,
+        299
+      ],
+      "transparentMargin": 3,
+      "sha256": "eb589535145a9046df69661703905298dc7f13dade77b9ec917546f97a57c48f"
+    },
+    {
+      "cardId": "hero:CH11_N01",
+      "name": "张子纲",
+      "assetId": "portrait-hero_CH11_N01",
+      "file": "unique/portraits/hero_CH11_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "462c565cd90aaf9c8a90f7cf8ea727fdeef7575b75e3a4bd605a4d2a54ec8a6c",
+      "generatedSha256": "ed9aedfba93d71f853bfe1a58aa47a67d8c52eab55ab0602f27cb22cf7acd65a",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 47176,
+        "transparentPixels": 24861,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        251,
+        287
+      ],
+      "transparentMargin": 3,
+      "sha256": "5b46f7dc214f826dad2c2fd799b1a73097fbae0d7be08373cb67098a90e2c1bf"
+    },
+    {
+      "cardId": "hero:CH11_N02",
+      "name": "董袭",
+      "assetId": "portrait-hero_CH11_N02",
+      "file": "unique/portraits/hero_CH11_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "cae57f0b4fcb2468a382c809e85662b1236ad9b1fa1c1c3be154e9efc87415e8",
+      "generatedSha256": "18506208e5b0c158c3c96126493afa39a414ef590fda7815c99a888375d8d3cd",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 56797,
+        "transparentPixels": 21279,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        262,
+        298
+      ],
+      "transparentMargin": 3,
+      "sha256": "963720da8f87424356c0f7de6553cd5df6c2b6f03ca06f61eb8e59442c3ebff0"
+    },
+    {
+      "cardId": "hero:CH11_N03",
+      "name": "全琮",
+      "assetId": "portrait-hero_CH11_N03",
+      "file": "unique/portraits/hero_CH11_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "57a38c304f09987f4091d04a348a1368e9d0563353e22d0ccb9aaf48280bca0d",
+      "generatedSha256": "c41e83395f008281eefc89f55eb29a36c4d3fe23bb76e58821b3a46ec269c775",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54050,
+        "transparentPixels": 23170,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        260,
+        297
+      ],
+      "transparentMargin": 3,
+      "sha256": "eb2c2ebba5960c4db8580f7d7f30c37c64a1a7eb1adb496e31e856c9c294d394"
+    },
+    {
+      "cardId": "hero:CH11_N04",
+      "name": "吴国太",
+      "assetId": "portrait-hero_CH11_N04",
+      "file": "unique/portraits/hero_CH11_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "7af5d48a092e91422b52f5973ee753599575e9b3673f16e8508f6664b51e6de9",
+      "generatedSha256": "960585cc91576b9f93d637a5447140f77a20b701dc17279c1cfc517969a5cef7",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54568,
+        "transparentPixels": 22040,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        266,
+        288
+      ],
+      "transparentMargin": 3,
+      "sha256": "3f2c1ef651a098977133c5c89826df84b52afd74b2ab9d079530e0f64522c99d"
+    },
+    {
+      "cardId": "hero:CH11_N05",
+      "name": "鲁肃",
+      "assetId": "portrait-hero_CH11_N05",
+      "file": "unique/portraits/hero_CH11_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "intact-original",
+      "originalSha256": "caf7b63dcb78de858d7e7370b45159873ede2b9072a49547ed9c4e570a1b1c2a",
+      "generatedSha256": "98bd76b351eac4e668d6485339eba2b1caefd99f38c14ee78e70f8cacd6af8ca",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 48328,
+        "transparentPixels": 15032,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        220,
+        288
+      ],
+      "transparentMargin": 3,
+      "sha256": "3aea2c26a6cb186b360d311b33cd2e475d275cb237b9459a8cc6ccec2b2bb22a"
+    },
+    {
+      "cardId": "hero:CH11_N06",
+      "name": "程普",
+      "assetId": "portrait-hero_CH11_N06",
+      "file": "unique/portraits/hero_CH11_N06.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c98fd0ee320e9b0eab8befc5388c7f0c4845c24d132d143d51848e7175cc14df",
+      "generatedSha256": "16e07bb3d9bc380ca064d029aad312f12a13c6ea1dbf2fa16f27b33b715f1527",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55132,
+        "transparentPixels": 20128,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        265,
+        284
+      ],
+      "transparentMargin": 3,
+      "sha256": "652dbd1cec39c156374339a1aba5d121b2db82f14c2defee892ed016f88a3dff"
+    },
+    {
+      "cardId": "hero:CH11_N07",
+      "name": "凌操",
+      "assetId": "portrait-hero_CH11_N07",
+      "file": "unique/portraits/hero_CH11_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "6ef691b1cba3affa336de7c90479db3b309829a3cd1b30f1d51560ae8d663b62",
+      "generatedSha256": "f48a1a43e69f6e2e9753aef173b387c99ea3f74882f3ec81598af0e324ac3e0e",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54822,
+        "transparentPixels": 21358,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        260,
+        293
+      ],
+      "transparentMargin": 3,
+      "sha256": "a3e3e395f0f5b3a93f61ce4909d1e1d266d0c766fcf411db750a60b40690b70d"
+    },
+    {
+      "cardId": "hero:CH11_N08",
+      "name": "孙尚香",
+      "assetId": "portrait-hero_CH11_N08",
+      "file": "unique/portraits/hero_CH11_N08.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH11_N09",
+      "name": "太史慈",
+      "assetId": "portrait-hero_CH11_N09",
+      "file": "unique/portraits/hero_CH11_N09.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH11_N10",
+      "name": "孙权",
+      "assetId": "portrait-hero_CH11_N10",
+      "file": "unique/portraits/hero_CH11_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "5ecc348898736706c5673c483b58b282c4e74ec77855b81eb31cceb6e38e5471",
+      "generatedSha256": "d89b5f7c4498f9fd7c072e74b081a7ffa4679e8b3c958ddbe18dfd5e87d37170",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52332,
+        "transparentPixels": 21668,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        250,
+        296
+      ],
+      "transparentMargin": 3,
+      "sha256": "200ff6d9d7b207567dd1b37c574aec3c82189cf6831d41f3874e4a9246f077cd"
+    },
+    {
+      "cardId": "hero:CH12_N01",
+      "name": "陈武",
+      "assetId": "portrait-hero_CH12_N01",
+      "file": "unique/portraits/hero_CH12_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "e221dc4b3a941217b1576c177729eec23c9da9c1f16522a8924d34d4e77db310",
+      "generatedSha256": "8bfb7f692857d721c3548a879492fdb84de1fd65dae5e19ce3f6f7ae040823d8",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 57394,
+        "transparentPixels": 20346,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        260,
+        299
+      ],
+      "transparentMargin": 3,
+      "sha256": "d3740f6f9d31840fdc40f497d260c8a2d1fd59b2e6f44ca2b1841ae18c1e87e7"
+    },
+    {
+      "cardId": "hero:CH12_N02",
+      "name": "周泰",
+      "assetId": "portrait-hero_CH12_N02",
+      "file": "unique/portraits/hero_CH12_N02.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "31afff631a3ee16d6554504dfb3967bbaf1fd96dfc02cf7ed825b5f04420b330",
+      "generatedSha256": "37efe998f3b65d38dab078d6d13d448194d1e89e8673751c7c2767850e7603db",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 57376,
+        "transparentPixels": 23705,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        273,
+        297
+      ],
+      "transparentMargin": 3,
+      "sha256": "20ee5bf61e639f101cb116997fd52b97d5160661dfa5971fb36b00b926a7d9fc"
+    },
+    {
+      "cardId": "hero:CH12_N03",
+      "name": "韩当",
+      "assetId": "portrait-hero_CH12_N03",
+      "file": "unique/portraits/hero_CH12_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "3ed654239a4262acc1d23aad0cedf54e031fe4a3c44088b01edeac337ad83814",
+      "generatedSha256": "c0caf24950ed1dee0526302a55f90f5d16d8fb20bd40b64ac9d4a0dc0c23dbdd",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55162,
+        "transparentPixels": 24830,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        264,
+        303
+      ],
+      "transparentMargin": 3,
+      "sha256": "53fbcacca1ee9329944b54b7c2cff6e5d1a6d7261964431316a5264be1b83f52"
+    },
+    {
+      "cardId": "hero:CH12_N04",
+      "name": "蒋钦",
+      "assetId": "portrait-hero_CH12_N04",
+      "file": "unique/portraits/hero_CH12_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "cc4cb24fb3828247c48feb66efd55c0a78b3c58b77b9b97cecd72cd66cd0f927",
+      "generatedSha256": "8cf2435083c39398ed2133eb9c684e7d89079c5fd00fbaf1168cc6572db96094",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53441,
+        "transparentPixels": 23965,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        266,
+        291
+      ],
+      "transparentMargin": 3,
+      "sha256": "75bcd8295471ceccd7dfbe5f2856c86ea82e3f23cfff14a70e845a79aa87c45d"
+    },
+    {
+      "cardId": "hero:CH12_N05",
+      "name": "甘宁",
+      "assetId": "portrait-hero_CH12_N05",
+      "file": "unique/portraits/hero_CH12_N05.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH12_N06",
+      "name": "留赞",
+      "assetId": "portrait-hero_CH12_N06",
+      "file": "unique/portraits/hero_CH12_N06.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH12_N07",
+      "name": "陆抗",
+      "assetId": "portrait-hero_CH12_N07",
+      "file": "unique/portraits/hero_CH12_N07.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "c940cc40a021abea24e98f3966bed77f6b74ef3cfc974f3336e3ae0abb8fdb4b",
+      "generatedSha256": "1dc30b94a9df9a4c85185c36c50ecb97d9f5fc4ec34852d014fe72eb71860efd",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 52217,
+        "transparentPixels": 27548,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        265,
+        301
+      ],
+      "transparentMargin": 3,
+      "sha256": "4aac5818b3d38ef2b23fb8a468aa3fb33a5336eed244dc308c9c27cd378b44f5"
+    },
+    {
+      "cardId": "hero:CH12_N08",
+      "name": "丁奉",
+      "assetId": "portrait-hero_CH12_N08",
+      "file": "unique/portraits/hero_CH12_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "575233278d3e76f4a7ec232a5852aa8c8726ed5b585cae53fede5be16dc88e3b",
+      "generatedSha256": "7937c5c1733162537123d84d72ab331878bc98c34e44d04106aa86107e584576",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 57701,
+        "transparentPixels": 24882,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        269,
+        307
+      ],
+      "transparentMargin": 3,
+      "sha256": "edd6cede2052f214fabe17956eaebe6189ba3607cb996140aaaaf3a1ab8936e2"
+    },
+    {
+      "cardId": "hero:CH12_N09",
+      "name": "张昭",
+      "assetId": "portrait-hero_CH12_N09",
+      "file": "unique/portraits/hero_CH12_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "d3845817f51023a928cf3b63463d3eed822b373a01d11bca9033a13903713eb4",
+      "generatedSha256": "3315f6d0535e497e1fc8f59606b667148c03c6389ccf2d21bbfc2770b43e34f9",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 51541,
+        "transparentPixels": 27359,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        300
+      ],
+      "transparentMargin": 3,
+      "sha256": "c2445696f695aa8ed9b8aa6dc5f676f707719a5d6ccb768b38ae5b2ec7e62016"
+    },
+    {
+      "cardId": "hero:CH12_N10",
+      "name": "吕蒙（神）",
+      "assetId": "portrait-hero_CH12_N10",
+      "file": "unique/portraits/hero_CH12_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "7a5a198d5ec4d6d95869c0ace1aa83fcb8fe19a83ebc02daa70120ee367c2bbc",
+      "generatedSha256": "245a9dbb2e1e1c042a636c722368b67321471758a525dadfdfe2b9bd549bec77",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 53615,
+        "transparentPixels": 27589,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        268,
+        303
+      ],
+      "transparentMargin": 3,
+      "sha256": "bbc85095949c52731f49b0038802bc837119a936396bc05a25f60f08da0d9181"
+    },
+    {
+      "cardId": "hero:CH13_N01",
+      "name": "成济",
+      "assetId": "portrait-hero_CH13_N01",
+      "file": "unique/portraits/hero_CH13_N01.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "112011136f2d6181c6ef9529ec652a3c98ee482fa4e2a1e2c698e1f8c0e75a15",
+      "generatedSha256": "1f2dd1e789b4d0fac534bb655f5b78a39eba1cfc8dba4d9fa02636b05ff95a2c",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55325,
+        "transparentPixels": 27394,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        273,
+        303
+      ],
+      "transparentMargin": 3,
+      "sha256": "51ade3840dfd647b6b7de1fe2e4867b8f07ab97bb6cc8c70d62be16198e28eb8"
+    },
+    {
+      "cardId": "hero:CH13_N02",
+      "name": "文鸯",
+      "assetId": "portrait-hero_CH13_N02",
+      "file": "unique/portraits/hero_CH13_N02.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH13_N03",
+      "name": "王基",
+      "assetId": "portrait-hero_CH13_N03",
+      "file": "unique/portraits/hero_CH13_N03.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "bad4f3269753d5dec46790260f503bdd66eb8f64177388f5005c800432b141c4",
+      "generatedSha256": "75318f895d70362d7918b216a5ba0c2c75842006fe2888e2a3f1d5233e95eed1",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 56766,
+        "transparentPixels": 21674,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        265,
+        296
+      ],
+      "transparentMargin": 3,
+      "sha256": "75df7e943fa337e8b4aecf5f87c5dedb9e7d2c1ff9f6f6f79a11f1fec1badb04"
+    },
+    {
+      "cardId": "hero:CH13_N04",
+      "name": "杨修",
+      "assetId": "portrait-hero_CH13_N04",
+      "file": "unique/portraits/hero_CH13_N04.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "1c1e35d6a147bdfb0d2c1267727c8c76f7b8030e92e876993ba0a6ef62f35899",
+      "generatedSha256": "06675f144b281b85058c1de9c346c5aa75c8c1b7f3b6c10fd1f8fd942ea1e28a",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 44576,
+        "transparentPixels": 23206,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        237,
+        286
+      ],
+      "transparentMargin": 3,
+      "sha256": "80acab160e3818c03c40a67a8cfac39e33cc96d348fde5a00ac3ea3c4e2ff2fe"
+    },
+    {
+      "cardId": "hero:CH13_N05",
+      "name": "司马师",
+      "assetId": "portrait-hero_CH13_N05",
+      "file": "unique/portraits/hero_CH13_N05.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "e17ec91e91f56b9ee27ddbb163f84513fe11871f44fb84ab364f41303c6cc0f5",
+      "generatedSha256": "3f51f73d3b220967b147131e1bbfb01cc65ce46f611ec099bd5fc490ae849dc0",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 50394,
+        "transparentPixels": 21830,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        244,
+        296
+      ],
+      "transparentMargin": 3,
+      "sha256": "d03bd9a06cc8f2a6331e7b954780500be05db45ac410de4cdcbce95029aeb833"
+    },
+    {
+      "cardId": "hero:CH13_N06",
+      "name": "夏侯令女",
+      "assetId": "portrait-hero_CH13_N06",
+      "file": "unique/portraits/hero_CH13_N06.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH13_N07",
+      "name": "夏侯霸",
+      "assetId": "portrait-hero_CH13_N07",
+      "file": "unique/portraits/hero_CH13_N07.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "hero:CH13_N08",
+      "name": "卫瓘",
+      "assetId": "portrait-hero_CH13_N08",
+      "file": "unique/portraits/hero_CH13_N08.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "0b312e687e7e7eba9f7705a7c47b8f678ddc8624c9747b2c3ad536920fc7e659",
+      "generatedSha256": "02f312661bdc7cab671d79643ba5ddefe2b6e7fece5c550c6098942e494c8c54",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 50303,
+        "transparentPixels": 29386,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        263,
+        303
+      ],
+      "transparentMargin": 3,
+      "sha256": "6e7d402cfd8e6eb29932fe4f371faa8e430362f91c859e23e6f4d89969abff30"
+    },
+    {
+      "cardId": "hero:CH13_N09",
+      "name": "甄宓",
+      "assetId": "portrait-hero_CH13_N09",
+      "file": "unique/portraits/hero_CH13_N09.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "aaff99a26cb92d6e09f3d5ea13c0e77db53ca958617ae71e9b25fc309052bc11",
+      "generatedSha256": "9788384b77381dc06cf0cf36ac0314d9ed81f58e98b693c1ca2e31e0d5f96e4b",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 55148,
+        "transparentPixels": 24418,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        267,
+        298
+      ],
+      "transparentMargin": 3,
+      "sha256": "50dc03b1199692dc07da0f4d1660991df8716d2ddd1f10e21eeff9d1add00eea"
+    },
+    {
+      "cardId": "hero:CH13_N10",
+      "name": "钟会",
+      "assetId": "portrait-hero_CH13_N10",
+      "file": "unique/portraits/hero_CH13_N10.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "e78a270f21a007b34e63c032a722a7d0780e5fd8fd8602c2f15654fa20647aef",
+      "generatedSha256": "38aac7865905d92aab325cc5cf2d75c6ec3ebe077250f3e8c4e95c8f7c296255",
+      "originalMethod": "edge-connected paper flood; ink-closed native silhouette; UI-envelope exclusion; largest connected head; alpha-only native extraction",
+      "originalFidelity": {
+        "visibleRgbChangedPixels": 0,
+        "transparentRgbZero": true,
+        "visiblePixels": 54525,
+        "transparentPixels": 24899,
+        "resized": false,
+        "repainted": false
+      },
+      "exportCanvas": [
+        272,
+        292
+      ],
+      "transparentMargin": 3,
+      "sha256": "27416897668fdeb5636791781e3ecbb09b38b34fb710b77999d376770099dfad"
+    },
+    {
+      "cardId": "soldier:blade",
+      "name": "刀兵",
+      "assetId": "portrait-soldier_blade",
+      "file": "unique/portraits/soldier_blade.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:spear",
+      "name": "枪兵",
+      "assetId": "portrait-soldier_spear",
+      "file": "unique/portraits/soldier_spear.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b1_huangjin",
+      "name": "太平弓手",
+      "assetId": "portrait-soldier_b1_huangjin",
+      "file": "unique/portraits/soldier_b1_huangjin.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b2_huangjin",
+      "name": "黄天骑",
+      "assetId": "portrait-soldier_b2_huangjin",
+      "file": "unique/portraits/soldier_b2_huangjin.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b3_huangjin",
+      "name": "黄巾力士",
+      "assetId": "portrait-soldier_b3_huangjin",
+      "file": "unique/portraits/soldier_b3_huangjin.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b5_huangjin",
+      "name": "太平道士",
+      "assetId": "portrait-soldier_b5_huangjin",
+      "file": "unique/portraits/soldier_b5_huangjin.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_huang_guidao",
+      "name": "鬼道师",
+      "assetId": "portrait-soldier_c_huang_guidao",
+      "file": "unique/portraits/soldier_c_huang_guidao.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_huang_zombie",
+      "name": "僵尸兵",
+      "assetId": "portrait-soldier_c_huang_zombie",
+      "file": "unique/portraits/soldier_c_huang_zombie.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b1_qun",
+      "name": "河北弓手",
+      "assetId": "portrait-soldier_b1_qun",
+      "file": "unique/portraits/soldier_b1_qun.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b2_qun",
+      "name": "金戈铁马",
+      "assetId": "portrait-soldier_b2_qun",
+      "file": "unique/portraits/soldier_b2_qun.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b3_qun",
+      "name": "金甲勇士",
+      "assetId": "portrait-soldier_b3_qun",
+      "file": "unique/portraits/soldier_b3_qun.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b4_qun",
+      "name": "强石车",
+      "assetId": "portrait-soldier_b4_qun",
+      "file": "unique/portraits/soldier_b4_qun.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_qun_baima",
+      "name": "白马义从",
+      "assetId": "portrait-soldier_c_qun_baima",
+      "file": "unique/portraits/soldier_c_qun_baima.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_qun_xiang",
+      "name": "巨象甲兵",
+      "assetId": "portrait-soldier_c_qun_xiang",
+      "file": "unique/portraits/soldier_c_qun_xiang.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b2_wei",
+      "name": "虎豹骑",
+      "assetId": "portrait-soldier_b2_wei",
+      "file": "unique/portraits/soldier_b2_wei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b3_wei",
+      "name": "虎卫军",
+      "assetId": "portrait-soldier_b3_wei",
+      "file": "unique/portraits/soldier_b3_wei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b4_wei",
+      "name": "霹雳车",
+      "assetId": "portrait-soldier_b4_wei",
+      "file": "unique/portraits/soldier_b4_wei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b5_wei",
+      "name": "随军医士",
+      "assetId": "portrait-soldier_b5_wei",
+      "file": "unique/portraits/soldier_b5_wei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_wei_baowei",
+      "name": "豹卫军",
+      "assetId": "portrait-soldier_c_wei_baowei",
+      "file": "unique/portraits/soldier_c_wei_baowei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_wei_huwei",
+      "name": "虎卫军",
+      "assetId": "portrait-soldier_c_wei_huwei",
+      "file": "unique/portraits/soldier_c_wei_huwei.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b1_shu",
+      "name": "益州弓手",
+      "assetId": "portrait-soldier_b1_shu",
+      "file": "unique/portraits/soldier_b1_shu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b2_shu",
+      "name": "汉中突骑",
+      "assetId": "portrait-soldier_b2_shu",
+      "file": "unique/portraits/soldier_b2_shu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b4_shu",
+      "name": "旋刃车",
+      "assetId": "portrait-soldier_b4_shu",
+      "file": "unique/portraits/soldier_b4_shu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b5_shu",
+      "name": "蜀中医士",
+      "assetId": "portrait-soldier_b5_shu",
+      "file": "unique/portraits/soldier_b5_shu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_shu_huben",
+      "name": "虎贲",
+      "assetId": "portrait-soldier_c_shu_huben",
+      "file": "unique/portraits/soldier_c_shu_huben.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_shu_kongming",
+      "name": "孔明灯",
+      "assetId": "portrait-soldier_c_shu_kongming",
+      "file": "unique/portraits/soldier_c_shu_kongming.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b1_wu",
+      "name": "江东弓手",
+      "assetId": "portrait-soldier_b1_wu",
+      "file": "unique/portraits/soldier_b1_wu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b3_wu",
+      "name": "巾帼卫",
+      "assetId": "portrait-soldier_wu-new-b3_wu",
+      "file": "unique/portraits/soldier_wu-new-b3_wu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b4_wu",
+      "name": "劲弩车",
+      "assetId": "portrait-soldier_wu-new-b4_wu",
+      "file": "unique/portraits/soldier_wu-new-b4_wu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:b5_wu",
+      "name": "江东医士",
+      "assetId": "portrait-soldier_wu-new-b5_wu",
+      "file": "unique/portraits/soldier_wu-new-b5_wu.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_wu_firebow",
+      "name": "火攻弓手",
+      "assetId": "portrait-soldier_wu-new-c_wu_firebow",
+      "file": "unique/portraits/soldier_wu-new-c_wu_firebow.png",
+      "status": "checked-preserved"
+    },
+    {
+      "cardId": "soldier:c_wu_jieying",
+      "name": "劫营步兵",
+      "assetId": "portrait-soldier_wu-new-c_wu_jieying",
+      "file": "unique/portraits/soldier_wu-new-c_wu_jieying.png",
+      "status": "repaired",
+      "version": "v026",
+      "date": "2026-10-26",
+      "restorationSource": "imagegen-edit",
+      "originalSha256": "8b35442013ea2d18c25c87c16fd229ee3ac25c91125197fefa78581791bc2b8a",
+      "generatedSha256": "a8051279d2c4728e2724e15a8a9e11d3a3de54d289d00fda59fd15fb66a9b186",
+      "originalMethod": "从用户确认概念图按原像素轮廓提取；人物与武器不重画",
+      "originalFidelity": null,
+      "exportCanvas": [
+        823,
+        840
+      ],
+      "transparentMargin": 3,
+      "sha256": "f139395d58acace52b7d273b6fb744c7228ada87744fe3f8bed794982e1af824"
+    }
+  ]
+}
