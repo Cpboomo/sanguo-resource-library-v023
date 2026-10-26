@@ -4,7 +4,7 @@ const state = { manifest: null, selected: null, layers: [], refs: new Map(), car
 let resizeObserver;
 const factionNames = { wei: '魏', shu: '蜀', wu: '吴', qun: '群雄', huangjin: '黄巾', han: '汉', neutral: '中立' };
 const gradeNames = { C: '绿色边框', B: '蓝色边框', A: '紫色边框', S: '橙色边框', U: '红色边框' };
-const categoryNames = { frame: '共用彩色卡框', background: '底板', faction: '国家菱形', role: '资源标识', roleBase: '共用兵种徽章底', roleIcon: '独立兵种图标', portrait: '人物头像', resourceArt: '资源插图', approvedResourceCard: '已确认资源整卡', name: '姓名', divider: '分隔线', character: '人物' };
+const categoryNames = { frame: '共用品级色边框与分隔带', background: '全卡共用米白底板', footer: '全卡共用黑色尾页', faction: '国家菱形', role: '资源标识', resourceBadge: '资源圆形角标', roleBase: '共用兵种徽章底', roleIcon: '独立兵种图标', portrait: '人物头像', resourceArt: '资源插图', approvedResourceCard: '已确认资源整卡', name: '透明标题', divider: '分隔线', character: '人物' };
 function node(tag, cls, text) { const n = document.createElement(tag); if (cls) n.className = cls; if (text !== undefined) n.textContent = text; return n; }
 function filePath(value) { if (typeof value !== 'string' || !value.trim()) throw new Error('清单缺少PNG文件路径'); return value; }
 function kindOf(card) { return card.kind === 'resource' ? 'resource' : ['soldier', 'troop', 'minion'].includes(card.kind) ? 'soldier' : 'hero'; }

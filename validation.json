@@ -14,6 +14,16 @@
   "rankLettersVisible": false,
   "starsVisible": false,
   "gradeEncoding": "border color only",
+  "sharedStructureUsage": {
+    "card-base-ivory-v025": 164,
+    "card-footer-black-v025": 164,
+    "card-frame-C-v025": 40,
+    "card-frame-B-v025": 60,
+    "card-frame-S-v025": 10,
+    "card-frame-A-v025": 51,
+    "card-frame-U-v025": 3
+  },
+  "recipeMatchesEveryAssembledCard": true,
   "archives": {
     "role-icons-transparent-png.zip": {
       "bytes": 280181,
