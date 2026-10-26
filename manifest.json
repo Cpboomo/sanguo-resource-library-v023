@@ -18697,7 +18697,8 @@
       "factionId": "neutral",
       "factionColor": "#b9b9b9",
       "roleGlyphs": [
-        "田"
+        "粮田",
+        "道具"
       ],
       "chapters": [],
       "stageIds": [],
@@ -18733,24 +18734,24 @@
           "height": 255
         },
         {
-          "id": "resource:farmland:faction-v023",
-          "assetId": "faction-neutral",
-          "label": "原卡阵营菱形",
-          "x": 221,
-          "y": 27,
-          "z": 60,
-          "width": 66,
-          "height": 66
+          "id": "resource:farmland:resource-type-v024",
+          "assetId": "resource-badge-farmland-v024",
+          "label": "farmland · 资源类型圆形角标",
+          "x": 12,
+          "y": 10,
+          "z": 61,
+          "width": 88,
+          "height": 88
         },
         {
-          "id": "resource:farmland:role-v023:0",
-          "assetId": "role-7530",
-          "label": "田 · 单字菱形",
-          "x": 29,
-          "y": 29,
-          "z": 61,
-          "width": 66,
-          "height": 66
+          "id": "resource:farmland:item-v024",
+          "assetId": "resource-badge-item-v024",
+          "label": "道具 · 三张资源卡共用圆形角标",
+          "x": 213,
+          "y": 10,
+          "z": 62,
+          "width": 88,
+          "height": 88
         },
         {
           "id": "resource:farmland:name-v023",
@@ -18763,7 +18764,7 @@
           "height": 58
         }
       ],
-      "sha256": "9b15a7ac8855d9abd91bf06d3d51b55f289dd4a98e158d1565ecc212c051025d",
+      "sha256": "686ef16a0043e084eab073471675856afabfb8398d655e6c77c338bf6afec09d",
       "frameStyle": "black-resource",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
@@ -18774,7 +18775,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v023-color-border-no-rank-letter"
+      "styleVersion": "v024-resource-badges"
     },
     {
       "id": "soldier:b3_wu",
@@ -19317,7 +19318,8 @@
       "factionId": "neutral",
       "factionColor": "#A9AFB3",
       "roleGlyphs": [
-        "资源"
+        "土块",
+        "道具"
       ],
       "chapters": [],
       "stageIds": [],
@@ -19328,18 +19330,38 @@
       "recipe": [
         {
           "id": "resource:soil:approved-v023",
-          "assetId": "approved-resource-card-soil",
+          "assetId": "approved-resource-card-soil-base-v024",
           "label": "土块 · 已确认整卡图案",
           "x": 0,
           "y": 0,
           "z": 10,
           "width": 313,
           "height": 473
+        },
+        {
+          "id": "resource:soil:resource-type-v024",
+          "assetId": "resource-badge-soil-v024",
+          "label": "soil · 资源类型圆形角标",
+          "x": 12,
+          "y": 10,
+          "z": 61,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "id": "resource:soil:item-v024",
+          "assetId": "resource-badge-item-v024",
+          "label": "道具 · 三张资源卡共用圆形角标",
+          "x": 213,
+          "y": 10,
+          "z": 62,
+          "width": 88,
+          "height": 88
         }
       ],
       "image": "assembled/resource_soil.png",
-      "styleVersion": "v023-approved-resource-card",
-      "sha256": "a7e049f774fca3ea0cb8492c2b0a033e945327ed07239b3cceae6d02e5b128b6"
+      "styleVersion": "v024-resource-badges",
+      "sha256": "aef0660bb0bf2d32fc9010578f1480ec0ed13a7e8a8c48f05ecbdcaa3b3547ad"
     },
     {
       "id": "resource:granary",
@@ -19351,7 +19373,8 @@
       "factionId": "neutral",
       "factionColor": "#A9AFB3",
       "roleGlyphs": [
-        "资源"
+        "粮仓",
+        "道具"
       ],
       "chapters": [],
       "stageIds": [],
@@ -19362,18 +19385,38 @@
       "recipe": [
         {
           "id": "resource:granary:approved-v023",
-          "assetId": "approved-resource-card-granary",
+          "assetId": "approved-resource-card-granary-base-v024",
           "label": "粮仓 · 已确认整卡图案",
           "x": 0,
           "y": 0,
           "z": 10,
           "width": 313,
           "height": 473
+        },
+        {
+          "id": "resource:granary:resource-type-v024",
+          "assetId": "resource-badge-granary-v024",
+          "label": "granary · 资源类型圆形角标",
+          "x": 12,
+          "y": 10,
+          "z": 61,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "id": "resource:granary:item-v024",
+          "assetId": "resource-badge-item-v024",
+          "label": "道具 · 三张资源卡共用圆形角标",
+          "x": 213,
+          "y": 10,
+          "z": 62,
+          "width": 88,
+          "height": 88
         }
       ],
       "image": "assembled/resource_granary.png",
-      "styleVersion": "v023-approved-resource-card",
-      "sha256": "9ea8efc52fdc818ed17a518d6e2caaf459e0cfad88b7879fa85e84e62930e7fc"
+      "styleVersion": "v024-resource-badges",
+      "sha256": "51f1c0ced8cf9351d733cdb9c4b4bdb128e82940be887030c8b5b7058610ed5b"
     }
   ],
   "assets": [
@@ -19452,8 +19495,8 @@
       "height": 68,
       "method": "同一批准菱形的黑白同心包边；中央仅替换国家颜色，无字",
       "sha256": "b313e6cc908b0473d31042a9a5f7ce0cc4f20f0f1ad5bdc57741be5c32642d60",
-      "instanceCount": 3,
-      "cardCount": 3
+      "instanceCount": 2,
+      "cardCount": 2
     },
     {
       "id": "name-hero_CH01_N01",
@@ -25502,8 +25545,8 @@
         "edgePixels": 786,
         "outerEdgePaperColoredPixels": 0
       },
-      "instanceCount": 1,
-      "cardCount": 1
+      "instanceCount": 0,
+      "cardCount": 0
     },
     {
       "id": "portrait-soldier_wu-new-b3_wu",
@@ -25961,28 +26004,80 @@
       "cardCount": 3
     },
     {
-      "id": "approved-resource-card-soil",
-      "label": "土块 · 已确认整卡图案",
-      "file": "resources/resource-cards-v023/resource_soil.png",
-      "category": "approvedResourceCard",
+      "id": "resource-badge-farmland-v024",
+      "label": "粮田·白色麦田剪影",
+      "file": "shared/resource-badges-v024/farmland.png",
+      "category": "resourceBadge",
       "shared": false,
-      "width": 313,
-      "height": 473,
-      "method": "用户确认资源卡概念，等比缩放进入统一卡牌尺寸",
-      "sha256": "a7e049f774fca3ea0cb8492c2b0a033e945327ed07239b3cceae6d02e5b128b6",
+      "width": 88,
+      "height": 88,
+      "method": "资源卡统一角标：黑色圆底、白色完整剪影、左右同尺寸；右上道具袋三卡共用",
+      "sha256": "c6edb0393344f580ac3bc104ffe8d2a9aaee0812d10eac51c04999828f8f7197",
       "instanceCount": 1,
       "cardCount": 1
     },
     {
-      "id": "approved-resource-card-granary",
-      "label": "粮仓 · 已确认整卡图案",
-      "file": "resources/resource-cards-v023/resource_granary.png",
-      "category": "approvedResourceCard",
+      "id": "resource-badge-soil-v024",
+      "label": "土块·白色土块剪影",
+      "file": "shared/resource-badges-v024/soil.png",
+      "category": "resourceBadge",
+      "shared": false,
+      "width": 88,
+      "height": 88,
+      "method": "资源卡统一角标：黑色圆底、白色完整剪影、左右同尺寸；右上道具袋三卡共用",
+      "sha256": "b88fc766ec5343330cd5b39062b9b0fa24e4232c3877f7f6331536a62e721ab5",
+      "instanceCount": 1,
+      "cardCount": 1
+    },
+    {
+      "id": "resource-badge-granary-v024",
+      "label": "粮仓·白色粮仓剪影",
+      "file": "shared/resource-badges-v024/granary.png",
+      "category": "resourceBadge",
+      "shared": false,
+      "width": 88,
+      "height": 88,
+      "method": "资源卡统一角标：黑色圆底、白色完整剪影、左右同尺寸；右上道具袋三卡共用",
+      "sha256": "74ac41b170ea86ff926bc7dd539f1fc82963f3d7297fff1cf6efad5748b8bc5e",
+      "instanceCount": 1,
+      "cardCount": 1
+    },
+    {
+      "id": "resource-badge-item-v024",
+      "label": "道具·白色道具袋剪影",
+      "file": "shared/resource-badges-v024/item.png",
+      "category": "resourceBadge",
+      "shared": true,
+      "width": 88,
+      "height": 88,
+      "method": "资源卡统一角标：黑色圆底、白色完整剪影、左右同尺寸；右上道具袋三卡共用",
+      "sha256": "3723059959092bf46c8892241b1ef96b008f58c4fd7a185fc982279e262a4a58",
+      "instanceCount": 3,
+      "cardCount": 3
+    },
+    {
+      "id": "approved-resource-card-soil-base-v024",
+      "label": "土块 · 已确认整卡图案",
+      "file": "unique/resources/soil-base-v024.png",
+      "category": "resourceCardBase",
       "shared": false,
       "width": 313,
       "height": 473,
-      "method": "用户确认资源卡概念，等比缩放进入统一卡牌尺寸",
-      "sha256": "9ea8efc52fdc818ed17a518d6e2caaf459e0cfad88b7879fa85e84e62930e7fc",
+      "method": "用户确认资源卡概念，保留主体与文字；角标由v024统一资源组件覆盖",
+      "sha256": "e0e86b7213183fad2a47cf1dc7b2d611bcddbc1b825008679161a5ed5970197b",
+      "instanceCount": 1,
+      "cardCount": 1
+    },
+    {
+      "id": "approved-resource-card-granary-base-v024",
+      "label": "粮仓 · 已确认整卡图案",
+      "file": "unique/resources/granary-base-v024.png",
+      "category": "resourceCardBase",
+      "shared": false,
+      "width": 313,
+      "height": 473,
+      "method": "用户确认资源卡概念，保留主体与文字；角标由v024统一资源组件覆盖",
+      "sha256": "c7f2731d44d55dd6bc6d502b8eac578415b02c0cb3e0f7b5ff8c3b3ed41a5d8e",
       "instanceCount": 1,
       "cardCount": 1
     }
@@ -25992,9 +26087,9 @@
     "heroFaces": 129,
     "soldiers": 32,
     "resources": 3,
-    "uniquePngAssets": 358,
-    "sharedPngAssets": 32,
-    "componentInstances": 841,
+    "uniquePngAssets": 362,
+    "sharedPngAssets": 33,
+    "componentInstances": 845,
     "starPngFiles": 0,
     "starInstances": 0,
     "framePngFiles": 5,
@@ -26066,12 +26161,12 @@
     "definition": "所有标准卡共用5张边框颜色卡框；人物、兵种、阵营、姓名继续引用原独立PNG。",
     "frame": "同一边框颜色只维护一张313×473共用卡框PNG。",
     "assembly": "卡牌由共用卡框、原人物、原阵营、原兵种图标与原姓名图层按manifest配方组装。",
-    "resourceCards": "粮田复用标准卡框；土块与粮仓保留已确认的完整图案卡。"
+    "resourceCards": "粮田、土块、粮仓共用v024资源角标规则；左上按资源类型区分，右上共用道具袋图标。"
   },
   "limitations": [
     "人物、兵种、阵营、姓名沿用原卡独立PNG；本版只统一共享卡框与布局。",
     "评级字母与星级已从卡面和组装配方移除，品级仅由边框颜色表达。",
-    "土块与粮仓为已确认整卡概念，作为独立资源卡收录。"
+    "土块与粮仓保留已确认主体图案，三张资源卡统一使用左上资源类型与右上道具袋圆形角标。"
   ],
   "frameLayout": {
     "cardSize": [
@@ -26274,7 +26369,7 @@
     "status": "164张卡统一重组完成，透明PNG组件可直接复用。"
   },
   "version": "v023",
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-26",
   "style": {
     "outerBorder": "thick black rounded silhouette",
     "gradeEncoding": "border color only",
@@ -26282,6 +26377,7 @@
     "stars": false,
     "roleBadge": "top-left black circle with white pictogram",
     "factionBadge": "top-right diamond",
+    "resourceBadge": "资源卡左上为具体资源，右上统一为道具袋；左右同尺寸黑圆白剪影",
     "footer": "black rounded name panel",
     "cardSize": [
       313,

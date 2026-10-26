@@ -809,8 +809,8 @@ soldier:b1_wu,江东弓手,soldier:b1_wu:role-v023:0,role-v021bw-弓,弓·黑白
 soldier:b1_wu,江东弓手,soldier:b1_wu:name-v023,name-soldier_b1_wu,江东弓手 · 原概念姓名,50,380,70,213,58
 resource:farmland,粮田,resource:farmland:shell-v023,card-shell-C-v023,绿色边框共用卡框,0,0,10,313,473
 resource:farmland,粮田,resource:farmland:portrait-v023,resource-art-farmland,粮田 · 麦田插图,24,108,40,265,255
-resource:farmland,粮田,resource:farmland:faction-v023,faction-neutral,原卡阵营菱形,221,27,60,66,66
-resource:farmland,粮田,resource:farmland:role-v023:0,role-7530,田 · 单字菱形,29,29,61,66,66
+resource:farmland,粮田,resource:farmland:resource-type-v024,resource-badge-farmland-v024,farmland · 资源类型圆形角标,12,10,61,88,88
+resource:farmland,粮田,resource:farmland:item-v024,resource-badge-item-v024,道具 · 三张资源卡共用圆形角标,213,10,62,88,88
 resource:farmland,粮田,resource:farmland:name-v023,name-resource_farmland,粮田 · 姓名,97,380,70,118,58
 soldier:b3_wu,巾帼卫,soldier:b3_wu:shell-v023,card-shell-B-v023,蓝色边框共用卡框,0,0,10,313,473
 soldier:b3_wu,巾帼卫,soldier:b3_wu:portrait-v023,portrait-soldier_wu-new-b3_wu,巾帼卫 · 人物与武器,24,54,40,265,309
@@ -838,5 +838,9 @@ soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:portrait-v023,portrait-so
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:name-v023,name-soldier_wu-new-c_wu_jieying,劫营步兵 · 姓名,44,382,70,225,54
-resource:soil,土块,resource:soil:approved-v023,approved-resource-card-soil,土块 · 已确认整卡图案,0,0,10,313,473
-resource:granary,粮仓,resource:granary:approved-v023,approved-resource-card-granary,粮仓 · 已确认整卡图案,0,0,10,313,473
+resource:soil,土块,resource:soil:approved-v023,approved-resource-card-soil-base-v024,土块 · 已确认整卡图案,0,0,10,313,473
+resource:soil,土块,resource:soil:resource-type-v024,resource-badge-soil-v024,soil · 资源类型圆形角标,12,10,61,88,88
+resource:soil,土块,resource:soil:item-v024,resource-badge-item-v024,道具 · 三张资源卡共用圆形角标,213,10,62,88,88
+resource:granary,粮仓,resource:granary:approved-v023,approved-resource-card-granary-base-v024,粮仓 · 已确认整卡图案,0,0,10,313,473
+resource:granary,粮仓,resource:granary:resource-type-v024,resource-badge-granary-v024,granary · 资源类型圆形角标,12,10,61,88,88
+resource:granary,粮仓,resource:granary:item-v024,resource-badge-item-v024,道具 · 三张资源卡共用圆形角标,213,10,62,88,88
