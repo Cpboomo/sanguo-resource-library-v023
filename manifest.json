@@ -1445,7 +1445,7 @@
       "id": "hero:CH01_N10",
       "name": "张角",
       "kind": "hero",
-      "grade": "B",
+      "grade": "A",
       "faction": "黄",
       "factionId": "huangjin",
       "factionColor": "#f2b53c",
@@ -1485,8 +1485,8 @@
         },
         {
           "id": "hero:CH01_N10:shell-v023",
-          "assetId": "card-frame-B-v025",
-          "label": "蓝色边框共用边框与分隔带",
+          "assetId": "card-frame-A-v025",
+          "label": "紫色边框共用边框与分隔带",
           "x": 0,
           "y": 0,
           "z": 20,
@@ -1571,7 +1571,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "6681fb008732a6ac898539c7384bc19a4c585d777714e396b9f597c9bc21911e",
+      "sha256": "deffa761edad78d29747009e63cfe46584db614ecc730c393aea43f23107dfe0",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1582,7 +1582,7 @@
         ],
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
-      "gradeDisplay": "蓝色边框",
+      "gradeDisplay": "紫色边框",
       "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH01_N10-张角.png",
@@ -3088,7 +3088,7 @@
       "id": "hero:CH02_N10",
       "name": "董卓",
       "kind": "hero",
-      "grade": "B",
+      "grade": "A",
       "faction": "群",
       "factionId": "qun",
       "factionColor": "#bd82ea",
@@ -3128,8 +3128,8 @@
         },
         {
           "id": "hero:CH02_N10:shell-v023",
-          "assetId": "card-frame-B-v025",
-          "label": "蓝色边框共用边框与分隔带",
+          "assetId": "card-frame-A-v025",
+          "label": "紫色边框共用边框与分隔带",
           "x": 0,
           "y": 0,
           "z": 20,
@@ -3214,7 +3214,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "3b6fbfa8f4447c1ce10fd77f20245bf1dc85633ffb831f8b75cf9f8531cc6791",
+      "sha256": "946e42aa403898db6380cedbfbb693681cde0d901f86640f9ec18abb4483cf0b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3225,7 +3225,7 @@
         ],
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
-      "gradeDisplay": "蓝色边框",
+      "gradeDisplay": "紫色边框",
       "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH02_N10-董卓.png",
@@ -34829,8 +34829,8 @@
       "height": 473,
       "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "c1321fca54776b47671c324e6c1b5488420bec3d2dcbcc0e164bad200806d050",
-      "instanceCount": 60,
-      "cardCount": 60
+      "instanceCount": 58,
+      "cardCount": 58
     },
     {
       "id": "card-frame-A-v025",
@@ -34842,8 +34842,8 @@
       "height": 473,
       "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "66badf853cfa423edeb2f6f4029effe9604cadda834fae7f542fea5c1b1fa3b2",
-      "instanceCount": 51,
-      "cardCount": 51
+      "instanceCount": 53,
+      "cardCount": 53
     },
     {
       "id": "card-frame-S-v025",
@@ -34989,8 +34989,8 @@
     "framePngFiles": 5,
     "grades": {
       "C": 40,
-      "B": 60,
-      "A": 51,
+      "B": 58,
+      "A": 53,
       "S": 10,
       "U": 3
     }
@@ -35052,7 +35052,7 @@
     "index": "downloads.html"
   },
   "reuse": {
-    "definition": "全164张卡复用同一米色底板与黑色尾页，品级色边框按40/60/51/10/3张复用。",
+    "definition": "全164张卡复用同一米色底板与黑色尾页，按各卡品级共用颜色边框。",
     "frame": "五张313×473透明边框PNG，各包含外圈与同色中间分隔带，不包含卡面或文字。",
     "assembly": "底板 → 黑色尾页 → 透明品级色边框 → 独立主体 → 左右角标 → 透明标题。所有卡牌共用此结构。",
     "resourceCards": "粮田、土块、粮仓共用v024资源角标规则；左上按资源类型区分，右上共用道具袋图标。"
@@ -35293,5 +35293,6 @@
     "repaired": 138,
     "scope": "英雄与小兵手牌主体缺口修补；保留原角色、原组件ID和公共卡牌结构。",
     "report": "docs/hand-card-repairs-v032.json"
-  }
+  },
+  "heroGradeReference": "docs/hero-grade-reference-v033.json"
 }

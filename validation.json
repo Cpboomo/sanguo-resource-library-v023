@@ -3,6 +3,14 @@
   "version": "v023",
   "cards": 164,
   "heroes": 129,
+  "heroGradeCounts": {
+    "C": 36,
+    "B": 38,
+    "A": 43,
+    "S": 9,
+    "U": 3
+  },
+  "heroGradeReference": "docs/hero-grade-reference-v033.json",
   "soldiers": 32,
   "resourceCards": 3,
   "transparentRoleIcons": 20,
@@ -18,9 +26,9 @@
     "card-base-ivory-v025": 164,
     "card-footer-black-v025": 164,
     "card-frame-C-v025": 40,
-    "card-frame-B-v025": 60,
+    "card-frame-B-v025": 58,
+    "card-frame-A-v025": 53,
     "card-frame-S-v025": 10,
-    "card-frame-A-v025": 51,
     "card-frame-U-v025": 3
   },
   "recipeMatchesEveryAssembledCard": true,

@@ -1,0 +1,32 @@
+{
+  "reference": "docs/hero-grade-reference-v033.json",
+  "checkedHeroes": 129,
+  "changes": [
+    {
+      "id": "hero:CH01_N10",
+      "name": "张角",
+      "before": "B",
+      "after": "A"
+    },
+    {
+      "id": "hero:CH02_N10",
+      "name": "董卓",
+      "before": "B",
+      "after": "A"
+    }
+  ],
+  "heroGradeCounts": {
+    "U": 3,
+    "S": 9,
+    "A": 43,
+    "B": 38,
+    "C": 36
+  },
+  "allCardGradeCounts": {
+    "C": 40,
+    "B": 58,
+    "A": 53,
+    "S": 10,
+    "U": 3
+  }
+}

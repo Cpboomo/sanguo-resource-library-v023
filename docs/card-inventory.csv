@@ -8,7 +8,7 @@ hero:CH01_N06,波才,hero,1,绿色边框,医,assembled/hero_CH01_N06.png,7c86c79
 hero:CH01_N07,张宝,hero,1,绿色边框,召,assembled/hero_CH01_N07.png,89a9fad8ecfee1ee221d0ce61cdb5ae78d84fa9d425cfb874d7bd6f9c5857dcd
 hero:CH01_N08,张梁,hero,1,绿色边框,亡,assembled/hero_CH01_N08.png,c902ca5ea3dbc4a30f1426fc1e408de66140d5b5ae89103eb16ed5422d3e8285
 hero:CH01_N09,管亥,hero,1,蓝色边框,全,assembled/hero_CH01_N09.png,22d6736a92fa0ba4f72d7034ccfd8538fa15f0bccb32b24964e5e48b53e88ea8
-hero:CH01_N10,张角,hero,1,蓝色边框,技,assembled/hero_CH01_N10.png,6681fb008732a6ac898539c7384bc19a4c585d777714e396b9f597c9bc21911e
+hero:CH01_N10,张角,hero,1,紫色边框,技,assembled/hero_CH01_N10.png,deffa761edad78d29747009e63cfe46584db614ecc730c393aea43f23107dfe0
 hero:CH02_N01,董白,hero,2,绿色边框,刀,assembled/hero_CH02_N01.png,61292cbf9862ef22c98abfdf4d88360d50b73be465303e6adae8a5bd774e5cd5
 hero:CH02_N02,蔡邕,hero,2,绿色边框,枪,assembled/hero_CH02_N02.png,2a008bdd188977a6e1c3ca730b3b30fd1b2855f0abd8b831720d91311cf14833
 hero:CH02_N03,杨奉,hero,2,绿色边框,召,assembled/hero_CH02_N03.png,dab3dd65bf30bc5ad4db8f24541798d088e856a81672dfac2a19daabe70c080b
@@ -18,7 +18,7 @@ hero:CH02_N06,李傕,hero,2,绿色边框,械,assembled/hero_CH02_N06.png,db2ba13
 hero:CH02_N07,郭汜,hero,2,绿色边框,刀+盾,assembled/hero_CH02_N07.png,0d2f2a649f630ce9754b4689c80ee14cdf92d34f0ccaf850229e91c31b2b4ae2
 hero:CH02_N08,梁兴,hero,2,绿色边框,弓,assembled/hero_CH02_N08.png,a79bd8309f620f0f90bafc03555989cd9ddde79220bf9ff1ddb3eb822e14df33
 hero:CH02_N09,貂蝉,hero,2,蓝色边框,敌,assembled/hero_CH02_N09.png,ec51a0c5c8d7d62c762c19c741a801385afeab6f9547f7595a36079e46ed014e
-hero:CH02_N10,董卓,hero,2,蓝色边框,营,assembled/hero_CH02_N10.png,3b6fbfa8f4447c1ce10fd77f20245bf1dc85633ffb831f8b75cf9f8531cc6791
+hero:CH02_N10,董卓,hero,2,紫色边框,营,assembled/hero_CH02_N10.png,946e42aa403898db6380cedbfbb693681cde0d901f86640f9ec18abb4483cf0b
 hero:CH03_N01,王门,hero,3,绿色边框,刀,assembled/hero_CH03_N01.png,fb3f45eb343210289106ec3fd8a5870845280c37359bffebfb494746ad88bed1
 hero:CH03_N02,纪灵,hero,3,绿色边框,枪,assembled/hero_CH03_N02.png,76dcd2139550e5312f646fc87e4605f8bfb79dc00124e30669f5c14b4d12bcc2
 hero:CH03_N03,胡车儿,hero,3,绿色边框,刀,assembled/hero_CH03_N03.png,92fe55b626e6bb09982683da2a01c253c843d651da6c6878203d06302c1f61e5

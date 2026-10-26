@@ -1,0 +1,789 @@
+{
+  "source": "用户提供的129张英雄品级截图；张角、董卓调整为A级",
+  "counts": {
+    "U": 3,
+    "S": 9,
+    "A": 43,
+    "B": 38,
+    "C": 36
+  },
+  "nameAliases": {
+    "花鬘": "花鬓"
+  },
+  "heroes": [
+    {
+      "id": "hero:CH09_N10",
+      "name": "关羽（神）",
+      "userName": "关羽（神）",
+      "grade": "U"
+    },
+    {
+      "id": "hero:CH10_N10",
+      "name": "诸葛亮（神）",
+      "userName": "诸葛亮（神）",
+      "grade": "U"
+    },
+    {
+      "id": "hero:CH12_N10",
+      "name": "吕蒙（神）",
+      "userName": "吕蒙（神）",
+      "grade": "U"
+    },
+    {
+      "id": "hero:CH03_N10",
+      "name": "吕布",
+      "userName": "吕布",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH05_N10",
+      "name": "曹操",
+      "userName": "曹操",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH08_N07",
+      "name": "诸葛亮",
+      "userName": "诸葛亮",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH08_N08",
+      "name": "赵云",
+      "userName": "赵云",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH08_N09",
+      "name": "马超",
+      "userName": "马超",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH08_N10",
+      "name": "刘备",
+      "userName": "刘备",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH09_N07",
+      "name": "黄忠",
+      "userName": "黄忠",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH11_N10",
+      "name": "孙权",
+      "userName": "孙权",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH13_N10",
+      "name": "钟会",
+      "userName": "钟会",
+      "grade": "S"
+    },
+    {
+      "id": "hero:CH01_N10",
+      "name": "张角",
+      "userName": "张角",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH02_N10",
+      "name": "董卓",
+      "userName": "董卓",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH05_N06",
+      "name": "夏侯惇",
+      "userName": "夏侯惇",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH05_N09",
+      "name": "曹植",
+      "userName": "曹植",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH06_N09",
+      "name": "乐进",
+      "userName": "乐进",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH07_N09",
+      "name": "贾充",
+      "userName": "贾充",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH07_N10",
+      "name": "庞德",
+      "userName": "庞德",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH08_N05",
+      "name": "关银屏",
+      "userName": "关银屏",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH08_N06",
+      "name": "鲍三娘",
+      "userName": "鲍三娘",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH09_N05",
+      "name": "张任",
+      "userName": "张任",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH09_N06",
+      "name": "严颜",
+      "userName": "严颜",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH09_N08",
+      "name": "王平",
+      "userName": "王平",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH09_N09",
+      "name": "魏延",
+      "userName": "魏延",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH10_N05",
+      "name": "兀突骨",
+      "userName": "兀突骨",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH10_N06",
+      "name": "带来洞主",
+      "userName": "带来洞主",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH10_N07",
+      "name": "姜维",
+      "userName": "姜维",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH10_N08",
+      "name": "朵思大王",
+      "userName": "朵思大王",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH10_N09",
+      "name": "沙摩柯",
+      "userName": "沙摩柯",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N01",
+      "name": "张子纲",
+      "userName": "张子纲",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N02",
+      "name": "董袭",
+      "userName": "董袭",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N03",
+      "name": "全琮",
+      "userName": "全琮",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N04",
+      "name": "吴国太",
+      "userName": "吴国太",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N05",
+      "name": "鲁肃",
+      "userName": "鲁肃",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N06",
+      "name": "程普",
+      "userName": "程普",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N07",
+      "name": "凌操",
+      "userName": "凌操",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N08",
+      "name": "孙尚香",
+      "userName": "孙尚香",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH11_N09",
+      "name": "太史慈",
+      "userName": "太史慈",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N01",
+      "name": "陈武",
+      "userName": "陈武",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N02",
+      "name": "周泰",
+      "userName": "周泰",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N03",
+      "name": "韩当",
+      "userName": "韩当",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N04",
+      "name": "蒋钦",
+      "userName": "蒋钦",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N05",
+      "name": "甘宁",
+      "userName": "甘宁",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N06",
+      "name": "留赞",
+      "userName": "留赞",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N07",
+      "name": "陆抗",
+      "userName": "陆抗",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH12_N08",
+      "name": "丁奉",
+      "userName": "丁奉",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N01",
+      "name": "成济",
+      "userName": "成济",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N02",
+      "name": "文鸯",
+      "userName": "文鸯",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N03",
+      "name": "王基",
+      "userName": "王基",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N04",
+      "name": "杨修",
+      "userName": "杨修",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N05",
+      "name": "司马师",
+      "userName": "司马师",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N06",
+      "name": "夏侯令女",
+      "userName": "夏侯令女",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N07",
+      "name": "夏侯霸",
+      "userName": "夏侯霸",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH13_N08",
+      "name": "卫瓘",
+      "userName": "卫瓘",
+      "grade": "A"
+    },
+    {
+      "id": "hero:CH01_N09",
+      "name": "管亥",
+      "userName": "管亥",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH02_N09",
+      "name": "貂蝉",
+      "userName": "貂蝉",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH03_N05",
+      "name": "公孙瓒",
+      "userName": "公孙瓒",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH03_N06",
+      "name": "潘凤",
+      "userName": "潘凤",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH03_N07",
+      "name": "颜良",
+      "userName": "颜良",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH03_N08",
+      "name": "文丑",
+      "userName": "文丑",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH03_N09",
+      "name": "陈宫",
+      "userName": "陈宫",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N05",
+      "name": "张良",
+      "userName": "张良",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N06",
+      "name": "龚都",
+      "userName": "龚都",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N07",
+      "name": "韩信",
+      "userName": "韩信",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N08",
+      "name": "淳于琼",
+      "userName": "淳于琼",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N09",
+      "name": "袁术",
+      "userName": "袁术",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH04_N10",
+      "name": "袁绍",
+      "userName": "袁绍",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH05_N05",
+      "name": "典韦",
+      "userName": "典韦",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH05_N07",
+      "name": "曹丕",
+      "userName": "曹丕",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH05_N08",
+      "name": "荀文若",
+      "userName": "荀文若",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH06_N05",
+      "name": "徐庶",
+      "userName": "徐庶",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH06_N06",
+      "name": "郭嘉",
+      "userName": "郭嘉",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH06_N07",
+      "name": "满宠",
+      "userName": "满宠",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH06_N08",
+      "name": "李典",
+      "userName": "李典",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH07_N05",
+      "name": "郝昭",
+      "userName": "郝昭",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH07_N06",
+      "name": "郭淮",
+      "userName": "郭淮",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH07_N07",
+      "name": "邓艾",
+      "userName": "邓艾",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH07_N08",
+      "name": "陈泰",
+      "userName": "陈泰",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH08_N01",
+      "name": "周仓",
+      "userName": "周仓",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH08_N02",
+      "name": "简雍",
+      "userName": "简雍",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH08_N03",
+      "name": "刘封",
+      "userName": "刘封",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH08_N04",
+      "name": "关索",
+      "userName": "关索",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH09_N01",
+      "name": "孟达",
+      "userName": "孟达",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH09_N02",
+      "name": "黄权",
+      "userName": "黄权",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH09_N03",
+      "name": "张苞",
+      "userName": "张苞",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH09_N04",
+      "name": "廖化",
+      "userName": "廖化",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH10_N01",
+      "name": "罗宪",
+      "userName": "罗宪",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH10_N02",
+      "name": "花鬓",
+      "userName": "花鬘",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH10_N03",
+      "name": "忙牙长",
+      "userName": "忙牙长",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH10_N04",
+      "name": "阿会喃",
+      "userName": "阿会喃",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH12_N09",
+      "name": "张昭",
+      "userName": "张昭",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH13_N09",
+      "name": "甄宓",
+      "userName": "甄宓",
+      "grade": "B"
+    },
+    {
+      "id": "hero:CH01_N01",
+      "name": "高升",
+      "userName": "高升",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N02",
+      "name": "邓茂",
+      "userName": "邓茂",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N03",
+      "name": "严政",
+      "userName": "严政",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N04",
+      "name": "裴元绍",
+      "userName": "裴元绍",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N05",
+      "name": "张曼成",
+      "userName": "张曼成",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N06",
+      "name": "波才",
+      "userName": "波才",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N07",
+      "name": "张宝",
+      "userName": "张宝",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH01_N08",
+      "name": "张梁",
+      "userName": "张梁",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N01",
+      "name": "董白",
+      "userName": "董白",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N02",
+      "name": "蔡邕",
+      "userName": "蔡邕",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N03",
+      "name": "杨奉",
+      "userName": "杨奉",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N04",
+      "name": "李儒",
+      "userName": "李儒",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N05",
+      "name": "华雄",
+      "userName": "华雄",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N06",
+      "name": "李傕",
+      "userName": "李傕",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N07",
+      "name": "郭汜",
+      "userName": "郭汜",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH02_N08",
+      "name": "梁兴",
+      "userName": "梁兴",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH03_N01",
+      "name": "王门",
+      "userName": "王门",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH03_N02",
+      "name": "纪灵",
+      "userName": "纪灵",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH03_N03",
+      "name": "胡车儿",
+      "userName": "胡车儿",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH03_N04",
+      "name": "审配",
+      "userName": "审配",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH04_N01",
+      "name": "袁谭",
+      "userName": "袁谭",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH04_N02",
+      "name": "田丰",
+      "userName": "田丰",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH04_N03",
+      "name": "鞠义",
+      "userName": "鞠义",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH04_N04",
+      "name": "范增",
+      "userName": "范增",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH05_N01",
+      "name": "曹昂",
+      "userName": "曹昂",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH05_N02",
+      "name": "曹彰",
+      "userName": "曹彰",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH05_N03",
+      "name": "曹真",
+      "userName": "曹真",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH05_N04",
+      "name": "曹仁",
+      "userName": "曹仁",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH06_N01",
+      "name": "曹节",
+      "userName": "曹节",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH06_N02",
+      "name": "陈琳",
+      "userName": "陈琳",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH06_N03",
+      "name": "韩福",
+      "userName": "韩福",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH06_N04",
+      "name": "卞夫人",
+      "userName": "卞夫人",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH07_N01",
+      "name": "牛金",
+      "userName": "牛金",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH07_N02",
+      "name": "王双",
+      "userName": "王双",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH07_N03",
+      "name": "文聘",
+      "userName": "文聘",
+      "grade": "C"
+    },
+    {
+      "id": "hero:CH07_N04",
+      "name": "田豫",
+      "userName": "田豫",
+      "grade": "C"
+    }
+  ]
+}

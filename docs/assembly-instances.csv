@@ -66,7 +66,7 @@ hero:CH01_N09,管亥,hero:CH01_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形
 hero:CH01_N09,管亥,hero:CH01_N09:name-v023,name-hero_CH01_N09,管亥 · 原概念姓名,100,387,70,112,58
 hero:CH01_N10,张角,hero:CH01_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N10,张角,hero:CH01_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
-hero:CH01_N10,张角,hero:CH01_N10:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
+hero:CH01_N10,张角,hero:CH01_N10:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N10,张角,hero:CH01_N10:portrait-v023,portrait-hero_CH01_N10,张角 · 完整手牌主体,24,53,40,265,316
 hero:CH01_N10,张角,hero:CH01_N10:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N10,张角,hero:CH01_N10:role-v023:0,role-v021bw-技,技·黑白圆形兵种图标,29,29,61,66,66
@@ -137,7 +137,7 @@ hero:CH02_N09,貂蝉,hero:CH02_N09:role-v023:0,role-v021bw-敌,敌·黑白圆形
 hero:CH02_N09,貂蝉,hero:CH02_N09:name-v023,name-hero_CH02_N09,貂蝉 · 原概念姓名,98,387,70,116,58
 hero:CH02_N10,董卓,hero:CH02_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N10,董卓,hero:CH02_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
-hero:CH02_N10,董卓,hero:CH02_N10:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
+hero:CH02_N10,董卓,hero:CH02_N10:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N10,董卓,hero:CH02_N10:portrait-v023,portrait-hero_CH02_N10,董卓 · 完整手牌主体,24,64,40,265,305
 hero:CH02_N10,董卓,hero:CH02_N10:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N10,董卓,hero:CH02_N10:role-v023:0,role-v021bw-营,营·黑白圆形兵种图标,29,29,61,66,66
