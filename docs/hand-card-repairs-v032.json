@@ -1,0 +1,1459 @@
+{
+  "version": "v032",
+  "date": "2026-10-26",
+  "checked": 161,
+  "repairedThisVersion": 69,
+  "repaired": 138,
+  "scope": "英雄与小兵手牌主体缺口修补；保留原角色、原组件ID和公共卡牌结构。",
+  "records": [
+    {
+      "cardId": "hero:CH01_N01",
+      "name": "高升",
+      "assetId": "portrait-hero_CH01_N01",
+      "file": "unique/portraits/hero_CH01_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "864ad0e42022568d6df3f9dda802587d6a635cac291faf2739d0b00e36b7d97c"
+    },
+    {
+      "cardId": "hero:CH01_N02",
+      "name": "邓茂",
+      "assetId": "portrait-hero_CH01_N02",
+      "file": "unique/portraits/hero_CH01_N02.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "924c77e74da0cf512a9333d969734630736da84113c4cc42ea2fca5a9ae96530"
+    },
+    {
+      "cardId": "hero:CH01_N03",
+      "name": "严政",
+      "assetId": "portrait-hero_CH01_N03",
+      "file": "unique/portraits/hero_CH01_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "83be21a23ae00b0f2cf06434acaf1ed5fd4107b7ecac46f31cb4ed44c4cee151"
+    },
+    {
+      "cardId": "hero:CH01_N04",
+      "name": "裴元绍",
+      "assetId": "portrait-hero_CH01_N04",
+      "file": "unique/portraits/hero_CH01_N04.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "05b01fc00ada252e1a6c9a1ac799959385d059059a78cd006de4ecb0faa0fb81"
+    },
+    {
+      "cardId": "hero:CH01_N05",
+      "name": "张曼成",
+      "assetId": "portrait-hero_CH01_N05",
+      "file": "unique/portraits/hero_CH01_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "1861414b0630577ca022775b3c24da6d67c998385eac41f9bb0646a07c86ebab"
+    },
+    {
+      "cardId": "hero:CH01_N06",
+      "name": "波才",
+      "assetId": "portrait-hero_CH01_N06",
+      "file": "unique/portraits/hero_CH01_N06.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "f549684467ab9f4ce0a557d0141c74ef515596cbd68ea57529a4afe63f398908"
+    },
+    {
+      "cardId": "hero:CH01_N07",
+      "name": "张宝",
+      "assetId": "portrait-hero_CH01_N07",
+      "file": "unique/portraits/hero_CH01_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "7ff29317204d33b0f8ea3580536796995b659dea2c92a4502046d42c1c0872d5"
+    },
+    {
+      "cardId": "hero:CH01_N08",
+      "name": "张梁",
+      "assetId": "portrait-hero_CH01_N08",
+      "file": "unique/portraits/hero_CH01_N08.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "cadf0e9632e7d6a0f395dc5fa6e46c74b6f4825d4ab65053f88437ab33aedce8"
+    },
+    {
+      "cardId": "hero:CH01_N09",
+      "name": "管亥",
+      "assetId": "portrait-hero_CH01_N09",
+      "file": "unique/portraits/hero_CH01_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "2a89ee744abf497cd0a7b09550f20887b6953577707345007ff8ddaf4181e138"
+    },
+    {
+      "cardId": "hero:CH01_N10",
+      "name": "张角",
+      "assetId": "portrait-hero_CH01_N10",
+      "file": "unique/portraits/hero_CH01_N10.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "8945181c842b8459c77eb1dce85308180b6111d17d6bea457e7f27297c96c241"
+    },
+    {
+      "cardId": "hero:CH02_N01",
+      "name": "董白",
+      "assetId": "portrait-hero_CH02_N01",
+      "file": "unique/portraits/hero_CH02_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "e983b95b8aed16efda1d56861c8adf35c6cf28a2a81a9f9ca2552762a2d91d94"
+    },
+    {
+      "cardId": "hero:CH02_N02",
+      "name": "蔡邕",
+      "assetId": "portrait-hero_CH02_N02",
+      "file": "unique/portraits/hero_CH02_N02.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "1c590cb1cc1ac72a2e0c3620fd61c40f0c5a1cbd5cdb0b706080c308c63b219a"
+    },
+    {
+      "cardId": "hero:CH02_N03",
+      "name": "杨奉",
+      "assetId": "portrait-hero_CH02_N03",
+      "file": "unique/portraits/hero_CH02_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "8aab503c3037f10c582ec32b6567b3c134d540e296911feaf92e21467a701a39"
+    },
+    {
+      "cardId": "hero:CH02_N04",
+      "name": "李儒",
+      "assetId": "portrait-hero_CH02_N04",
+      "file": "unique/portraits/hero_CH02_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "efab9701bcde367f571cf8319b56e52e451e1f13397a5d48714b6ec802dae88b"
+    },
+    {
+      "cardId": "hero:CH02_N05",
+      "name": "华雄",
+      "assetId": "portrait-hero_CH02_N05",
+      "file": "unique/portraits/hero_CH02_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "8b508500cfa4447c8fe549a846dd98a7c5b708296a4ad79973c71f930694d2dd"
+    },
+    {
+      "cardId": "hero:CH02_N06",
+      "name": "李傕",
+      "assetId": "portrait-hero_CH02_N06",
+      "file": "unique/portraits/hero_CH02_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "98df32a02da43c33500c9e84b64ae125c264848c1a9f2f6b3977f5a594cb289f"
+    },
+    {
+      "cardId": "hero:CH02_N07",
+      "name": "郭汜",
+      "assetId": "portrait-hero_CH02_N07",
+      "file": "unique/portraits/hero_CH02_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "4f329013639e65e6ed34d18690a1de6dcd68d058cfba386321f0b0fdb3972e52"
+    },
+    {
+      "cardId": "hero:CH02_N08",
+      "name": "梁兴",
+      "assetId": "portrait-hero_CH02_N08",
+      "file": "unique/portraits/hero_CH02_N08.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "a84955dcdd289793d94cb41f97e41f32a57bf3433e8d383587e32ae7bb961ea9"
+    },
+    {
+      "cardId": "hero:CH02_N09",
+      "name": "貂蝉",
+      "assetId": "portrait-hero_CH02_N09",
+      "file": "unique/portraits/hero_CH02_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ed42fc6786473eb690c33b0c7123aa340523e404c962ec88b3823e144522bee9"
+    },
+    {
+      "cardId": "hero:CH02_N10",
+      "name": "董卓",
+      "assetId": "portrait-hero_CH02_N10",
+      "file": "unique/portraits/hero_CH02_N10.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "afa1ad05bbcd22c484c6e3ae58ee40f60d64c57535625885b9fd3a417e23e674"
+    },
+    {
+      "cardId": "hero:CH03_N01",
+      "name": "王门",
+      "assetId": "portrait-hero_CH03_N01",
+      "file": "unique/portraits/hero_CH03_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "f729e71677498dcabe0a8a4c69bd40802f7ea8c4cd703374253fc8b491cbc505"
+    },
+    {
+      "cardId": "hero:CH03_N02",
+      "name": "纪灵",
+      "assetId": "portrait-hero_CH03_N02",
+      "file": "unique/portraits/hero_CH03_N02.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "bebc6663682c05f7114c1a94e7c7a9ab74ce1b559c13d97dffa37142cf8c44e3"
+    },
+    {
+      "cardId": "hero:CH03_N03",
+      "name": "胡车儿",
+      "assetId": "portrait-hero_CH03_N03",
+      "file": "unique/portraits/hero_CH03_N03.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "16dc22b8315580dac7fbea4ab37e2f98001bca639ded3247cdb3fb315a3e27af"
+    },
+    {
+      "cardId": "hero:CH03_N04",
+      "name": "审配",
+      "assetId": "portrait-hero_CH03_N04",
+      "file": "unique/portraits/hero_CH03_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "6b44d0b5848e427029b2986a4cec9894aba753013e1f9ada98438a72cca76bce"
+    },
+    {
+      "cardId": "hero:CH03_N05",
+      "name": "公孙瓒",
+      "assetId": "portrait-hero_CH03_N05",
+      "file": "unique/portraits/hero_CH03_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "af780dda417194b9171e366c2969923993ec69a9649602fbfe7bcedd95995259"
+    },
+    {
+      "cardId": "hero:CH03_N06",
+      "name": "潘凤",
+      "assetId": "portrait-hero_CH03_N06",
+      "file": "unique/portraits/hero_CH03_N06.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "55f84dca8da6c1e87a4e5739180c55684501d5bc2b807e8b2ee1b5f28a4a8862"
+    },
+    {
+      "cardId": "hero:CH03_N07",
+      "name": "颜良",
+      "assetId": "portrait-hero_CH03_N07",
+      "file": "unique/portraits/hero_CH03_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "b0734523f8581dbcb22f834623910f2497776ac217ace72a448b700878d50d26"
+    },
+    {
+      "cardId": "hero:CH03_N08",
+      "name": "文丑",
+      "assetId": "portrait-hero_CH03_N08",
+      "file": "unique/portraits/hero_CH03_N08.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ddad62c228b9985cfb996893a2f9cca3819997ffad94f04171141d75f4d2f776"
+    },
+    {
+      "cardId": "hero:CH03_N09",
+      "name": "陈宫",
+      "assetId": "portrait-hero_CH03_N09",
+      "file": "unique/portraits/hero_CH03_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "51d67ead2828033dc27f0c373e035ccdfd4c291bf0ce9b38388864c5c09749c4"
+    },
+    {
+      "cardId": "hero:CH03_N10",
+      "name": "吕布",
+      "assetId": "portrait-hero_CH03_N10",
+      "file": "unique/portraits/hero_CH03_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "c01716b5a5350ea8fc5163cd34d0df21143400ca525394a3df64f61e6a861a26"
+    },
+    {
+      "cardId": "hero:CH04_N01",
+      "name": "袁谭",
+      "assetId": "portrait-hero_CH04_N01",
+      "file": "unique/portraits/hero_CH04_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "5a18d22cd7b7435448a9932988185ff863c0bff51af9d4d515e1b637a4df42c9"
+    },
+    {
+      "cardId": "hero:CH04_N02",
+      "name": "田丰",
+      "assetId": "portrait-hero_CH04_N02",
+      "file": "unique/portraits/hero_CH04_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "4e06309d7731022d42c78e978a1a8572a3c134bc89c8afe17cd53a80bc7102ce"
+    },
+    {
+      "cardId": "hero:CH04_N03",
+      "name": "鞠义",
+      "assetId": "portrait-hero_CH04_N03",
+      "file": "unique/portraits/hero_CH04_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "6fbb4dc1580efaa45ab31a0eb7b967ae5a8e3f54188a0b2b854689750ddbf84c"
+    },
+    {
+      "cardId": "hero:CH04_N04",
+      "name": "范增",
+      "assetId": "portrait-hero_CH04_N04",
+      "file": "unique/portraits/hero_CH04_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "1161b02cb89a03c1350fcf999a236d477908cfae25b07cc71ae764fb63f3fbd8"
+    },
+    {
+      "cardId": "hero:CH04_N05",
+      "name": "张良",
+      "assetId": "portrait-hero_CH04_N05",
+      "file": "unique/portraits/hero_CH04_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ba24dbe94cfb43e0a2226e491179a32a61498dec4f58fa2a1bb7bf4803ac597b"
+    },
+    {
+      "cardId": "hero:CH04_N06",
+      "name": "龚都",
+      "assetId": "portrait-hero_CH04_N06",
+      "file": "unique/portraits/hero_CH04_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "9c2ddc1b10c93d8023c2c7c4da04463dbcd1c7793ab5bf1f4841dd0055edf64a"
+    },
+    {
+      "cardId": "hero:CH04_N07",
+      "name": "韩信",
+      "assetId": "portrait-hero_CH04_N07",
+      "file": "unique/portraits/hero_CH04_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "d334fa49c347b6f7f75c7092bced5ce3dfd047170d1448faf71bde6d35d8888b"
+    },
+    {
+      "cardId": "hero:CH04_N08",
+      "name": "淳于琼",
+      "assetId": "portrait-hero_CH04_N08",
+      "file": "unique/portraits/hero_CH04_N08.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "3da74f9893d656e56be6fb394c1d76133bfa21d6f867cef5b144c127ea50aaa8"
+    },
+    {
+      "cardId": "hero:CH04_N09",
+      "name": "袁术",
+      "assetId": "portrait-hero_CH04_N09",
+      "file": "unique/portraits/hero_CH04_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "8f406d54db79dfdb40574739c8fa7fd8bcae55fce77f096f99ecbea8b62da38a"
+    },
+    {
+      "cardId": "hero:CH04_N10",
+      "name": "袁绍",
+      "assetId": "portrait-hero_CH04_N10",
+      "file": "unique/portraits/hero_CH04_N10.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "33c5e8b94975fb8481a888ef47618e560c7c941091e026354398d55d8491e92c"
+    },
+    {
+      "cardId": "hero:CH05_N01",
+      "name": "曹昂",
+      "assetId": "portrait-hero_CH05_N01",
+      "file": "unique/portraits/hero_CH05_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "971b81f82159db43fc81a30ccf6826b843c47d7ba7c4de2b82e472fb8786da33"
+    },
+    {
+      "cardId": "hero:CH05_N02",
+      "name": "曹彰",
+      "assetId": "portrait-hero_CH05_N02",
+      "file": "unique/portraits/hero_CH05_N02.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ae1df690e6d343936a326fd5d7abecf535551b4c9e9cb6429af2e3a9c28852f9"
+    },
+    {
+      "cardId": "hero:CH05_N03",
+      "name": "曹真",
+      "assetId": "portrait-hero_CH05_N03",
+      "file": "unique/portraits/hero_CH05_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "2f3bdffa8012c3c275889d54694cd452a718ae486cf83443b0892f1f72b797ce"
+    },
+    {
+      "cardId": "hero:CH05_N04",
+      "name": "曹仁",
+      "assetId": "portrait-hero_CH05_N04",
+      "file": "unique/portraits/hero_CH05_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "a2e3d6cf3a7ff2f455f3e2451ca3f9d0562b9965901786412243063aca0ca507"
+    },
+    {
+      "cardId": "hero:CH05_N05",
+      "name": "典韦",
+      "assetId": "portrait-hero_CH05_N05",
+      "file": "unique/portraits/hero_CH05_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "e74f0913bd57b216547c19976e50abfc35271110d6948fd788504c88db2444cb"
+    },
+    {
+      "cardId": "hero:CH05_N06",
+      "name": "夏侯惇",
+      "assetId": "portrait-hero_CH05_N06",
+      "file": "unique/portraits/hero_CH05_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "4add7a54b710adab45fa0105b5d63da457a6c41ff8522377ecb17fe9d7da6c83"
+    },
+    {
+      "cardId": "hero:CH05_N07",
+      "name": "曹丕",
+      "assetId": "portrait-hero_CH05_N07",
+      "file": "unique/portraits/hero_CH05_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "28e1a9a4eb17db599b5435212d4ba916b554d94e5a027e0b39d607187b7fbbbc"
+    },
+    {
+      "cardId": "hero:CH05_N08",
+      "name": "荀文若",
+      "assetId": "portrait-hero_CH05_N08",
+      "file": "unique/portraits/hero_CH05_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "82fc20ebc4ba5792d4ea4657a8bcdb94dcb2a71d2c5594705adcbd2f1d8cb5ce"
+    },
+    {
+      "cardId": "hero:CH05_N09",
+      "name": "曹植",
+      "assetId": "portrait-hero_CH05_N09",
+      "file": "unique/portraits/hero_CH05_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "3cfe203cc318f0def0116d514fc2b34a8fbab5e7e8f55c425d410577e74356b4"
+    },
+    {
+      "cardId": "hero:CH05_N10",
+      "name": "曹操",
+      "assetId": "portrait-hero_CH05_N10",
+      "file": "unique/portraits/hero_CH05_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "36210faa239122676ac3ecfe7f97fcb2862bbf059c4b30637f9392b3014fca27"
+    },
+    {
+      "cardId": "hero:CH06_N01",
+      "name": "曹节",
+      "assetId": "portrait-hero_CH06_N01",
+      "file": "unique/portraits/hero_CH06_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "2562ed2d3aa6dd154d9f7dbe168f3030ffb24e597426af454292e30cfa3a9055"
+    },
+    {
+      "cardId": "hero:CH06_N02",
+      "name": "陈琳",
+      "assetId": "portrait-hero_CH06_N02",
+      "file": "unique/portraits/hero_CH06_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "6b59edf9959d81f90cf73753c08eab4a781fae6947162f9d9b4e7c95a7ea9e42"
+    },
+    {
+      "cardId": "hero:CH06_N03",
+      "name": "韩福",
+      "assetId": "portrait-hero_CH06_N03",
+      "file": "unique/portraits/hero_CH06_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "0f169053a9afea5aa9343e716177a7080c55422ec4e38d275b256bf05fa64090"
+    },
+    {
+      "cardId": "hero:CH06_N04",
+      "name": "卞夫人",
+      "assetId": "portrait-hero_CH06_N04",
+      "file": "unique/portraits/hero_CH06_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "4ceb6c05330c1fdc4a1931b2d466ece0ebaedd74741c46c6c71a166900d00a6b"
+    },
+    {
+      "cardId": "hero:CH06_N05",
+      "name": "徐庶",
+      "assetId": "portrait-hero_CH06_N05",
+      "file": "unique/portraits/hero_CH06_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "e594f8183600237e28721fe8e25553ed5eb391362dd5738959ef8473a14f1a66"
+    },
+    {
+      "cardId": "hero:CH06_N06",
+      "name": "郭嘉",
+      "assetId": "portrait-hero_CH06_N06",
+      "file": "unique/portraits/hero_CH06_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "73d6b8809ad52019c921fd2452557e05e0624f269064cb8d800077c7a4b0ade7"
+    },
+    {
+      "cardId": "hero:CH06_N07",
+      "name": "满宠",
+      "assetId": "portrait-hero_CH06_N07",
+      "file": "unique/portraits/hero_CH06_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "18e03e16bddab040803dfc8494302ca444e1ce4c94c967f5cead5cd1d5de8b1d"
+    },
+    {
+      "cardId": "hero:CH06_N08",
+      "name": "李典",
+      "assetId": "portrait-hero_CH06_N08",
+      "file": "unique/portraits/hero_CH06_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "82ab6bbbdd7355709b31983f22ab0a6b90f33901212ed26ae7c4ec73d27e5a93"
+    },
+    {
+      "cardId": "hero:CH06_N09",
+      "name": "乐进",
+      "assetId": "portrait-hero_CH06_N09",
+      "file": "unique/portraits/hero_CH06_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "ca8c7ca764eee67ad9d1428367288063f36e7e2d3cbf002c5b399a0a716a5c6a"
+    },
+    {
+      "cardId": "hero:CH07_N01",
+      "name": "牛金",
+      "assetId": "portrait-hero_CH07_N01",
+      "file": "unique/portraits/hero_CH07_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "60bbab6b8562aa3eba7f4dd54b2b56ef6d263341e01db9d5fb088fd2fed85001"
+    },
+    {
+      "cardId": "hero:CH07_N02",
+      "name": "王双",
+      "assetId": "portrait-hero_CH07_N02",
+      "file": "unique/portraits/hero_CH07_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "a8babe8884703c2c138923d7aba6d64b8cf0d8055f0bdd9e375b3211d692c6bb"
+    },
+    {
+      "cardId": "hero:CH07_N03",
+      "name": "文聘",
+      "assetId": "portrait-hero_CH07_N03",
+      "file": "unique/portraits/hero_CH07_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "636aff0c5a6006cea08d20d4f1e2ee0303c8cd58a4f3f55b7bd698e48a96d90e"
+    },
+    {
+      "cardId": "hero:CH07_N04",
+      "name": "田豫",
+      "assetId": "portrait-hero_CH07_N04",
+      "file": "unique/portraits/hero_CH07_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "535a6f06fb05f082c188cf72a5694c53b5a892a224f6aebfa398b20c9056b77a"
+    },
+    {
+      "cardId": "hero:CH07_N05",
+      "name": "郝昭",
+      "assetId": "portrait-hero_CH07_N05",
+      "file": "unique/portraits/hero_CH07_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "af6815c0946af155ee7f5051fb75a89d731ce00dfb899bb8a28ec23d021d6986"
+    },
+    {
+      "cardId": "hero:CH07_N06",
+      "name": "郭淮",
+      "assetId": "portrait-hero_CH07_N06",
+      "file": "unique/portraits/hero_CH07_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "f4461f4aac17c2a4034734a8cff00d2d14dc9f0d937c00e00d4bf617ba53e5ed"
+    },
+    {
+      "cardId": "hero:CH07_N07",
+      "name": "邓艾",
+      "assetId": "portrait-hero_CH07_N07",
+      "file": "unique/portraits/hero_CH07_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "cd614dd51356ce7f7cc5f7bea6fe664bacd8533e1b1334eab51d0212a84e3d4c"
+    },
+    {
+      "cardId": "hero:CH07_N08",
+      "name": "陈泰",
+      "assetId": "portrait-hero_CH07_N08",
+      "file": "unique/portraits/hero_CH07_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "a28186c70579412edc88481288e80efe3e9327dd1b63c1ceb3a27338b87944ac"
+    },
+    {
+      "cardId": "hero:CH07_N09",
+      "name": "贾充",
+      "assetId": "portrait-hero_CH07_N09",
+      "file": "unique/portraits/hero_CH07_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "6f1efdb57b79da32a4252b5801ec0bada1d5d54e82ecf78af7fc544c12a892e6"
+    },
+    {
+      "cardId": "hero:CH07_N10",
+      "name": "庞德",
+      "assetId": "portrait-hero_CH07_N10",
+      "file": "unique/portraits/hero_CH07_N10.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "4ad74ed284679e4629e2463cc67807a18019c9de5a09feeb58da6aeecc10e384"
+    },
+    {
+      "cardId": "hero:CH08_N01",
+      "name": "周仓",
+      "assetId": "portrait-hero_CH08_N01",
+      "file": "unique/portraits/hero_CH08_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ea3aa252442b82d0f8ad79fedf9dbe0af05ca2da54aa850d13a80b75912aa2d4"
+    },
+    {
+      "cardId": "hero:CH08_N02",
+      "name": "简雍",
+      "assetId": "portrait-hero_CH08_N02",
+      "file": "unique/portraits/hero_CH08_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "aaf12e46479aa3e4babbdce00a155914d1ede8f5468495db67a1a31ad8e6812d"
+    },
+    {
+      "cardId": "hero:CH08_N03",
+      "name": "刘封",
+      "assetId": "portrait-hero_CH08_N03",
+      "file": "unique/portraits/hero_CH08_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "264cf612f24d4016fca1f5823d42429310ca07697782478cae4f058174d5d436"
+    },
+    {
+      "cardId": "hero:CH08_N04",
+      "name": "关索",
+      "assetId": "portrait-hero_CH08_N04",
+      "file": "unique/portraits/hero_CH08_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "6d6edcae40e6ead8622fb58708ec42e402026f2b8f11fe929aa0f97f4775721d"
+    },
+    {
+      "cardId": "hero:CH08_N05",
+      "name": "关银屏",
+      "assetId": "portrait-hero_CH08_N05",
+      "file": "unique/portraits/hero_CH08_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "cbfa0e79510ffb75a60953c5bbff6d423a3fd3dd52b3c9d70613932aef170dee"
+    },
+    {
+      "cardId": "hero:CH08_N06",
+      "name": "鲍三娘",
+      "assetId": "portrait-hero_CH08_N06",
+      "file": "unique/portraits/hero_CH08_N06.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "2e164501e1c61659a78c9abffca6db9689fe8e2e91be110a271cfe8b3da4b34a"
+    },
+    {
+      "cardId": "hero:CH08_N07",
+      "name": "诸葛亮",
+      "assetId": "portrait-hero_CH08_N07",
+      "file": "unique/portraits/hero_CH08_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "0a31f03e69c039b08e0a10de3a87a0dc68f3d40dbc97c42708eaf38597c6dc13"
+    },
+    {
+      "cardId": "hero:CH08_N08",
+      "name": "赵云",
+      "assetId": "portrait-hero_CH08_N08",
+      "file": "unique/portraits/hero_CH08_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "334bf6340dab754d25edaefc786f8ab4c9ab3537dfe6045f0768a0d97981a069"
+    },
+    {
+      "cardId": "hero:CH08_N09",
+      "name": "马超",
+      "assetId": "portrait-hero_CH08_N09",
+      "file": "unique/portraits/hero_CH08_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "836482e81850b648747e95538d76e9ce6b4bd2578cebcf433f23d083e6cd65ff"
+    },
+    {
+      "cardId": "hero:CH08_N10",
+      "name": "刘备",
+      "assetId": "portrait-hero_CH08_N10",
+      "file": "unique/portraits/hero_CH08_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "d414cc5e7e1fa46bc49e2d54dedeedee59489fa74a1dd4034eb19f87ea1c22da"
+    },
+    {
+      "cardId": "hero:CH09_N01",
+      "name": "孟达",
+      "assetId": "portrait-hero_CH09_N01",
+      "file": "unique/portraits/hero_CH09_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "534d55f797e6e9e81975f0a244bfb1b6db8acafe3e73262e38001547b7b2e8c7"
+    },
+    {
+      "cardId": "hero:CH09_N02",
+      "name": "黄权",
+      "assetId": "portrait-hero_CH09_N02",
+      "file": "unique/portraits/hero_CH09_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "d4e4f27f77c3a5101e0b6879d4f88ba574d336be1d03bfa39a73da03ff46c06e"
+    },
+    {
+      "cardId": "hero:CH09_N03",
+      "name": "张苞",
+      "assetId": "portrait-hero_CH09_N03",
+      "file": "unique/portraits/hero_CH09_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "c5a59db7e5fc401e6d059a69c9a516247e77ec6b4c190534b3c9eda2199080d0"
+    },
+    {
+      "cardId": "hero:CH09_N04",
+      "name": "廖化",
+      "assetId": "portrait-hero_CH09_N04",
+      "file": "unique/portraits/hero_CH09_N04.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "ce6894a80e144b69e7e1c7903b1ba65011a0fce4fcee7ffc6da63345b33a672a"
+    },
+    {
+      "cardId": "hero:CH09_N05",
+      "name": "张任",
+      "assetId": "portrait-hero_CH09_N05",
+      "file": "unique/portraits/hero_CH09_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "418975aae7c43306a55bbe835d109c7fac7f1a1db18bdc6ba9a472364914ff18"
+    },
+    {
+      "cardId": "hero:CH09_N06",
+      "name": "严颜",
+      "assetId": "portrait-hero_CH09_N06",
+      "file": "unique/portraits/hero_CH09_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "3fe6a00b6f413fdca24099a712b4b371b286fa7eda0cebe0c69241fb25017ad6"
+    },
+    {
+      "cardId": "hero:CH09_N07",
+      "name": "黄忠",
+      "assetId": "portrait-hero_CH09_N07",
+      "file": "unique/portraits/hero_CH09_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "f0110f7731393b9e1fcc188c701d84b4d98f25fba469f806845e1d351e795f7f"
+    },
+    {
+      "cardId": "hero:CH09_N08",
+      "name": "王平",
+      "assetId": "portrait-hero_CH09_N08",
+      "file": "unique/portraits/hero_CH09_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "07b35c3c2505a99666bfc2189a26b7e4643b71fae8eac7096b657d65dedb5e17"
+    },
+    {
+      "cardId": "hero:CH09_N09",
+      "name": "魏延",
+      "assetId": "portrait-hero_CH09_N09",
+      "file": "unique/portraits/hero_CH09_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "81d10806fd9dc41f82d9c978318d32ab7c4803c2dd54161ac06ed3ec3f3f1381"
+    },
+    {
+      "cardId": "hero:CH09_N10",
+      "name": "关羽（神）",
+      "assetId": "portrait-hero_CH09_N10",
+      "file": "unique/portraits/hero_CH09_N10.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "94445d89ad8b53bb64e8192aa31db00fe3b4ff5d9723f7303daa2e8d8b854164"
+    },
+    {
+      "cardId": "hero:CH10_N01",
+      "name": "罗宪",
+      "assetId": "portrait-hero_CH10_N01",
+      "file": "unique/portraits/hero_CH10_N01.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "26ab1a346dc4cf62db12119d14062912fe15fee503e956d9ca670e3cf3ef13f6"
+    },
+    {
+      "cardId": "hero:CH10_N02",
+      "name": "花鬓",
+      "assetId": "portrait-hero_CH10_N02",
+      "file": "unique/portraits/hero_CH10_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "34603fb27224a7e0592f381d460ca42148efba522346560811ac3e05d569c6ee"
+    },
+    {
+      "cardId": "hero:CH10_N03",
+      "name": "忙牙长",
+      "assetId": "portrait-hero_CH10_N03",
+      "file": "unique/portraits/hero_CH10_N03.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "b54b1bbd3b80b3c62ccd79370907c6ce4c4ce6b2c955dbde9c719babf7785ed7"
+    },
+    {
+      "cardId": "hero:CH10_N04",
+      "name": "阿会喃",
+      "assetId": "portrait-hero_CH10_N04",
+      "file": "unique/portraits/hero_CH10_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "a7fc2b42bfb14cb8841d45f31caabc10472a91d63fdf001c7cc76ac4e2867e40"
+    },
+    {
+      "cardId": "hero:CH10_N05",
+      "name": "兀突骨",
+      "assetId": "portrait-hero_CH10_N05",
+      "file": "unique/portraits/hero_CH10_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "7ba427d300602e1d0f9d2eb516f583f929649e38f67242c4e734c8823d477edd"
+    },
+    {
+      "cardId": "hero:CH10_N06",
+      "name": "带来洞主",
+      "assetId": "portrait-hero_CH10_N06",
+      "file": "unique/portraits/hero_CH10_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "d12987be21145deba45f5a03b8d298e25fd78f3b1fb428a5d75c6a68bcd59ee9"
+    },
+    {
+      "cardId": "hero:CH10_N07",
+      "name": "姜维",
+      "assetId": "portrait-hero_CH10_N07",
+      "file": "unique/portraits/hero_CH10_N07.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "57de4c9e52f61db9ded9e9817a9144d70b76713d6b04f01685fcf8dd6c092a01"
+    },
+    {
+      "cardId": "hero:CH10_N08",
+      "name": "朵思大王",
+      "assetId": "portrait-hero_CH10_N08",
+      "file": "unique/portraits/hero_CH10_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "51993ee453fe3e098dde5dfd8f5af9d14841af96c41a7697d2ee18b75310e6f3"
+    },
+    {
+      "cardId": "hero:CH10_N09",
+      "name": "沙摩柯",
+      "assetId": "portrait-hero_CH10_N09",
+      "file": "unique/portraits/hero_CH10_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "c4668328b24c240eb1a6477ba431c8348cc0a57e584c5623d70f24b178522d95"
+    },
+    {
+      "cardId": "hero:CH10_N10",
+      "name": "诸葛亮（神）",
+      "assetId": "portrait-hero_CH10_N10",
+      "file": "unique/portraits/hero_CH10_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "eb589535145a9046df69661703905298dc7f13dade77b9ec917546f97a57c48f"
+    },
+    {
+      "cardId": "hero:CH11_N01",
+      "name": "张子纲",
+      "assetId": "portrait-hero_CH11_N01",
+      "file": "unique/portraits/hero_CH11_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "5b46f7dc214f826dad2c2fd799b1a73097fbae0d7be08373cb67098a90e2c1bf"
+    },
+    {
+      "cardId": "hero:CH11_N02",
+      "name": "董袭",
+      "assetId": "portrait-hero_CH11_N02",
+      "file": "unique/portraits/hero_CH11_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "963720da8f87424356c0f7de6553cd5df6c2b6f03ca06f61eb8e59442c3ebff0"
+    },
+    {
+      "cardId": "hero:CH11_N03",
+      "name": "全琮",
+      "assetId": "portrait-hero_CH11_N03",
+      "file": "unique/portraits/hero_CH11_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "eb2c2ebba5960c4db8580f7d7f30c37c64a1a7eb1adb496e31e856c9c294d394"
+    },
+    {
+      "cardId": "hero:CH11_N04",
+      "name": "吴国太",
+      "assetId": "portrait-hero_CH11_N04",
+      "file": "unique/portraits/hero_CH11_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "3f2c1ef651a098977133c5c89826df84b52afd74b2ab9d079530e0f64522c99d"
+    },
+    {
+      "cardId": "hero:CH11_N05",
+      "name": "鲁肃",
+      "assetId": "portrait-hero_CH11_N05",
+      "file": "unique/portraits/hero_CH11_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "3aea2c26a6cb186b360d311b33cd2e475d275cb237b9459a8cc6ccec2b2bb22a"
+    },
+    {
+      "cardId": "hero:CH11_N06",
+      "name": "程普",
+      "assetId": "portrait-hero_CH11_N06",
+      "file": "unique/portraits/hero_CH11_N06.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "652dbd1cec39c156374339a1aba5d121b2db82f14c2defee892ed016f88a3dff"
+    },
+    {
+      "cardId": "hero:CH11_N07",
+      "name": "凌操",
+      "assetId": "portrait-hero_CH11_N07",
+      "file": "unique/portraits/hero_CH11_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "a3e3e395f0f5b3a93f61ce4909d1e1d266d0c766fcf411db750a60b40690b70d"
+    },
+    {
+      "cardId": "hero:CH11_N08",
+      "name": "孙尚香",
+      "assetId": "portrait-hero_CH11_N08",
+      "file": "unique/portraits/hero_CH11_N08.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "92f5ff67015acba784d92595efad0cf00429f3ed12926c37f7abc2c880c957af"
+    },
+    {
+      "cardId": "hero:CH11_N09",
+      "name": "太史慈",
+      "assetId": "portrait-hero_CH11_N09",
+      "file": "unique/portraits/hero_CH11_N09.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "f7abdaecb603d4356ffaa566c665c29376296c18095f6edfa1e1e76b017dd6ea"
+    },
+    {
+      "cardId": "hero:CH11_N10",
+      "name": "孙权",
+      "assetId": "portrait-hero_CH11_N10",
+      "file": "unique/portraits/hero_CH11_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "200ff6d9d7b207567dd1b37c574aec3c82189cf6831d41f3874e4a9246f077cd"
+    },
+    {
+      "cardId": "hero:CH12_N01",
+      "name": "陈武",
+      "assetId": "portrait-hero_CH12_N01",
+      "file": "unique/portraits/hero_CH12_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "d3740f6f9d31840fdc40f497d260c8a2d1fd59b2e6f44ca2b1841ae18c1e87e7"
+    },
+    {
+      "cardId": "hero:CH12_N02",
+      "name": "周泰",
+      "assetId": "portrait-hero_CH12_N02",
+      "file": "unique/portraits/hero_CH12_N02.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "20ee5bf61e639f101cb116997fd52b97d5160661dfa5971fb36b00b926a7d9fc"
+    },
+    {
+      "cardId": "hero:CH12_N03",
+      "name": "韩当",
+      "assetId": "portrait-hero_CH12_N03",
+      "file": "unique/portraits/hero_CH12_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "53fbcacca1ee9329944b54b7c2cff6e5d1a6d7261964431316a5264be1b83f52"
+    },
+    {
+      "cardId": "hero:CH12_N04",
+      "name": "蒋钦",
+      "assetId": "portrait-hero_CH12_N04",
+      "file": "unique/portraits/hero_CH12_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "75bcd8295471ceccd7dfbe5f2856c86ea82e3f23cfff14a70e845a79aa87c45d"
+    },
+    {
+      "cardId": "hero:CH12_N05",
+      "name": "甘宁",
+      "assetId": "portrait-hero_CH12_N05",
+      "file": "unique/portraits/hero_CH12_N05.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "bd03654e4c9d0426b816fb3c2a34bc097bcaf6169beae2eae5631f6badc342e4"
+    },
+    {
+      "cardId": "hero:CH12_N06",
+      "name": "留赞",
+      "assetId": "portrait-hero_CH12_N06",
+      "file": "unique/portraits/hero_CH12_N06.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "7feeb933ceb7051dfc808597d083d516554b93ec76dab97c5739fca595a3b2e3"
+    },
+    {
+      "cardId": "hero:CH12_N07",
+      "name": "陆抗",
+      "assetId": "portrait-hero_CH12_N07",
+      "file": "unique/portraits/hero_CH12_N07.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "4aac5818b3d38ef2b23fb8a468aa3fb33a5336eed244dc308c9c27cd378b44f5"
+    },
+    {
+      "cardId": "hero:CH12_N08",
+      "name": "丁奉",
+      "assetId": "portrait-hero_CH12_N08",
+      "file": "unique/portraits/hero_CH12_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "edd6cede2052f214fabe17956eaebe6189ba3607cb996140aaaaf3a1ab8936e2"
+    },
+    {
+      "cardId": "hero:CH12_N09",
+      "name": "张昭",
+      "assetId": "portrait-hero_CH12_N09",
+      "file": "unique/portraits/hero_CH12_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "c2445696f695aa8ed9b8aa6dc5f676f707719a5d6ccb768b38ae5b2ec7e62016"
+    },
+    {
+      "cardId": "hero:CH12_N10",
+      "name": "吕蒙（神）",
+      "assetId": "portrait-hero_CH12_N10",
+      "file": "unique/portraits/hero_CH12_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "bbc85095949c52731f49b0038802bc837119a936396bc05a25f60f08da0d9181"
+    },
+    {
+      "cardId": "hero:CH13_N01",
+      "name": "成济",
+      "assetId": "portrait-hero_CH13_N01",
+      "file": "unique/portraits/hero_CH13_N01.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "51ade3840dfd647b6b7de1fe2e4867b8f07ab97bb6cc8c70d62be16198e28eb8"
+    },
+    {
+      "cardId": "hero:CH13_N02",
+      "name": "文鸯",
+      "assetId": "portrait-hero_CH13_N02",
+      "file": "unique/portraits/hero_CH13_N02.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "1569bbdf83e5296bdb04b5e250da11aba77e56a9311c3b984bac1c1bd08d007b"
+    },
+    {
+      "cardId": "hero:CH13_N03",
+      "name": "王基",
+      "assetId": "portrait-hero_CH13_N03",
+      "file": "unique/portraits/hero_CH13_N03.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "75df7e943fa337e8b4aecf5f87c5dedb9e7d2c1ff9f6f6f79a11f1fec1badb04"
+    },
+    {
+      "cardId": "hero:CH13_N04",
+      "name": "杨修",
+      "assetId": "portrait-hero_CH13_N04",
+      "file": "unique/portraits/hero_CH13_N04.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "80acab160e3818c03c40a67a8cfac39e33cc96d348fde5a00ac3ea3c4e2ff2fe"
+    },
+    {
+      "cardId": "hero:CH13_N05",
+      "name": "司马师",
+      "assetId": "portrait-hero_CH13_N05",
+      "file": "unique/portraits/hero_CH13_N05.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "d03bd9a06cc8f2a6331e7b954780500be05db45ac410de4cdcbce95029aeb833"
+    },
+    {
+      "cardId": "hero:CH13_N06",
+      "name": "夏侯令女",
+      "assetId": "portrait-hero_CH13_N06",
+      "file": "unique/portraits/hero_CH13_N06.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "d44877e38f4b3e2bc676a88081c8bdb88368030faa403b7e11fff38925f75016"
+    },
+    {
+      "cardId": "hero:CH13_N07",
+      "name": "夏侯霸",
+      "assetId": "portrait-hero_CH13_N07",
+      "file": "unique/portraits/hero_CH13_N07.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "96fb074720c6dc8812fa8f9a1bb2b3fbb71142dce25f2b02c4cf58f0c57362e8"
+    },
+    {
+      "cardId": "hero:CH13_N08",
+      "name": "卫瓘",
+      "assetId": "portrait-hero_CH13_N08",
+      "file": "unique/portraits/hero_CH13_N08.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "6e7d402cfd8e6eb29932fe4f371faa8e430362f91c859e23e6f4d89969abff30"
+    },
+    {
+      "cardId": "hero:CH13_N09",
+      "name": "甄宓",
+      "assetId": "portrait-hero_CH13_N09",
+      "file": "unique/portraits/hero_CH13_N09.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "50dc03b1199692dc07da0f4d1660991df8716d2ddd1f10e21eeff9d1add00eea"
+    },
+    {
+      "cardId": "hero:CH13_N10",
+      "name": "钟会",
+      "assetId": "portrait-hero_CH13_N10",
+      "file": "unique/portraits/hero_CH13_N10.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "27416897668fdeb5636791781e3ecbb09b38b34fb710b77999d376770099dfad"
+    },
+    {
+      "cardId": "soldier:blade",
+      "name": "刀兵",
+      "assetId": "portrait-soldier_blade",
+      "file": "unique/portraits/soldier_blade.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "0a764ea7a7d7659e84aba27a37e5d96dd5e2e1b020987f1993c8c53a6c1e62fb"
+    },
+    {
+      "cardId": "soldier:spear",
+      "name": "枪兵",
+      "assetId": "portrait-soldier_spear",
+      "file": "unique/portraits/soldier_spear.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "33cea4081fbaf475d603f7a988d61ef1a4debe4400f30ec450160755b406c236"
+    },
+    {
+      "cardId": "soldier:b1_huangjin",
+      "name": "太平弓手",
+      "assetId": "portrait-soldier_b1_huangjin",
+      "file": "unique/portraits/soldier_b1_huangjin.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "2a13b3ec814e1f0e39077cde375c1f98edd6b2999b62787b56e06692c4c30d43"
+    },
+    {
+      "cardId": "soldier:b2_huangjin",
+      "name": "黄天骑",
+      "assetId": "portrait-soldier_b2_huangjin",
+      "file": "unique/portraits/soldier_b2_huangjin.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "29ed00e89fbee60682822ebef82711847da638a4ec534cd3b8fa67f10aa255dc"
+    },
+    {
+      "cardId": "soldier:b3_huangjin",
+      "name": "黄巾力士",
+      "assetId": "portrait-soldier_b3_huangjin",
+      "file": "unique/portraits/soldier_b3_huangjin.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "bfb2faed19f162f045d5cebd1767a007c09de1e25da3e7fd956862745f89d568"
+    },
+    {
+      "cardId": "soldier:b5_huangjin",
+      "name": "太平道士",
+      "assetId": "portrait-soldier_b5_huangjin",
+      "file": "unique/portraits/soldier_b5_huangjin.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "ec0dab5151f874c8b7283c231af6a851f82fbb389f79f9a818de6c9e5e284ce9"
+    },
+    {
+      "cardId": "soldier:c_huang_guidao",
+      "name": "鬼道师",
+      "assetId": "portrait-soldier_c_huang_guidao",
+      "file": "unique/portraits/soldier_c_huang_guidao.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "4c961fee67950108626b8ccd451de6ff21802861f0d549b9670be0bb09290b7a"
+    },
+    {
+      "cardId": "soldier:c_huang_zombie",
+      "name": "僵尸兵",
+      "assetId": "portrait-soldier_c_huang_zombie",
+      "file": "unique/portraits/soldier_c_huang_zombie.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "9e948b1e37294619f7c734e2c55977a9aa6a2f475b898dcbabb9504e06698a4e"
+    },
+    {
+      "cardId": "soldier:b1_qun",
+      "name": "河北弓手",
+      "assetId": "portrait-soldier_b1_qun",
+      "file": "unique/portraits/soldier_b1_qun.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "6e7479343304e7103cf044abe25b94f0793b1bc9836d140a705f4dfc7b6c40e1"
+    },
+    {
+      "cardId": "soldier:b2_qun",
+      "name": "金戈铁马",
+      "assetId": "portrait-soldier_b2_qun",
+      "file": "unique/portraits/soldier_b2_qun.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "a436bc4ed493c66b4a25f71099447ad52bef5970f6baccb15fa5dfb0f437ef96"
+    },
+    {
+      "cardId": "soldier:b3_qun",
+      "name": "金甲勇士",
+      "assetId": "portrait-soldier_b3_qun",
+      "file": "unique/portraits/soldier_b3_qun.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "f14a5ea7bf24b087f516c12463a9b160a9e0b5334508703bca492e6bcc4fe63a"
+    },
+    {
+      "cardId": "soldier:b4_qun",
+      "name": "强石车",
+      "assetId": "portrait-soldier_b4_qun",
+      "file": "unique/portraits/soldier_b4_qun.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "271426a5a64c235ae3cd59a98062ff51e5d8671d2c6e31320b196995ff533205"
+    },
+    {
+      "cardId": "soldier:c_qun_baima",
+      "name": "白马义从",
+      "assetId": "portrait-soldier_c_qun_baima",
+      "file": "unique/portraits/soldier_c_qun_baima.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "3fc2997a3b4bf20e9fd40350bbf40c0427882c981040e1b96c82a055afbdeab5"
+    },
+    {
+      "cardId": "soldier:c_qun_xiang",
+      "name": "巨象甲兵",
+      "assetId": "portrait-soldier_c_qun_xiang",
+      "file": "unique/portraits/soldier_c_qun_xiang.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "3636e50ffcad541a083a362d2d165b24f9b1a21cee6a3ed201d4046b70c7ec09"
+    },
+    {
+      "cardId": "soldier:b2_wei",
+      "name": "虎豹骑",
+      "assetId": "portrait-soldier_b2_wei",
+      "file": "unique/portraits/soldier_b2_wei.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "8abf24cc2fb32bda38d906cddf558b332b44c91e0ece6480d6399e16706a924e"
+    },
+    {
+      "cardId": "soldier:b3_wei",
+      "name": "虎卫军",
+      "assetId": "portrait-soldier_b3_wei",
+      "file": "unique/portraits/soldier_b3_wei.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "dc6ddad0c4cc517a15055a2fbb596afb97e02e5ab4c2b16a4dcaa1dca56c8a60"
+    },
+    {
+      "cardId": "soldier:b4_wei",
+      "name": "霹雳车",
+      "assetId": "portrait-soldier_b4_wei",
+      "file": "unique/portraits/soldier_b4_wei.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "f453333435937e5fae075ab518c5b02d04669824c7314741d145f962d9b9f25d"
+    },
+    {
+      "cardId": "soldier:b5_wei",
+      "name": "随军医士",
+      "assetId": "portrait-soldier_b5_wei",
+      "file": "unique/portraits/soldier_b5_wei.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "217557a9b5480a5e66c5d29eb605804ca7845d7b8ae2b654cb1a563c6a636647"
+    },
+    {
+      "cardId": "soldier:c_wei_baowei",
+      "name": "豹卫军",
+      "assetId": "portrait-soldier_c_wei_baowei",
+      "file": "unique/portraits/soldier_c_wei_baowei.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "e9b7fa6becc057e12acd9f660dd822c3f624662a13fb64fdbc053abeee7f9180"
+    },
+    {
+      "cardId": "soldier:c_wei_huwei",
+      "name": "虎卫军",
+      "assetId": "portrait-soldier_c_wei_huwei",
+      "file": "unique/portraits/soldier_c_wei_huwei.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "2b61bb1ee02615aff8d8459a136a0b556111c8199b8658199cf91e264304c7d2"
+    },
+    {
+      "cardId": "soldier:b1_shu",
+      "name": "益州弓手",
+      "assetId": "portrait-soldier_b1_shu",
+      "file": "unique/portraits/soldier_b1_shu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "3509dd573739af6d493f9e143e877d2ff80e2117646408d43b92a4a63aa510fd"
+    },
+    {
+      "cardId": "soldier:b2_shu",
+      "name": "汉中突骑",
+      "assetId": "portrait-soldier_b2_shu",
+      "file": "unique/portraits/soldier_b2_shu.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "25efb529af2f1d9cdd4aac0a11d66ccc83069e1ba805e10c9bda9dff0f30e60c"
+    },
+    {
+      "cardId": "soldier:b4_shu",
+      "name": "旋刃车",
+      "assetId": "portrait-soldier_b4_shu",
+      "file": "unique/portraits/soldier_b4_shu.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "c2c3e49ff61dbf0f88e79095d5947bec0ce1cb199a1deee420956ed2dbce53e3"
+    },
+    {
+      "cardId": "soldier:b5_shu",
+      "name": "蜀中医士",
+      "assetId": "portrait-soldier_b5_shu",
+      "file": "unique/portraits/soldier_b5_shu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "2fb9bc19164f842b472d0600b967d362ba12cdee7e4be4cda2e303f1789bf274"
+    },
+    {
+      "cardId": "soldier:c_shu_huben",
+      "name": "虎贲",
+      "assetId": "portrait-soldier_c_shu_huben",
+      "file": "unique/portraits/soldier_c_shu_huben.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "c4e870829a73050cfda06ed42ac50a2f96ca8db1ab3515615c0772a6696f1c0d"
+    },
+    {
+      "cardId": "soldier:c_shu_kongming",
+      "name": "孔明灯",
+      "assetId": "portrait-soldier_c_shu_kongming",
+      "file": "unique/portraits/soldier_c_shu_kongming.png",
+      "status": "repaired",
+      "repairVersion": "v032",
+      "sha256": "441174bf4aa207e43747e67adaad48ab6af01292bf8a0e0c2ba319c87933dbfc"
+    },
+    {
+      "cardId": "soldier:b1_wu",
+      "name": "江东弓手",
+      "assetId": "portrait-soldier_b1_wu",
+      "file": "unique/portraits/soldier_b1_wu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "aac34dbb8b702761868240b4d405ab7b343301ae244de17b8e15dd081edb922a"
+    },
+    {
+      "cardId": "soldier:b3_wu",
+      "name": "巾帼卫",
+      "assetId": "portrait-soldier_wu-new-b3_wu",
+      "file": "unique/portraits/soldier_wu-new-b3_wu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "e2f4d9c11d272006be51dd16796450299ed70cac9d22f99d67db57f1c9d435f2"
+    },
+    {
+      "cardId": "soldier:b4_wu",
+      "name": "劲弩车",
+      "assetId": "portrait-soldier_wu-new-b4_wu",
+      "file": "unique/portraits/soldier_wu-new-b4_wu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "7c898b32abe5429241d6f1310f67290bfa24085e88edb5bb15825914fd2e613d"
+    },
+    {
+      "cardId": "soldier:b5_wu",
+      "name": "江东医士",
+      "assetId": "portrait-soldier_wu-new-b5_wu",
+      "file": "unique/portraits/soldier_wu-new-b5_wu.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "f9348c52f43ab784a8d020a5dd862f0ddcef4bec372e530110515cc272f84843"
+    },
+    {
+      "cardId": "soldier:c_wu_firebow",
+      "name": "火攻弓手",
+      "assetId": "portrait-soldier_wu-new-c_wu_firebow",
+      "file": "unique/portraits/soldier_wu-new-c_wu_firebow.png",
+      "status": "visually-checked-preserved",
+      "repairVersion": null,
+      "sha256": "7b46995b6c172027badf66315c8f3ea003242aba84ec291e7a5f2ee4759859e0"
+    },
+    {
+      "cardId": "soldier:c_wu_jieying",
+      "name": "劫营步兵",
+      "assetId": "portrait-soldier_wu-new-c_wu_jieying",
+      "file": "unique/portraits/soldier_wu-new-c_wu_jieying.png",
+      "status": "repaired",
+      "repairVersion": "v026",
+      "sha256": "f139395d58acace52b7d273b6fb744c7228ada87744fe3f8bed794982e1af824"
+    }
+  ]
+}

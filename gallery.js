@@ -6,7 +6,11 @@ const factionNames = { wei: '魏', shu: '蜀', wu: '吴', qun: '群雄', huangji
 const gradeNames = { C: '绿色边框', B: '蓝色边框', A: '紫色边框', S: '橙色边框', U: '红色边框' };
 const categoryNames = { frame: '共用品级色边框与分隔带', background: '全卡共用米色底板', footer: '全卡共用黑色尾页', faction: '国家菱形', role: '资源标识', resourceBadge: '资源圆形角标', roleBase: '共用兵种徽章底', roleIcon: '独立兵种图标', portrait: '人物头像', resourceArt: '资源插图', approvedResourceCard: '已确认资源整卡', name: '透明标题', divider: '分隔线', character: '人物' };
 function node(tag, cls, text) { const n = document.createElement(tag); if (cls) n.className = cls; if (text !== undefined) n.textContent = text; return n; }
-function filePath(value) { if (typeof value !== 'string' || !value.trim()) throw new Error('清单缺少PNG文件路径'); return value; }
+function filePath(value) {
+  if (typeof value !== 'string' || !value.trim()) throw new Error('清单缺少PNG文件路径');
+  const hash = state.fileHashes?.get(value);
+  return hash ? `${value}${value.includes('?') ? '&' : '?'}v=${hash.slice(0, 12)}` : value;
+}
 function kindOf(card) { return card.kind === 'resource' ? 'resource' : ['soldier', 'troop', 'minion'].includes(card.kind) ? 'soldier' : 'hero'; }
 function kindName(card) { return { hero: '英雄', soldier: '小兵', resource: '资源卡' }[kindOf(card)]; }
 function gradeName(card) { return card.gradeDisplay || gradeNames[card.grade] || '未设边框'; }
@@ -17,6 +21,7 @@ function currentCounts() { const refs = new Map(); (state.selected?.recipe || []
 function downloadJSON(value, filename) { const url = URL.createObjectURL(new Blob([JSON.stringify(value, null, 2) + '\n'], { type: 'application/json' })); const a = node('a'); a.href = url; a.download = filename; a.click(); setTimeout(() => URL.revokeObjectURL(url), 1500); }
 
 function buildIndices(manifest) {
+  state.fileHashes = new Map([...manifest.assets.map(asset => [asset.file, asset.sha256]), ...manifest.cards.map(card => [card.image, card.sha256])]);
   state.assets = new Map(manifest.assets.map(asset => [asset.id, asset]));
   state.refs = new Map(manifest.assets.map(asset => [asset.id, 0]));
   state.cardRefs = new Map(manifest.assets.map(asset => [asset.id, new Set()]));
@@ -95,7 +100,7 @@ function selectCard(card, options = {}) {
   $('selected-meta').textContent = `${gradeName(card)} · ${kindName(card)} · ${factionNames[card.factionId] || card.faction || card.factionId || '—'} · ${chapters.length ? chapters.map(c => `第${c}章`).join(' / ') : '通用'} · ${card.width} × ${card.height} px`;
   $('download-selected').href = filePath(card.image);
   $('download-selected').download = card.image.split('/').pop();
-  $('open-native').href = card.image;
+  $('open-native').href = filePath(card.image);
   $('card-stack').style.width = `${card.width}px`;
   $('card-stack').style.height = `${card.height}px`;
   $('card-stack').setAttribute('aria-label', `${card.name}，由独立PNG图层实际组装`);
@@ -184,14 +189,14 @@ function renderLibrary() {
     const references = state.refs.get(asset.id), cardReferences = state.cardRefs.get(asset.id).size;
     const article = node('article', 'component-card');
     const preview = node('a', 'component-image'); preview.href = filePath(asset.file); preview.target = '_blank'; preview.rel = 'noopener'; preview.setAttribute('aria-label', `打开${asset.label || asset.id}原始PNG`);
-    const img = node('img'); img.src = asset.file; img.alt = asset.label || asset.id; img.loading = 'lazy'; preview.append(img);
+    const img = node('img'); img.src = filePath(asset.file); img.alt = asset.label || asset.id; img.loading = 'lazy'; preview.append(img);
     const info = node('div', 'component-info'), title = node('div', 'component-title');
     title.append(node('h3', '', asset.label || asset.id), node('span', 'uses', `${cardReferences}卡 / ${references}次`));
     const meta = node('div', 'component-meta'); meta.append(node('span', '', `${asset.width} × ${asset.height} px`));
-    const download = node('a', '', '下载PNG'); download.href = asset.file; download.download = asset.file.split('/').pop(); meta.append(download);
+    const download = node('a', '', '下载PNG'); download.href = filePath(asset.file); download.download = asset.file.split('/').pop(); meta.append(download);
     info.append(title, node('p', 'component-id', asset.id), meta); article.append(preview, info); $('components').append(article);
     const row = node('tr'), label = node('td', '', asset.label || asset.id); label.append(node('span', 'table-asset-id', asset.id));
-    const path = node('td'), link = node('a', '', asset.file); link.href = asset.file; link.target = '_blank'; link.rel = 'noopener'; path.append(link);
+    const path = node('td'), link = node('a', '', asset.file); link.href = filePath(asset.file); link.target = '_blank'; link.rel = 'noopener'; path.append(link);
     row.append(label, node('td', 'count-value', String(current.get(asset.id) || 0)), node('td', 'count-value', String(cardReferences)), node('td', 'count-value', String(references)), path); $('reuse-table').append(row);
   });
 }
