@@ -27,7 +27,7 @@
         {
           "id": "hero:CH01_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -126,7 +126,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "bf818683af1404dfc335efa5c13ae80469e22c918cc43d3b1e4107174645080a",
+      "sha256": "e9b890b5a6283f63c44a9db083d4b7ac4d8bc1f66259dc0d5ebe0c587f5da9b2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -138,7 +138,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N02",
@@ -165,7 +165,7 @@
         {
           "id": "hero:CH01_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -264,7 +264,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "c671596bed72595d102c4c8233ec25b7b675c96347cd7431178dae1760817e13",
+      "sha256": "57c50f9b61238e9d30860e58d86e17a11aff96b3cc2d54b5c8bd58ecb6d88169",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -276,7 +276,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N03",
@@ -303,7 +303,7 @@
         {
           "id": "hero:CH01_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -402,7 +402,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "433524f26801b492dad4f0d494145cffd99dc57da0cebd4fa8cc09919e29d2a9",
+      "sha256": "86712dd7a787fe80cabab35e9538bf174a692e15379b86785420c7ffb5cfd59c",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -414,7 +414,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N04",
@@ -442,7 +442,7 @@
         {
           "id": "hero:CH01_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -551,7 +551,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "6efbd2beffab7b5ff66919cbef20ea22003fedfb0861d61b153a29d38f13c0bf",
+      "sha256": "be026ce454727d5ebeb63a10f60dbe3478dcfa2546f1815bd86e92efa46484cb",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -565,7 +565,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N05",
@@ -592,7 +592,7 @@
         {
           "id": "hero:CH01_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -702,7 +702,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "db874a0f766c05e999f522e8dd78f8029e32704e0651e951b14f42dddc99f82d",
+      "sha256": "16f7e895b99dd28cd11c11ec1b113d0249651f82d94ad0d3376637cbb9a61f66",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -714,7 +714,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH01_N05-张曼成.png",
         "rectXYWH": [
@@ -759,7 +759,7 @@
         {
           "id": "hero:CH01_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -858,7 +858,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "5184b57c48239ac978c5910a115bacc45704905823a9f1e7cef0e8107d23d302",
+      "sha256": "0f41e4403e85daa3bbf9d02c532af8e5e7b788f93d2d46a43457cde47e76586d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -870,7 +870,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N07",
@@ -897,7 +897,7 @@
         {
           "id": "hero:CH01_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -996,7 +996,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "e9b026fa7623b0e17873c30380b9480a4c2e0906869294d613e231f3300ced2c",
+      "sha256": "e632c32e85a7c744ca2e22555d73be5457156bf8603f53912053834dc57372bc",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1008,7 +1008,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N08",
@@ -1035,7 +1035,7 @@
         {
           "id": "hero:CH01_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1134,7 +1134,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "d8e2c01c06d80d840145450b434a24ce399683784be34df41452627ca8fedc71",
+      "sha256": "c902ca5ea3dbc4a30f1426fc1e408de66140d5b5ae89103eb16ed5422d3e8285",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1146,7 +1146,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N09",
@@ -1173,7 +1173,7 @@
         {
           "id": "hero:CH01_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1282,7 +1282,7 @@
         ],
         "sha256": "c0d918e6fcc5c212f47a2ba2334a93ac3a9068be34c0b9858ee88fbd1c5a9972"
       },
-      "sha256": "fd8010c5a500981fa0477468721216733a4b2f14e7632bdc8c9d765c5df2d413",
+      "sha256": "e6fffa9c33e015bfdf3150162c6c8280b5af396eab3a2134f19ddcab0cb61925",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1295,7 +1295,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH01_N10",
@@ -1322,7 +1322,7 @@
         {
           "id": "hero:CH01_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1421,7 +1421,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "c7e59c274375a85bce9662b3469e2c0772f6f6591b25807d46e5ee514aac41e4",
+      "sha256": "0eec3980e870d4fdbefcfa66a1e43f147d90b6d55b713aac16b18040a2299114",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1433,7 +1433,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N01",
@@ -1460,7 +1460,7 @@
         {
           "id": "hero:CH02_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1570,7 +1570,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "a55c8354b2f8e622278c6ff2bfb3f940c1184a743d58d6cf9847415878e0dd7e",
+      "sha256": "61292cbf9862ef22c98abfdf4d88360d50b73be465303e6adae8a5bd774e5cd5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1582,7 +1582,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH02_N01-董白.png",
         "rectXYWH": [
@@ -1627,7 +1627,7 @@
         {
           "id": "hero:CH02_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1726,7 +1726,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "abdfa2b4b64eee1c4cdd74c7206d6bb96eb48e3f8b6960dea3777b0f3f960c49",
+      "sha256": "e21646293389daea678b940becc6af9eed5f0d39c0acc35050c09f0c434853bf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1738,7 +1738,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N03",
@@ -1765,7 +1765,7 @@
         {
           "id": "hero:CH02_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -1864,7 +1864,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "0cca7ed73f589f6620c0dc9997fc1671c4a3f518587d54b65798cd27201dc348",
+      "sha256": "1591d21e81e99753f0568f8f9f242a6405f8323ed468cc787cddadb4a85b4437",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -1876,7 +1876,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N04",
@@ -1903,7 +1903,7 @@
         {
           "id": "hero:CH02_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2002,7 +2002,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "83e2a430951e45679e73b37d7a5d0d3214049e64c99a021f4b35c4d10a8d6c60",
+      "sha256": "c72bfc2b92fd07e855ac622c21db8592600088b0a64657d0bf7cd53c37b454fd",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2014,7 +2014,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N05",
@@ -2041,7 +2041,7 @@
         {
           "id": "hero:CH02_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2140,7 +2140,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "6acb3c5399b66d7f404a09ad942161e4acf1f846eefd8efbc4e6beaa905f6039",
+      "sha256": "5407c5f57418d6d3431b3f8161325e8bad2c09c01c4abf292dc0b2ad83ebb609",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2152,7 +2152,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N06",
@@ -2179,7 +2179,7 @@
         {
           "id": "hero:CH02_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2289,7 +2289,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "bb84ea1d555830665e5b4b2c35e1d557e496eec34a94dcd19a9becb8b28b6126",
+      "sha256": "db2ba13e92bbac3ba5f4a2aeef7fc30a3f172476bff1b23fe752b24352f2aa4b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2301,7 +2301,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH02_N06-李傕.png",
         "rectXYWH": [
@@ -2347,7 +2347,7 @@
         {
           "id": "hero:CH02_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2456,7 +2456,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "d7ec68ed18875df0aa50f8535cde37d69953a144e2344d2129f74ffa410beb7c",
+      "sha256": "9d6ea6f0d58c2579e605c094c4b2a0d21a7f8bc2bd179f1cc8a8bd91363ffc4e",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2470,7 +2470,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N08",
@@ -2497,7 +2497,7 @@
         {
           "id": "hero:CH02_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2596,7 +2596,7 @@
         ],
         "sha256": "2e3ff3831988087e42612f85854022e4a374dcfba27c58d8ede9e26a26a8608f"
       },
-      "sha256": "7d79f961d954ab1f6ddaa5c91678ec160ab47ed6871e699af56fd7559bca1bbe",
+      "sha256": "feecf2a54dc87d7511e9926fa5a4849aaafc640c08bc37f7a6e0d0d30592a54a",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2608,7 +2608,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N09",
@@ -2635,7 +2635,7 @@
         {
           "id": "hero:CH02_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2734,7 +2734,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "b3e1378219de5531e7ed5c6337dbad5723dc172804a87de7d3ecfdd707e066d4",
+      "sha256": "3e8fc9c792f91bb2ae525fa41aa4211998aaab18aa0519995116375c18d77ec2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2746,7 +2746,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH02_N10",
@@ -2773,7 +2773,7 @@
         {
           "id": "hero:CH02_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -2872,7 +2872,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "5875435a9e6aa3a15ce631371164a8c56f7e0fbebfafae51e80677ac2b5c87db",
+      "sha256": "f65f0175a374c3398cb83729ce32396017ea689b1eab63a604ea0a38fb9e9469",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -2884,7 +2884,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N01",
@@ -2911,7 +2911,7 @@
         {
           "id": "hero:CH03_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3010,7 +3010,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "1f36cce664d3a17760161f7cada5603147fc6791b9cc4a5db382ff342608dea4",
+      "sha256": "c08c6c4d7dbbff2bb2cf7553a4ff4cfc46255a0300cfb23a88e83c7724897b96",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3022,7 +3022,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N02",
@@ -3049,7 +3049,7 @@
         {
           "id": "hero:CH03_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3148,7 +3148,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "92bc2b3aef56ca1ee8eedd053e154edb3ecf4b72616977382b08b2f8dd291734",
+      "sha256": "04bdd04faef3eaae19895d0e26b1c886680fddcda2d65b272a05768c8d79b246",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3160,7 +3160,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N03",
@@ -3187,7 +3187,7 @@
         {
           "id": "hero:CH03_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3286,7 +3286,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "2c26cff9b021faefac0cfd17e9ab737f19069f09d7a828cca0ea964475634254",
+      "sha256": "92fe55b626e6bb09982683da2a01c253c843d651da6c6878203d06302c1f61e5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3298,7 +3298,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N04",
@@ -3325,7 +3325,7 @@
         {
           "id": "hero:CH03_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3435,7 +3435,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "29ab82d69669fc03dd81f259b5715bf18933ccdf6cf706fc097204fd77e42fd5",
+      "sha256": "95fdf7bfeafe48c48fb0e51ca46eb9d69472b460ec18df72b6027b8f1642afc5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3447,7 +3447,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH03_N04-审配.png",
         "rectXYWH": [
@@ -3493,7 +3493,7 @@
         {
           "id": "hero:CH03_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3613,7 +3613,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "5b2e0e698cb1d990976cb5a60886a157708beadb786f83ba4ec94d298f9c4df4",
+      "sha256": "375c7df4e67b2779b652d7af30710e2de04e72be1965f44eeba9627bc3daf5f9",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3627,7 +3627,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH03_N05-公孙瓒.png",
         "rectXYWH": [
@@ -3672,7 +3672,7 @@
         {
           "id": "hero:CH03_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3771,7 +3771,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "49cf9efa8351091ebbdf9bf9a8fcbcdcbcb412dc905c9f54297a05b1e2d79246",
+      "sha256": "84c5e8e2d8449e8fd9eac9a411e6506cbdd1c0c77d31c646ee41e87f0b86c4c1",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3783,7 +3783,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N07",
@@ -3810,7 +3810,7 @@
         {
           "id": "hero:CH03_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -3909,7 +3909,7 @@
         ],
         "sha256": "7c0abec95e0a2dcba01c3f628cc5850dbcb82bbb6403e23c4bc69e5bb44485d9"
       },
-      "sha256": "40e56cd9be9e3d77ef161992cfa2fb3d200aceccaacfbf65b9af47dccf85c98f",
+      "sha256": "5dd7a33435c2abced25820b33ec27d4ffd395eaa62cf1494d17a886560b39901",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -3921,7 +3921,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N08",
@@ -3948,7 +3948,7 @@
         {
           "id": "hero:CH03_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4047,7 +4047,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "46612352fcbdadcc172059d34ccf5a67ffae64bfc7b8ffe0d5fa22b09e1f5c41",
+      "sha256": "3c34e4fe287268f2af0bf8615ffb055e3e99e098603ee265d5b393d04266b21b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4059,7 +4059,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N09",
@@ -4086,7 +4086,7 @@
         {
           "id": "hero:CH03_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4195,7 +4195,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "e32de9d52569debf0494a98a4d79d20b9d884d580358fd5e53a3ac827e02b765",
+      "sha256": "13f58bd51d5f7fb1cfebc6557b2846a461facf40b87cf78c413d3c782806132a",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4208,7 +4208,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH03_N10",
@@ -4235,7 +4235,7 @@
         {
           "id": "hero:CH03_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4345,7 +4345,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "bffe0d0da440c445ed3345506728fa26f19faab21175a87babaf61514c093a0f",
+      "sha256": "3666f030f7bfb23debd7217296e3a222b7ccb9aa1ca847d7449b4efaeecf0d57",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4357,7 +4357,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH03_N10-吕布.png",
         "rectXYWH": [
@@ -4402,7 +4402,7 @@
         {
           "id": "hero:CH04_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4501,7 +4501,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "67d75c571d35b2ad0f534a7c2e61f27e2502f33b5b99ae3e77f7c5640c667ac2",
+      "sha256": "5e078a21cb5cc0314cf55765be2f5fb916df2d0827d45bf5be3c53002fb4a268",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4513,7 +4513,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH04_N02",
@@ -4540,7 +4540,7 @@
         {
           "id": "hero:CH04_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4650,7 +4650,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "4c9a30827da5eac5b0a6862a055f2d35cbea6c2195a4e4927f4fd7622c635104",
+      "sha256": "e65121ea52ee5d5bab5c00ec3907170017e84d25a0dfaa6ac6f3c809cd0e1b58",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4662,7 +4662,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH04_N02-田丰.png",
         "rectXYWH": [
@@ -4707,7 +4707,7 @@
         {
           "id": "hero:CH04_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4817,7 +4817,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "e0db7f3287203411abfb8a0b3625d6cbbac940a429abe9d1ce8347b5361ee74c",
+      "sha256": "1630ec1c11404e4977091e93f515f42f704b3e4c39ae806f850039bf218b2c73",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4829,7 +4829,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH04_N03-鞠义.png",
         "rectXYWH": [
@@ -4874,7 +4874,7 @@
         {
           "id": "hero:CH04_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -4973,7 +4973,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "dec8c591d2018c4ee8d0805503afee9822f4a9f43630026be070040cd28f081c",
+      "sha256": "2cc8640b320c101946e316daac7ece7bc43ce32f26b809f5077e51738fd87adf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -4985,7 +4985,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH04_N05",
@@ -5012,7 +5012,7 @@
         {
           "id": "hero:CH04_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5111,7 +5111,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "c81252f46a72afcc247ed8362fc4bd65a152c5b69e1f00c9bd99521dfbaf64d6",
+      "sha256": "b19e073b1e60eee7ba44323ab71d317d103076b8dc5b5bda0fa9df2a8e17aa8e",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5123,7 +5123,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH04_N06",
@@ -5150,7 +5150,7 @@
         {
           "id": "hero:CH04_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5260,7 +5260,7 @@
         ],
         "sha256": "78a0accc1c282945deb6bbd82190374c21e9de0ce38bcae9e4ebb8217bd43c58"
       },
-      "sha256": "a6e82454c9a553b9dc57eb902f8c7daac89a49b36bcd76a8b1f8c524e10c34c8",
+      "sha256": "2f9255f558f4ad6a06b6675108477aa0fbb0045b803d12193cf33f96823b2ea3",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5272,7 +5272,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH04_N06-龚都.png",
         "rectXYWH": [
@@ -5317,7 +5317,7 @@
         {
           "id": "hero:CH04_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5416,7 +5416,7 @@
         ],
         "sha256": "9cbc9c546e4ae7cff68d32ae09d655e85cdbaecd8abd53327fa717e3abae2268"
       },
-      "sha256": "141334c44993382803f2b3c1e7de583dbca2b4e0a37d29ace2675115f707fcfd",
+      "sha256": "ca0242830cb4d4266338b597ea4047a3975a4899301c5690a3ff732ddf47bfa9",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5428,7 +5428,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH04_N08",
@@ -5455,7 +5455,7 @@
         {
           "id": "hero:CH04_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5554,7 +5554,7 @@
         ],
         "sha256": "9cbc9c546e4ae7cff68d32ae09d655e85cdbaecd8abd53327fa717e3abae2268"
       },
-      "sha256": "a49f2995a46ec8ca7b82e88064034109bd5142867f17f0565bfc28938ff0d170",
+      "sha256": "c02ad55f69f614076893afc62655355ce8c1fc3437a64638ec066f82dc22efd5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5566,7 +5566,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH04_N09",
@@ -5594,7 +5594,7 @@
         {
           "id": "hero:CH04_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5714,7 +5714,7 @@
         ],
         "sha256": "9cbc9c546e4ae7cff68d32ae09d655e85cdbaecd8abd53327fa717e3abae2268"
       },
-      "sha256": "1eb1325227a7d2126b49121f879570b8bb8b5c8168438df6c890e09d543104eb",
+      "sha256": "97b8e425f8914fcf649e298475cb7bc302e077ca02e3e5917aded147c07815cf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5728,7 +5728,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH04_N09-袁术.png",
         "rectXYWH": [
@@ -5773,7 +5773,7 @@
         {
           "id": "hero:CH04_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -5882,7 +5882,7 @@
         ],
         "sha256": "9cbc9c546e4ae7cff68d32ae09d655e85cdbaecd8abd53327fa717e3abae2268"
       },
-      "sha256": "582ecfc8a703186bd147ae5c05cbe3f3e93fe17e1ad76b2e2e9af10f58c5e278",
+      "sha256": "242ee1c3ef60bf3e5bac547c889409da9f3838f0659ee155e8780b1cd0db62de",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -5895,7 +5895,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N01",
@@ -5922,7 +5922,7 @@
         {
           "id": "hero:CH05_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6021,7 +6021,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "edd96f2de4b2625ae9784cd54a3f20b47891eaeaa54f2d9e85fe3e1b6d2ff92d",
+      "sha256": "5a6386606fecb400558acae3cc56dd56820e2d7337ecc7bba23087104bcdad28",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6033,7 +6033,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N02",
@@ -6060,7 +6060,7 @@
         {
           "id": "hero:CH05_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6159,7 +6159,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "4842af72a3c2655592d044f0f47577d151fe74d7073a3082177721274cb88aaf",
+      "sha256": "7d4b8b9fe1f123a4d95ccc52662fc77636b269fe53fee0a69f10d091f2224849",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6171,7 +6171,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N03",
@@ -6198,7 +6198,7 @@
         {
           "id": "hero:CH05_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6297,7 +6297,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "2d89b89439fd4ebe9fa207759b15f0fa8143f47b56eba42d7c7a9543271dac17",
+      "sha256": "21cfefb7abc70aa857859cc755ed5d02321b6e5373e007ad67f132f6e7f1aca8",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6309,7 +6309,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N04",
@@ -6336,7 +6336,7 @@
         {
           "id": "hero:CH05_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6435,7 +6435,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "e0fbc3d907e906a7caef6ab2bd2d38f9ae3772a235b69e9ac4d27af98d55788d",
+      "sha256": "a461582342735a36549c8d7eeb577985e0723cc4b7d6b755b353bd76eba87a51",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6447,7 +6447,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N05",
@@ -6474,7 +6474,7 @@
         {
           "id": "hero:CH05_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6573,7 +6573,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "59f893b061bb84de8fcf4f8ac3e0e411a6830d3761c0520ff0b30b70f05746e5",
+      "sha256": "3736333c622ac3ce3a7c5f87f8ff170f32021a3dda31daf8f5bdf0226a6d4eb7",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6585,7 +6585,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N06",
@@ -6614,7 +6614,7 @@
         {
           "id": "hero:CH05_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6724,7 +6724,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "e275c2324a9f1fb8727b4d346c110b6ada85b41bef4e801e02c31cebb5c224c7",
+      "sha256": "f22e99a33e64d19b9fd1526957229faf8a126e238160a414615e001a8eb80422",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6736,7 +6736,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH05_N06-夏侯惇.png",
         "rectXYWH": [
@@ -6781,7 +6781,7 @@
         {
           "id": "hero:CH05_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -6880,7 +6880,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "1e79d2fdfba60694bf680cde2a2ab2acd1a0df7e9a04d357cfed1d615a7de97a",
+      "sha256": "3f3c4ea997ec84e1579acf96efa19cd8823128b5132194bccc809e5df94faf3b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -6892,7 +6892,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N08",
@@ -6919,7 +6919,7 @@
         {
           "id": "hero:CH05_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7029,7 +7029,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "ce51ac33781a132a656d576d5d0f2a85fa701d2e6478f171fa953fd45922afcc",
+      "sha256": "9248b24b66d052ff33f583b0a20ac87db950cbef942ba066e9ff8c6680fa8d15",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7041,7 +7041,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH05_N08-荀文若.png",
         "rectXYWH": [
@@ -7086,7 +7086,7 @@
         {
           "id": "hero:CH05_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7195,7 +7195,7 @@
         ],
         "sha256": "0ecab677cb9192f09f830567b93ec32058c2fea375ba4faa94ed0227949f5a44"
       },
-      "sha256": "ad91fec7b188dcdf89c56414f899880d86cd99117ef7b57b970460b9a913dcb8",
+      "sha256": "f0846efa106a73aa136a9f81df92f70ab34e651695295413c872c3e7f15f28c7",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7208,7 +7208,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH05_N10",
@@ -7235,7 +7235,7 @@
         {
           "id": "hero:CH05_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7355,7 +7355,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "7b70801ac97462fedb1c98831a2cc9c4e49630f60a76416bf94e129cd7359456",
+      "sha256": "61e7e688fb43ace971b1de1fa80dd732758c8daa76305e288b06555155ceafc7",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7368,7 +7368,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH05_N10-曹操.png",
         "rectXYWH": [
@@ -7413,7 +7413,7 @@
         {
           "id": "hero:CH06_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7533,7 +7533,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "0200b971236d3f1521df18323d19c391d5619bdcde0cd05daf7ae424858fd2f6",
+      "sha256": "185582820660d91eff1328d3e76719c70cedf8c5f8a002953eeb7b2d27b2c440",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7546,7 +7546,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N01-曹节.png",
         "rectXYWH": [
@@ -7591,7 +7591,7 @@
         {
           "id": "hero:CH06_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7701,7 +7701,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "fc63bf82fc6f8bc7f174bdf32aaeb7324678e0038f574235b80b9210c4e2f559",
+      "sha256": "5b3650dc26d9eacbc1bab482d852c83732617ef8a9ee6ecff87c2bc337f4cb37",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7713,7 +7713,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N02-陈琳.png",
         "rectXYWH": [
@@ -7758,7 +7758,7 @@
         {
           "id": "hero:CH06_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -7868,7 +7868,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "dd27454bf46915d09b1060f6a355510859798a0fc818e5469288f22df2234f7b",
+      "sha256": "1978ccfcbadad7cfe9c32fcd1dd871aecd0b26dd0f897bd4b764efc2e63fbbd3",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -7880,7 +7880,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N03-韩福.png",
         "rectXYWH": [
@@ -7926,7 +7926,7 @@
         {
           "id": "hero:CH06_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8046,7 +8046,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "6d790ceaa43d341a75c55794da882a24b2876ea46c8991fe17c93b9dfbcc95b3",
+      "sha256": "eb437258599ac9c8d58b0e8e622f52106cbcf68de17a039b5687c82af2979206",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8060,7 +8060,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N04-卞夫人.png",
         "rectXYWH": [
@@ -8105,7 +8105,7 @@
         {
           "id": "hero:CH06_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8215,7 +8215,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "03b24227a90de8aa9a3cd3048efcf57c875a19b5591f1966853174061da8559c",
+      "sha256": "3b925e0720b9e40edec85c0b0330a545d46cab5f09da74afa0cbd8bb88391aa6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8227,7 +8227,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N05-徐庶.png",
         "rectXYWH": [
@@ -8272,7 +8272,7 @@
         {
           "id": "hero:CH06_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8382,7 +8382,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "52c8895bda787a361cd934c4dd9f9315c8ba96dae7a42b6970c901b7dcf58642",
+      "sha256": "42b84a9d681ed28a16561c9d6f963f66511329c26ae36e43aa761634397ee243",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8394,7 +8394,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N06-郭嘉.png",
         "rectXYWH": [
@@ -8439,7 +8439,7 @@
         {
           "id": "hero:CH06_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8549,7 +8549,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "ea3d25f46575f6224c33d20a69a02ca1c478aa98eb7c4f954d07dd42f7810802",
+      "sha256": "dc8d87f7434ca622d793da1ee6b222ecf09acfa1faa298b28252a3226cf5fcd6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8561,7 +8561,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N07-满宠.png",
         "rectXYWH": [
@@ -8606,7 +8606,7 @@
         {
           "id": "hero:CH06_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8716,7 +8716,7 @@
         ],
         "sha256": "ae6d8a45a1aaaa23efff73a82d84e40f06e5c7b154c5b3770184a144d91073c2"
       },
-      "sha256": "c6d93952d98e9676e38bf680b3a744f25cd01dfef599d270c628584683f8b2f1",
+      "sha256": "2b6d87edad69dbc929ef43d057664d94c2c942bdbe1f404a427c73caa990f906",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8728,7 +8728,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N08-李典.png",
         "rectXYWH": [
@@ -8774,7 +8774,7 @@
         {
           "id": "hero:CH06_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -8894,7 +8894,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "39f614c1a8c934bed976a4b03162065c15aa4bf60db11b3d051c1848b8d53f28",
+      "sha256": "65525375cac4f385f90d94d8668d59cdcb2ad3c8c29d5171af89d82f51ad8cbf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -8908,7 +8908,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH06_N09-乐进.png",
         "rectXYWH": [
@@ -8953,7 +8953,7 @@
         {
           "id": "hero:CH07_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9063,7 +9063,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "5ed11f9e1cb8ae2b260b48f1c89b29ca221e2bebd8fc2d233fb84895cdca8f49",
+      "sha256": "3b2045df24a87283d682b4c15851deb1672daebbc0eeff881ce192f60701d1a2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9075,7 +9075,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N01-牛金.png",
         "rectXYWH": [
@@ -9120,7 +9120,7 @@
         {
           "id": "hero:CH07_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9230,7 +9230,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "f148701589c93c88ab54ab767f56c74fe0799e85c900b6ff468d063b00733469",
+      "sha256": "d6853839533155416942d918190c4456a7ccf0763d33b9fec492f77613884dcb",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9242,7 +9242,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N02-王双.png",
         "rectXYWH": [
@@ -9287,7 +9287,7 @@
         {
           "id": "hero:CH07_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9386,7 +9386,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "ad78063c0cf2865576353bacdedb60ffc748fffa68a39d9043e4c8e9e65be127",
+      "sha256": "653ddf27a6dac1253a188724787fccb63d31ba09846cd31d20402d5e6498fbce",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9398,7 +9398,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH07_N04",
@@ -9426,7 +9426,7 @@
         {
           "id": "hero:CH07_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9535,7 +9535,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "447b916a08cbcbbbf1e8da378c92729fb465f95a13a4c1451277fc12102d9d61",
+      "sha256": "e8ac977a55ddb3cda3cc7afac758dbe2e51f6a55cf231da21edf87f3b04848c8",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9549,7 +9549,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH07_N05",
@@ -9576,7 +9576,7 @@
         {
           "id": "hero:CH07_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9686,7 +9686,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "7be51597027aba5315282212c722e0d72175897f281b9f85d64347439b7c046d",
+      "sha256": "67f7c0be28e12397d5c0940f160a636eea3009ae67b25512eb9aa7d6629c6181",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9698,7 +9698,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N05-郝昭.png",
         "rectXYWH": [
@@ -9743,7 +9743,7 @@
         {
           "id": "hero:CH07_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -9853,7 +9853,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "d3b35bd599b2103c6dc4431534e9f68946449980d9125c4d6f02cd2fa0825e80",
+      "sha256": "efef0f469c76eb2f914570058ddc828e216ed4e79259ba0e0131f1b5c77e7454",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -9865,7 +9865,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N06-郭淮.png",
         "rectXYWH": [
@@ -9910,7 +9910,7 @@
         {
           "id": "hero:CH07_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10030,7 +10030,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "76476a98383ce1130de043bae0c4e23206949fa1847a36622516b9efd3b75240",
+      "sha256": "a48e3b15f00844af49ae55b8766528fc9643fce561b949565920e8c4566f2ba2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10043,7 +10043,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N07-邓艾.png",
         "rectXYWH": [
@@ -10088,7 +10088,7 @@
         {
           "id": "hero:CH07_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10198,7 +10198,7 @@
         ],
         "sha256": "b57a666765dc55f837d908893936fa4426234ba309b41ffe0586023e6f8f5c4a"
       },
-      "sha256": "0969283c09bdcf95e9f97d1737372dba94ee8a213190db36bd5f7b7278f7371d",
+      "sha256": "8fb019c85c0dde713eb1888050858a4fce856b98f660f62951849bfadc9e3bf7",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10210,7 +10210,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N08-陈泰.png",
         "rectXYWH": [
@@ -10255,7 +10255,7 @@
         {
           "id": "hero:CH07_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10365,7 +10365,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "d22e22b6efa5fb607a2130a55430cc38dc24cb80c49fc5d0d3b14f2dae7c5088",
+      "sha256": "caa6d9d84cd49f650c11547d095713569196f89e290391d10a7fa01f1706fc9f",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10377,7 +10377,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH07_N09-贾充.png",
         "rectXYWH": [
@@ -10422,7 +10422,7 @@
         {
           "id": "hero:CH07_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10521,7 +10521,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "feb29bbadaa9d8df7a570a8b14997b025d35c010ec675ee7c76ffbc0bf20c25c",
+      "sha256": "e112206fef836b68a538cc9d7bb1ac7da506630bce64d424021e5afc38dcd32a",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10533,7 +10533,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH08_N01",
@@ -10560,7 +10560,7 @@
         {
           "id": "hero:CH08_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10659,7 +10659,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "9a581f1653756b5c8d3bc9cddeaa1fe1dd2b2c9ff95eb245f2ca2836b358e8d1",
+      "sha256": "b7ed232f464e0c0bb260d559c0d31570ac9546e11f383aaedb8d45b042d1aa8e",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10671,7 +10671,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH08_N02",
@@ -10698,7 +10698,7 @@
         {
           "id": "hero:CH08_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10808,7 +10808,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "0d3b963fdabc843323016880b837e76d1fef08fb9397c2062119fbee7fd23498",
+      "sha256": "a4a5cadd6f4b91e37b1bdcb399d05564f36d3454c0bec1ff64b0e5f3975096ce",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10820,7 +10820,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N02-简雍.png",
         "rectXYWH": [
@@ -10865,7 +10865,7 @@
         {
           "id": "hero:CH08_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -10975,7 +10975,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "35951e5dd8ef963e09f19341b1a49c31d67a78718acb679a3af5ecd63bda305d",
+      "sha256": "7640c911d24fd77f84a5a1036560cb47fa10f24ad5f24c107800f4a40586606d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -10987,7 +10987,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N03-刘封.png",
         "rectXYWH": [
@@ -11033,7 +11033,7 @@
         {
           "id": "hero:CH08_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11142,7 +11142,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "6e5d044f9e71416c16bef732b86231e6de2f4e553eac914144faf132d7d469ed",
+      "sha256": "b3f5c604635009590d52aa48eb2747a7df12668fcfd1f74b11c41e2f47e1c4e5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11156,7 +11156,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH08_N05",
@@ -11183,7 +11183,7 @@
         {
           "id": "hero:CH08_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11293,7 +11293,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "8d09135a10b8f74b5a30a7f07e18915af60e4711609c151206ce4b7e6176c07e",
+      "sha256": "c63196eb558a0b4c41b0ff11240de07a42ab96b5c6f09aafe856b5a6d25fe412",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11305,7 +11305,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N05-关银屏.png",
         "rectXYWH": [
@@ -11350,7 +11350,7 @@
         {
           "id": "hero:CH08_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11449,7 +11449,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "13ffd16bb4626eda9fb873b234f90f2df131f1acb02e19014430549515436921",
+      "sha256": "4a48b83555cec4bed7efa78c89c9ae78e63a76428b85e376f5a29bfc5360dc4f",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11461,7 +11461,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH08_N07",
@@ -11488,7 +11488,7 @@
         {
           "id": "hero:CH08_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11608,7 +11608,7 @@
         ],
         "sha256": "4311242e3ed25af1dbd416c4ef29e1e7d16cc54e7d324c6d6a9e04f0f2637be1"
       },
-      "sha256": "646b2b2f4f14844804de9e1089fc5b6eab1f98d1b8343d193452247d2045d58f",
+      "sha256": "92cabc4299ce86e606942bfd9b9d844eccf07b2ef850aab4db80439fbcea485d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11621,7 +11621,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N07-诸葛亮.png",
         "rectXYWH": [
@@ -11666,7 +11666,7 @@
         {
           "id": "hero:CH08_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11776,7 +11776,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "87c8b3341dbc431c551ea84b32eb5942ab3f47c59a3bee4da484203de705e7dc",
+      "sha256": "deff4950380b5450aa59a4876a5feb9d118132fb8bf5051404e33ade03ce9ad1",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11788,7 +11788,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N08-赵云.png",
         "rectXYWH": [
@@ -11833,7 +11833,7 @@
         {
           "id": "hero:CH08_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -11953,7 +11953,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "5696e46e588e89d1e06f61978cce3f2a735112b39e28c082e2f2892ee999ab38",
+      "sha256": "68542744ffc44cb520d1bab7b51025f999f4b77ddea0dd72edfeb6bce072fe12",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -11966,7 +11966,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N09-马超.png",
         "rectXYWH": [
@@ -12011,7 +12011,7 @@
         {
           "id": "hero:CH08_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12131,7 +12131,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "a146902f952aa5cc1a21a49920c2da74fe1e29c13217c4ebca9b4a8cda6c18a0",
+      "sha256": "7ef1aa1938d648bbf421e2bc5a865637cea38084a44f6aa1f192158f9d004def",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12144,7 +12144,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH08_N10-刘备.png",
         "rectXYWH": [
@@ -12189,7 +12189,7 @@
         {
           "id": "hero:CH09_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12288,7 +12288,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "fb58e7d6b9fdad2edc71b068a07aa06f4719b006ddba2b15c53f3595058c1243",
+      "sha256": "dbf2f6120bdf7c03b11a1e5d1f6abef40b493e088c2f2f813c640baee2e9c876",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12300,7 +12300,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH09_N02",
@@ -12327,7 +12327,7 @@
         {
           "id": "hero:CH09_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12437,7 +12437,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "86b58b8314a39bd6ab0d6593a6200386f647492e793b9e320749231ad25f63df",
+      "sha256": "624c58ec62f723525140610a08d0bb675ba150a8f0f8e219dca14df0bc0a118e",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12449,7 +12449,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH09_N02-黄权.png",
         "rectXYWH": [
@@ -12494,7 +12494,7 @@
         {
           "id": "hero:CH09_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12593,7 +12593,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "11beea79d3b3d58b32c2d6d8a1161ac7c958c9550ad5660c6820422ece96e6ae",
+      "sha256": "d07283a0306c052e8b990486e1824e07879dc8360d99136bea5c9dd349f428b5",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12605,7 +12605,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH09_N04",
@@ -12632,7 +12632,7 @@
         {
           "id": "hero:CH09_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12731,7 +12731,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "3055cf3de53638386044e6901282ded817fde91d052422d16769e34661b43ded",
+      "sha256": "6b0017a141a2ad9448546bd0d59cfdee0c3b915baea2fd3326775708d43def4b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12743,7 +12743,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH09_N05",
@@ -12770,7 +12770,7 @@
         {
           "id": "hero:CH09_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -12869,7 +12869,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "b60f769312f73b9a99e68eccc94e997b3b229f9a05b0427dcd759339cdf55446",
+      "sha256": "27e5549cfc12c36ff95a6a73801d6175e9df9391149c830904f0933516c0eb28",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -12881,7 +12881,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH09_N06",
@@ -12908,7 +12908,7 @@
         {
           "id": "hero:CH09_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13018,7 +13018,7 @@
         ],
         "sha256": "50ec41639865875f0298bf64698c1bf22db00e74f33a65b68b4652e7b13b786d"
       },
-      "sha256": "8255f4e220b1e24cb7897c9bb65f016a1f9c8f70de5643464164097884f63304",
+      "sha256": "5de6cafc23f0f519ab1d026fb35f5ef1400963e60cc29c35dfd0c28f1dbc3200",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13030,7 +13030,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH09_N06-严颜.png",
         "rectXYWH": [
@@ -13075,7 +13075,7 @@
         {
           "id": "hero:CH09_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13185,7 +13185,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "508cb190d81008fdcc84c4b36b3c3a3944b00d352390c483b3f1dd39fda168d8",
+      "sha256": "b958273356fa7be66284dc5ed62c1799b13a1ac76b64931a75c44a8e05a3351b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13197,7 +13197,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH09_N07-黄忠.png",
         "rectXYWH": [
@@ -13242,7 +13242,7 @@
         {
           "id": "hero:CH09_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13352,7 +13352,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "0b0fa629337207336937135d086c25cdcf8cbb8f390b47da6ba203429acdd3d6",
+      "sha256": "992779a5f753179e5e4a5ce637a5575d9e6cfc7f1a2cf775581bc7d86fb906e2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13364,7 +13364,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH09_N08-王平.png",
         "rectXYWH": [
@@ -13409,7 +13409,7 @@
         {
           "id": "hero:CH09_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13518,7 +13518,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "e34a2db9bc4cb371f571b5d9655b2d169dbc41c128e0ef010f1f6f847bf5971c",
+      "sha256": "9ca67241a0aa03fd3411874d1a696d3b4a1602bf669fb04bf8fabc92fc564c6f",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13531,7 +13531,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH09_N10",
@@ -13558,7 +13558,7 @@
         {
           "id": "hero:CH09_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13657,7 +13657,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "473b9879f1792e70470d8e295abf3f933edeabe112e7a29e6c3db868951f58b9",
+      "sha256": "3d9ed2ff099a3306ef734785136cdb223487ce5f22274b91e43307c73ad7b832",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13669,7 +13669,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "红色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N01",
@@ -13696,7 +13696,7 @@
         {
           "id": "hero:CH10_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13795,7 +13795,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "ef573ce2639286ac9da9dcc98edfa5c6ede67354b9eaca15389c1c36c72fb1f3",
+      "sha256": "52d60d178d7d90262fa3d65c4051a5d0ad4a7edad79bf114e539009df8f9f3fd",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13807,7 +13807,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N02",
@@ -13834,7 +13834,7 @@
         {
           "id": "hero:CH10_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -13944,7 +13944,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "070029f137847d31349887512dd6320ffa9c0f442c9d1a357cf4663ac2fbe51f",
+      "sha256": "6b224b4cec89494b2fd07db75157e41223d2e173543df56d349da47f6e1038c1",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -13956,7 +13956,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH10_N02-花鬓.png",
         "rectXYWH": [
@@ -14001,7 +14001,7 @@
         {
           "id": "hero:CH10_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14100,7 +14100,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "0cdac35c2986ef357f4527abdbbcada8649f035dd7aadec34768fa7a06de4bcb",
+      "sha256": "54364cd0eae9fbcca36ed9d7093c50c81e2db04b9151a5029a216f1e641f2f0d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14112,7 +14112,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N04",
@@ -14139,7 +14139,7 @@
         {
           "id": "hero:CH10_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14249,7 +14249,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "68121b38dda65af91489034b06860bef2f0322dea1f9d2ec0159d03fbb2c03d8",
+      "sha256": "c46f83a9c46b17319072237a985f06ed43530810e4f0ad6bb1067d6448d3f2f2",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14261,7 +14261,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH10_N04-阿会喃.png",
         "rectXYWH": [
@@ -14306,7 +14306,7 @@
         {
           "id": "hero:CH10_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14405,7 +14405,7 @@
         ],
         "sha256": "753091c3652b5330daca004f277c9aecfa5936e1f6fe74fa5603af9bd2c8c823"
       },
-      "sha256": "ec5a803d3b7da0365aaa86a25d3d4f2649e62c8fc0371e36da7afaeb34629362",
+      "sha256": "4db2d5ea7130c32dc603594b9d3304ccdaf30418bda0fc2d37d9810701ba4a81",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14417,7 +14417,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N06",
@@ -14444,7 +14444,7 @@
         {
           "id": "hero:CH10_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14554,7 +14554,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "ed585e83d690574020ed15466c81050e147cbfb74fbeb30146b3c5de698e63cb",
+      "sha256": "19534b185cb959f35b41463556b9920ba971972c44a3adaf0e7eb4d545f82330",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14566,7 +14566,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH10_N06-带来洞主.png",
         "rectXYWH": [
@@ -14611,7 +14611,7 @@
         {
           "id": "hero:CH10_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14710,7 +14710,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "c118222e38d032eb345a6d23777b6d388abd4a668f31e1570149035fc606b393",
+      "sha256": "035cd252c4a6cffe29c02eefb829f70c06f43279b32edc9e4580902b56b13f9d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14722,7 +14722,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N08",
@@ -14750,7 +14750,7 @@
         {
           "id": "hero:CH10_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -14870,7 +14870,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "2b1ee8c23137a2956366140a16a8c659ca1f1be57a2fc11a454f3ca51456eb28",
+      "sha256": "1f1c238bc1ff8ef24ce24b7136c5577071c88b5db2fb37e0b4be22dcc5bc75c6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -14884,7 +14884,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH10_N08-朵思大王.png",
         "rectXYWH": [
@@ -14929,7 +14929,7 @@
         {
           "id": "hero:CH10_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15038,7 +15038,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "db6fa4e01892e488507da4e7d6ec0091f0c5497590e6ec30151733f5e9709c33",
+      "sha256": "e1165f340be7fefe4870b8fc0f069b1b386b2bc62de3b1e5cbe877dda4d8c436",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15051,7 +15051,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH10_N10",
@@ -15078,7 +15078,7 @@
         {
           "id": "hero:CH10_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15198,7 +15198,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "7f92e8af6515efe0ee5ac5de3a92675224db4453cd3dc66ae794375ad04f6e14",
+      "sha256": "7f592f20116ea40765705311b788807cde88cf1452398bcb8d5104b366d70f39",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15211,7 +15211,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "红色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH10_N10-诸葛亮（神）.png",
         "rectXYWH": [
@@ -15256,7 +15256,7 @@
         {
           "id": "hero:CH11_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15366,7 +15366,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "8f3018171b93a126f0b298b6072936c03e90678df96510519bc1c278d5f7678d",
+      "sha256": "b8115d4a1715a469db7a439104fc4def5432010f0c45aba3429cf77565149923",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15378,7 +15378,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N01-张子纲.png",
         "rectXYWH": [
@@ -15423,7 +15423,7 @@
         {
           "id": "hero:CH11_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15533,7 +15533,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "39b60540d3e6dab9c9570b815a4cc4e5d12c373f2c6871f641d8aae957d6766e",
+      "sha256": "365c9d5a8b96ed97a02a215200867ffa302c0af017bed08402d1a435a70196c3",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15545,7 +15545,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N02-董袭.png",
         "rectXYWH": [
@@ -15590,7 +15590,7 @@
         {
           "id": "hero:CH11_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15700,7 +15700,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "25e7e7d424e507a98c8d6627131e464cedc90d079f1cf7a7903f9577996ef4d8",
+      "sha256": "30eb1e7879c0120bc17fda50e3947a54c6b4c7c35296869fcc4e75e0c8df2d08",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15712,7 +15712,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N03-全琮.png",
         "rectXYWH": [
@@ -15758,7 +15758,7 @@
         {
           "id": "hero:CH11_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -15878,7 +15878,7 @@
         ],
         "sha256": "551e1f969a408ddfb8bba5e63c649a6de1277f0b30eff8be94efb42823f2d8ad"
       },
-      "sha256": "516f583ee6a7b6a7e59b380abce779c36b4dd4f28929c87247852b8465757581",
+      "sha256": "a7eb7bde0b1c70a820d22b57b7f6fddac0654704731d3c5336792e81792ecdd6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -15892,7 +15892,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N04-吴国太.png",
         "rectXYWH": [
@@ -15937,7 +15937,7 @@
         {
           "id": "hero:CH11_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16047,7 +16047,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "14a79986a1fe5a82adf7ed1d2a0380efb613dddd39f0568adae5d072a26187dd",
+      "sha256": "b1aaff70aa504499a8970253424b43218284cf529d383dd6000d57c55526e3b7",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16059,7 +16059,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N05-鲁肃.png",
         "rectXYWH": [
@@ -16104,7 +16104,7 @@
         {
           "id": "hero:CH11_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16214,7 +16214,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "555faad6e2992756c2a5c9a22f820276677e726128b2789b26dc6ef2eca6aa1b",
+      "sha256": "5971d04cbcd5a36caaf32782ca10265bb0d4d844edff8f4cffe862b9a5386a93",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16226,7 +16226,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N06-程普.png",
         "rectXYWH": [
@@ -16271,7 +16271,7 @@
         {
           "id": "hero:CH11_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16391,7 +16391,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "9ceeb34c9218c9ce88dab83bb9a29ad536cf02b0e28e6083ac6356f794e99926",
+      "sha256": "b73f7708f8988c62d1af54464b7c3ed2580e88df16f0e58b412926930bbe8dbd",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16404,7 +16404,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N07-凌操.png",
         "rectXYWH": [
@@ -16449,7 +16449,7 @@
         {
           "id": "hero:CH11_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16548,7 +16548,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "4602eafbf2efa09b049b9548927a5ae7e2261becc4f5267b413af6f1e38ae961",
+      "sha256": "fa23658819dd4d93c2f1cb29854181bc45da9fee8bc96312714dc73fd561adc0",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16560,7 +16560,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH11_N09",
@@ -16587,7 +16587,7 @@
         {
           "id": "hero:CH11_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16686,7 +16686,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "df2b3e1898f47bc9e20a2531a0fcd3806e68b5c3d7057350789e4ceaace673d9",
+      "sha256": "83769e1aed4adfc1be388dc7bed5dfdd5a868b368003dd3406adaf4a45d4de91",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16698,7 +16698,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH11_N10",
@@ -16725,7 +16725,7 @@
         {
           "id": "hero:CH11_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -16845,7 +16845,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "ee3f4a66c53d1f8cf8856b56fcb59cabda4f3d1a16d10c70b91b94c051860dbf",
+      "sha256": "461dc2daf1a0e5fd911c0fa136dc44071e5e69440a87a80c50f18ccb933a2477",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -16858,7 +16858,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH11_N10-孙权.png",
         "rectXYWH": [
@@ -16903,7 +16903,7 @@
         {
           "id": "hero:CH12_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17013,7 +17013,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "c6e1c0cbed9deaef32cd4c2e0348d8a0e95ec6dfd5aa4928353495807e91795c",
+      "sha256": "239734c10ff3727bbc4ded6ed25ae64b52b8ed7a656760d0eaecbff17ff47a55",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17025,7 +17025,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N01-陈武.png",
         "rectXYWH": [
@@ -17070,7 +17070,7 @@
         {
           "id": "hero:CH12_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17180,7 +17180,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "2446fbde39d6cc108c7af019a94d82a17ef3791eb656a15ad9914da9eebf34b2",
+      "sha256": "d268dcd633b3408b0fe7337e5aa65b1f63632268c9ab4749ed4bae65e67f4db4",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17192,7 +17192,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N02-周泰.png",
         "rectXYWH": [
@@ -17237,7 +17237,7 @@
         {
           "id": "hero:CH12_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17347,7 +17347,7 @@
         ],
         "sha256": "bcc6c7c1092a2637f65a2c9b44a433d8cbac85f4e588927374c26cc6904b7a79"
       },
-      "sha256": "b5e42432033b621025e49eb1e821735a25f116ed534dd612dfc2f8dec6b42c4a",
+      "sha256": "e02e433b1116f9bd1b70abc77e95f3eed62c195e7029d4273c7966b44427f1cf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17359,7 +17359,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N03-韩当.png",
         "rectXYWH": [
@@ -17404,7 +17404,7 @@
         {
           "id": "hero:CH12_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17514,7 +17514,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "940f139f5910db275cb35cd0793b116b5912eb3c701a72ff615d1d72fb7a19ab",
+      "sha256": "2d69926f7c1303fc4a3c63ffe3575a7a4009826c9dbe7127485c09e309f1d36b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17526,7 +17526,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N04-蒋钦.png",
         "rectXYWH": [
@@ -17571,7 +17571,7 @@
         {
           "id": "hero:CH12_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17670,7 +17670,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "23000ba7f7ad335aa40f22e14302564953bc21376aea59de0f477ba7801ac56b",
+      "sha256": "97a6b25c2486c1ae12e9980edd4928316144a8be3f23991d11eafd05c1c407b0",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17682,7 +17682,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH12_N06",
@@ -17709,7 +17709,7 @@
         {
           "id": "hero:CH12_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17808,7 +17808,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "5d726bb9dc210782d8f57c7ed14b4185bec8edb079f9269d3bacd74c2cf1abb5",
+      "sha256": "e0c5bdd87f3ec442200d975e59cc59d96f0134f7aff1ee097881d2f529f5f5ce",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17820,7 +17820,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH12_N07",
@@ -17847,7 +17847,7 @@
         {
           "id": "hero:CH12_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -17957,7 +17957,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "64d03b501293894c6df6dd27351e1a628b5a17de9ebc268b3869827ef631beaa",
+      "sha256": "8137d30f1198d07edb7254bc8d78ee2084001436d0fed0f0aea08d7ff9f45ccb",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -17969,7 +17969,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N07-陆抗.png",
         "rectXYWH": [
@@ -18014,7 +18014,7 @@
         {
           "id": "hero:CH12_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18124,7 +18124,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "7a96fd6aa67fb8be7e13bd9c548843ca88f885dabf30749b79508cdf70b88577",
+      "sha256": "39acb5d411f6c231a76ec910ad78edb3c959c0cbfd4e47ee2e7220b245d7062f",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18136,7 +18136,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N08-丁奉.png",
         "rectXYWH": [
@@ -18181,7 +18181,7 @@
         {
           "id": "hero:CH12_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18291,7 +18291,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "09308e90bf0c2730063b28f4c53bfc4a6f0ff9a448dcfa799fdb426eb4ddb778",
+      "sha256": "7ef0ccf4fd809083b56fb1fbf668b3753fd74384f086ebe6f5e9d99187427426",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18303,7 +18303,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N09-张昭.png",
         "rectXYWH": [
@@ -18348,7 +18348,7 @@
         {
           "id": "hero:CH12_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18468,7 +18468,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "ef948aca76e032de4b8396f5c300e9041d78bd3fb601d750b51942290c8ed2a5",
+      "sha256": "51e303e3de14023852986f9498f687d3155e50b4b333b6b9b72be2b368fe8018",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18481,7 +18481,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "红色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH12_N10-吕蒙（神）.png",
         "rectXYWH": [
@@ -18526,7 +18526,7 @@
         {
           "id": "hero:CH13_N01:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18636,7 +18636,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "a39120a4d1ef7a59f73b8debc2e7cd4d13a0acdf2274eae8b13cbc3681092eea",
+      "sha256": "85c6a80f9a070b50ee7a9dbe24c88c60da10aeb06cc623dc9d8526508ffc882c",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18648,7 +18648,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N01-成济.png",
         "rectXYWH": [
@@ -18693,7 +18693,7 @@
         {
           "id": "hero:CH13_N02:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18792,7 +18792,7 @@
         ],
         "sha256": "a60b127c1e3bbe1541c755cd78342a7e9bfd2948515c7b1bff25090e2882e4aa"
       },
-      "sha256": "b980ebcd8ddacdb5d26cc7c5daa0a80f1d52e4e3f329a23cb48ba36f2951cc21",
+      "sha256": "992cd2633c1527ea691831b178c30b953d0eaa78bdc41e3bb35c3b42bcb16fca",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18804,7 +18804,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH13_N03",
@@ -18831,7 +18831,7 @@
         {
           "id": "hero:CH13_N03:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -18941,7 +18941,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "b6a346cb02785f04ce94dc1df0eb8c34927222ebd564d518905fed0599413020",
+      "sha256": "a5fd817502aca3e7bd97f5551d02e60b7ee81358cae85d65122740edba25ff27",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -18953,7 +18953,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N03-王基.png",
         "rectXYWH": [
@@ -18998,7 +18998,7 @@
         {
           "id": "hero:CH13_N04:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19108,7 +19108,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "952693bfd5a5afbd93260f634575f7a33371eb434af07a1f93bba2126876a57f",
+      "sha256": "e68ba0d25173f80266f103fc72a853a67e4f513ad57e012c21eb04904d9cad3e",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19120,7 +19120,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N04-杨修.png",
         "rectXYWH": [
@@ -19166,7 +19166,7 @@
         {
           "id": "hero:CH13_N05:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19286,7 +19286,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "efd782b157bfa35df21f0fea21b3793a7a056f22089d6c26d215a4bc0c87a136",
+      "sha256": "f008f55567a3a1d0fca43461c94e7cbd6166a90aa8b89c139c5f6e91605b5a08",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19300,7 +19300,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N05-司马师.png",
         "rectXYWH": [
@@ -19345,7 +19345,7 @@
         {
           "id": "hero:CH13_N06:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19444,7 +19444,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "b4d36262e6ddce6cfaa066f040ec48292131370cd1ea34daaca306e5ca5997e2",
+      "sha256": "912bb219764d55666ef0b1723794a3f214552a6bd7d8e88f83943e7d1e7e61bf",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19456,7 +19456,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH13_N07",
@@ -19483,7 +19483,7 @@
         {
           "id": "hero:CH13_N07:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19582,7 +19582,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "f2d7e47960dfb88840a5aa74d7700644ee7d6b8a3fac323601aec79926b6ab42",
+      "sha256": "c10503d62c85b584d33fce8612ae7f2d6d64689e6d1d1f1158484d36b6199c99",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19594,7 +19594,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "hero:CH13_N08",
@@ -19621,7 +19621,7 @@
         {
           "id": "hero:CH13_N08:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19731,7 +19731,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "df8cf30cb5ee94e446751fde836fa33017ecb341260ebbc08c2e83777f8e4e35",
+      "sha256": "6cad7b84c28d54fffb963cf8231df9dc95ec6a60608f69cd1eb7f4711283b860",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19743,7 +19743,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N08-卫瓘.png",
         "rectXYWH": [
@@ -19788,7 +19788,7 @@
         {
           "id": "hero:CH13_N09:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -19898,7 +19898,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "a73b1daf52048378808b5397f12d4aa1075a342a3dd9c1b6ccfe95ca17c3b2f7",
+      "sha256": "a43a21ae1acccfa0404dae116495db2feaf67c8c20db1d8fd1175f3e42e94bf9",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -19910,7 +19910,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N09-甄宓.png",
         "rectXYWH": [
@@ -19955,7 +19955,7 @@
         {
           "id": "hero:CH13_N10:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20075,7 +20075,7 @@
         ],
         "sha256": "ed918813ae037683dbba86a57d7142531b711f600c8a70e29196fd0a59c8d33d"
       },
-      "sha256": "a3f2432b0013973105af92d9811426337abce2c322fa832536ff3346357191e1",
+      "sha256": "215fc8a20e5ce91b1138e28c453efd9b7412d0efa7013ceeb7f08cb0eade53fa",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20088,7 +20088,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "橙色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "heroes/CH13_N10-钟会.png",
         "rectXYWH": [
@@ -20131,7 +20131,7 @@
         {
           "id": "soldier:blade:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20230,7 +20230,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "5768f7eb164f6ffc6413109f599adbbc7289a3d81ac42be8629fdc967ca2a2ee",
+      "sha256": "41d3c6429167b78259cdd5000cbac9a71b9a4a5a300200509b0bd4bdb16ca062",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20242,7 +20242,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:spear",
@@ -20267,7 +20267,7 @@
         {
           "id": "soldier:spear:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20366,7 +20366,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "230411f5951100020c9d6acf284ee74f21ca961dcfc6055e15247189c138db76",
+      "sha256": "ad4498113304aeed5bb400f22c8ad86f5cd1914175fd1dec3273f23d85f6caad",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20378,7 +20378,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b1_huangjin",
@@ -20403,7 +20403,7 @@
         {
           "id": "soldier:b1_huangjin:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20502,7 +20502,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "94201facc5c4ddac2775a450212d7c74798dbc5d3726929cae1a04898c27e94b",
+      "sha256": "72df16090fb73d4e58b461fea1c09107c4d37f62b28af0902dd9f8b915200d56",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20514,7 +20514,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b2_huangjin",
@@ -20539,7 +20539,7 @@
         {
           "id": "soldier:b2_huangjin:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20638,7 +20638,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "c2194bff2b4423f6d860389a1b7ec6a18a6ec872399914112f3fe3dbe4b36704",
+      "sha256": "367a1f31066ea87be56e7d6f01cab719887c936e7f2c91c259364f7d0abc4dd6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20650,7 +20650,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b3_huangjin",
@@ -20675,7 +20675,7 @@
         {
           "id": "soldier:b3_huangjin:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20774,7 +20774,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "57589eaaaae60c43379f8a6349eba4dba449cb50f6abadb00db201b58a14aa93",
+      "sha256": "4e2f723486ee96a580777a69df76885bd096aaba6318fd92c7a1e39511e2ab32",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20786,7 +20786,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b5_huangjin",
@@ -20811,7 +20811,7 @@
         {
           "id": "soldier:b5_huangjin:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -20910,7 +20910,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "64ad3aad5e03e4c440d2cb03aaf758278572be967e1e1d23f7bda0742bde3cff",
+      "sha256": "0e49de9405ef266e30eef655428e3ee821ca50e4af925e7757817582322f3ad4",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -20922,7 +20922,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_huang_guidao",
@@ -20947,7 +20947,7 @@
         {
           "id": "soldier:c_huang_guidao:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21046,7 +21046,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "6f51a6195f7278776e8c7c5c68cde4a5edbd015e514a28b4cfe3e200d7041d20",
+      "sha256": "7e82276f11a17cc379f2203a65a998ce9818088076d90c825ce48fb122bb0f74",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21058,7 +21058,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_huang_zombie",
@@ -21083,7 +21083,7 @@
         {
           "id": "soldier:c_huang_zombie:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21182,7 +21182,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "e92db183510304ebb0a107a4cd06693151751682ff1f77f49d74170494bdc9a6",
+      "sha256": "cb5595f5d12d761871cc1ccd1172aaef4dd878a4c963ee2be4f43a545683bcbb",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21194,7 +21194,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b1_qun",
@@ -21219,7 +21219,7 @@
         {
           "id": "soldier:b1_qun:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21318,7 +21318,7 @@
         ],
         "sha256": "0200b7a3825d78ca846670ab24ec6eb620bd2d5c283e7b5890dd024ac5e53e39"
       },
-      "sha256": "0bfa30867b10b6efb2554f15a4faedb63f02eb48683c15f7718a18b36719f0e8",
+      "sha256": "8edbe6f62bc8f464a54e5cfc49a94341e05c24026d3aa037dcbc11bfe8716f69",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21330,7 +21330,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b2_qun",
@@ -21355,7 +21355,7 @@
         {
           "id": "soldier:b2_qun:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21454,7 +21454,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "2edc27fc44fd24eeb7b532519b95d5dfb51b386d175236c10fb3ba634d28935b",
+      "sha256": "a1570a093e2f27d371eec236baeaa39696d710fda67687fb5144aadca2a78bfe",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21466,7 +21466,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b3_qun",
@@ -21491,7 +21491,7 @@
         {
           "id": "soldier:b3_qun:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21590,7 +21590,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "00d5e9a52b591821be8dd5d14ad91ca31cd7080546386d5f228f004a5da8e4e8",
+      "sha256": "890ad9d70b24fc7bbbed0dd667802bf095c1e6348b3d5f3c0320caa0609ac0b0",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21602,7 +21602,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b4_qun",
@@ -21627,7 +21627,7 @@
         {
           "id": "soldier:b4_qun:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21726,7 +21726,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "224f92459d46105e65e354a9676d0e2efa9f70e3292f286e1e7b668b42af7f77",
+      "sha256": "3d4489763fc8ad49a5c746c5bed9447a46970b6472176079c2e6986dd7a30c29",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21738,7 +21738,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_qun_baima",
@@ -21763,7 +21763,7 @@
         {
           "id": "soldier:c_qun_baima:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21862,7 +21862,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "f57cac65ab523c6d1489e544ea6fd70d7d1981f6c0674840a10c113133dc02e4",
+      "sha256": "55d1acc2ba4126da327a1b449ccfb6ddee026e12217d4642712feca6d4e88b57",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -21874,7 +21874,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_qun_xiang",
@@ -21899,7 +21899,7 @@
         {
           "id": "soldier:c_qun_xiang:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -21998,7 +21998,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "c2726d3203023b5d1b8759b887a2a41a3bc33076f66423af470626e39bfb6e29",
+      "sha256": "79ffb1ccbe4ae10ba3b4255043406c12f69aa9dfd8d26768611336efcee29dc6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22010,7 +22010,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b2_wei",
@@ -22035,7 +22035,7 @@
         {
           "id": "soldier:b2_wei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22134,7 +22134,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "11d3ad85cc80800e753c71684a1db379609b7280e7d29a8010221aae5d6af4c8",
+      "sha256": "616b74e5b1b3225d2a42b2633feca762204a1e1c8fe6f7df23c29bb3d5a0da6f",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22146,7 +22146,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b3_wei",
@@ -22171,7 +22171,7 @@
         {
           "id": "soldier:b3_wei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22270,7 +22270,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "11aa1b35f42fb6bc4e15d95ffdc8a21f8d19c91421f15645f59f8b57c35181d2",
+      "sha256": "b438fead308b077418ffc701e3bb91df17df0815afc63d7049a03cfa3184b1de",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22282,7 +22282,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b4_wei",
@@ -22307,7 +22307,7 @@
         {
           "id": "soldier:b4_wei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22406,7 +22406,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "aaca4001817133e77a4e05bfc8dad70ebb3ce45163793c3a017beda4e1e3ec53",
+      "sha256": "43f3a1c9298d53600f894291011fb0f1057584c4448aeb0864d0c272a5cdfdea",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22418,7 +22418,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b5_wei",
@@ -22443,7 +22443,7 @@
         {
           "id": "soldier:b5_wei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22542,7 +22542,7 @@
         ],
         "sha256": "16e5a2ddfb9dca05ac2b8864ab8dd20555697b8e211eea7b0eff8d4643cddb4c"
       },
-      "sha256": "fcde33f0192d0e4bd879923709b318443c44c8ef244e76aa076278d5459fd058",
+      "sha256": "6beb1e829e6cf69b60daf0094b600403b827781c7dbb336324dfec0a80a833f9",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22554,7 +22554,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_wei_baowei",
@@ -22579,7 +22579,7 @@
         {
           "id": "soldier:c_wei_baowei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22678,7 +22678,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "f887258c242cd2f6f6d5778f9db3a012b63c68bedba9ac03a7b54fba0f5afce9",
+      "sha256": "4691a251373c7ec597926ecb751d6300c67a840403181ad9d2dc03a060262d2b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22690,7 +22690,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_wei_huwei",
@@ -22715,7 +22715,7 @@
         {
           "id": "soldier:c_wei_huwei:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22814,7 +22814,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "973117b929f2254d37d05af344227979c1dffc0516a3a62da56eb1a191ac3e69",
+      "sha256": "40d737e88ca1443629770ce42751fe63d894f93e95d1c9d735d1e40a798f5aed",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22826,7 +22826,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b1_shu",
@@ -22851,7 +22851,7 @@
         {
           "id": "soldier:b1_shu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -22950,7 +22950,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "5bfe344b768fde1617c73535de5368639a34fb984855e6a7cc2a54fc1025ec20",
+      "sha256": "e9eb81a4c97fb06b899cc7e4845f22d68049621fdcfb00f8ff2c5a5076126b4c",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -22962,7 +22962,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b2_shu",
@@ -22987,7 +22987,7 @@
         {
           "id": "soldier:b2_shu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23086,7 +23086,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "bd2b1c6eb796e2fcfc51aedbf243969c2f6fc845a7025e1b60aa894788b7cd70",
+      "sha256": "f579203c3c874532536661b68c78cfa27b9705e650d4891936ae9be1518d18df",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23098,7 +23098,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b4_shu",
@@ -23123,7 +23123,7 @@
         {
           "id": "soldier:b4_shu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23222,7 +23222,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "7c5474cbec04c4e1135ce8cee3ec98cdcf8c9e7a1c416575959ceb72050d1fda",
+      "sha256": "f06ded9b7db05fbb39e3e38430d146d887542048744f9d75a33839a8bb8b3018",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23234,7 +23234,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b5_shu",
@@ -23259,7 +23259,7 @@
         {
           "id": "soldier:b5_shu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23358,7 +23358,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "60971b61053e045b8010a45663eec122565913e56539fc88fbf0f56b47b07ad4",
+      "sha256": "77de76f9440851280656a1fb497ace5fde965905a6eb371861bc5ae43ff417db",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23370,7 +23370,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_shu_huben",
@@ -23395,7 +23395,7 @@
         {
           "id": "soldier:c_shu_huben:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23494,7 +23494,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "4dd12339b6106ad8b545c3493c4003518fcd90427850910d8513ba23cecc1f2e",
+      "sha256": "cdd9421ad28a8b58c22a6ad1d0acde88613d71b22a5a758efb48b189253fe96d",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23506,7 +23506,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_shu_kongming",
@@ -23531,7 +23531,7 @@
         {
           "id": "soldier:c_shu_kongming:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23630,7 +23630,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "9e661838a7585633da7a46551c6e16457bbb2c7fc642de36cf6db206596124ca",
+      "sha256": "53983fd1527d50f56557bbc16590b9e4f02285afd14baa4ba12a88659db70653",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23642,7 +23642,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b1_wu",
@@ -23667,7 +23667,7 @@
         {
           "id": "soldier:b1_wu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23766,7 +23766,7 @@
         ],
         "sha256": "a6ace93bd793031b2178c28e317329ba9f236408bc3eb3135d72814364b8b120"
       },
-      "sha256": "7aef767c8ad97c71f172feb9d363f100191056e308eb221ff8e8f4fa8eaac6cd",
+      "sha256": "b209f7e3af77130b23ac82eef580a9cd82c263c121ee12949f136628f31a3e4b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -23778,7 +23778,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "resource:farmland",
@@ -23808,7 +23808,7 @@
         {
           "id": "resource:farmland:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23876,7 +23876,7 @@
           "height": 58
         }
       ],
-      "sha256": "9fe05166c5ca63a2884b41b150a45a22b3c10aa1681ba505b7d4039f34e623f3",
+      "sha256": "2fb7b336c6a5f51d8baa06b6668606033134b117a073d5634005b624b03643d0",
       "frameStyle": "black-resource",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
@@ -23887,7 +23887,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "绿色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b3_wu",
@@ -23912,7 +23912,7 @@
         {
           "id": "soldier:b3_wu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -23999,7 +23999,7 @@
         "image": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/b3_wu.png",
         "approved": true
       },
-      "sha256": "20f6ab0d4f511276716dc3c26017a8f6569323ba9b8bf483ed3f84535c580d28",
+      "sha256": "8a4d503083134c3e2a23be404254a58f725cd4030bcc6bc36c88b35d1de5f40c",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -24011,7 +24011,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b4_wu",
@@ -24036,7 +24036,7 @@
         {
           "id": "soldier:b4_wu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24123,7 +24123,7 @@
         "image": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/b4_wu.png",
         "approved": true
       },
-      "sha256": "98509ef13b0bf13db17c07ff32fd6e0ce14633316637c172dbae9a31a8eef64d",
+      "sha256": "5c6041b085d70383fa48cdc147b58eec20cf78d7a69d98299f6d9e76402fb52b",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -24135,7 +24135,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:b5_wu",
@@ -24160,7 +24160,7 @@
         {
           "id": "soldier:b5_wu:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24247,7 +24247,7 @@
         "image": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/b5_wu.png",
         "approved": true
       },
-      "sha256": "fea573a62db5ce4c474ae52e83c2dd840b912dd1d993df016baeb23d4db61e1d",
+      "sha256": "bfe34919a3d7c446a63a6aad32de511b8bc8d4a226ad4b1cc2ce15a36be9afde",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -24259,7 +24259,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "蓝色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_wu_firebow",
@@ -24284,7 +24284,7 @@
         {
           "id": "soldier:c_wu_firebow:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24381,7 +24381,7 @@
         "image": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/c_wu_firebow.png",
         "approved": true
       },
-      "sha256": "ce09088b6582a55abc7b256bdaf665ef8dad1253d132cfd493233aee13c10881",
+      "sha256": "8c349f90c19f33d2cf50bd2902f8b963e1fa246584971fe332a0a90f53dcc5a6",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -24394,7 +24394,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "soldier:c_wu_jieying",
@@ -24419,7 +24419,7 @@
         {
           "id": "soldier:c_wu_jieying:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24517,7 +24517,7 @@
         "image": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/c_wu_jieying.png",
         "approved": true
       },
-      "sha256": "6d18458ce5241d386900f2271a169b8455a5cafcf537069d06262fd5138e038e",
+      "sha256": "e2ae74282b8c8e0fddbe5bb6479170f958ff3ba06e8bd2968c067fa3034bbb32",
       "roleIconPreview": {
         "source": "v035确认剪影转黑白透明圆形",
         "originalGlyphs": [
@@ -24529,7 +24529,7 @@
         "layout": "64px equal circles, vertical, 6px gap; white silhouette scaled to 80% for a thick black ring"
       },
       "gradeDisplay": "紫色边框",
-      "styleVersion": "v025-shared-ivory-black-footer",
+      "styleVersion": "v027-shared-beige-black-keyline",
       "originalPortraitSource": {
         "file": "吴国缺失五兵种卡牌概念-v002-图标版-20261018/concepts/c_wu_jieying.png",
         "rectXYWH": [
@@ -24568,7 +24568,7 @@
         {
           "id": "resource:soil:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24637,8 +24637,8 @@
         }
       ],
       "image": "assembled/resource_soil.png",
-      "sha256": "e3b06c2fdd5e5c90c8a3031ae66b16ca751270e9a9930862b9d13ff3bfbfed2c",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "sha256": "e3d9d746f88d906560ab07345b560a434f2c915f8351af323ed1ceeef10053f1",
+      "styleVersion": "v027-shared-beige-black-keyline"
     },
     {
       "id": "resource:granary",
@@ -24663,7 +24663,7 @@
         {
           "id": "resource:granary:base-v025",
           "assetId": "card-base-ivory-v025",
-          "label": "全卡共用米白底板与黑色外轮廓",
+          "label": "全卡共用米色底板与黑色外轮廓",
           "x": 0,
           "y": 0,
           "z": 10,
@@ -24732,8 +24732,8 @@
         }
       ],
       "image": "assembled/resource_granary.png",
-      "sha256": "6c275543af6350b623989be84cf707b0dd7796d64e04f6c879cf3d98c1697262",
-      "styleVersion": "v025-shared-ivory-black-footer"
+      "sha256": "7066fbfc83d7e361bd7fb2b44c4ca08be47d7dc198cd9c57c9d88064eab9bc53",
+      "styleVersion": "v027-shared-beige-black-keyline"
     }
   ],
   "assets": [
@@ -32493,14 +32493,14 @@
     },
     {
       "id": "card-base-ivory-v025",
-      "label": "全164卡共用米白底板与黑色外轮廓",
+      "label": "全164卡共用米色底板与黑色外轮廓",
       "file": "shared/card-base-ivory-v025.png",
       "category": "background",
       "shared": true,
       "width": 313,
       "height": 473,
       "method": "所有英雄、小兵、资源卡引用同一文件；不烘焙品级色与标题",
-      "sha256": "50f7791f0ba7e52819a1f917158bbae9431c48ea00dd0ff479e8f560c8c956bc",
+      "sha256": "af3a6005f94b2e52c6c2b70a9173a11f28aafbb9cb4102bcfe03d0c9912f116c",
       "instanceCount": 164,
       "cardCount": 164
     },
@@ -32525,7 +32525,7 @@
       "shared": true,
       "width": 313,
       "height": 473,
-      "method": "透明品级色边框，同时围住米白卡面和黑色尾页，中间分隔带同色；无底色与文字",
+      "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "533f63f5426926d77cdcde1cdfa5e371650112db810c23f634867771664ce689",
       "instanceCount": 40,
       "cardCount": 40
@@ -32538,7 +32538,7 @@
       "shared": true,
       "width": 313,
       "height": 473,
-      "method": "透明品级色边框，同时围住米白卡面和黑色尾页，中间分隔带同色；无底色与文字",
+      "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "c1321fca54776b47671c324e6c1b5488420bec3d2dcbcc0e164bad200806d050",
       "instanceCount": 60,
       "cardCount": 60
@@ -32551,7 +32551,7 @@
       "shared": true,
       "width": 313,
       "height": 473,
-      "method": "透明品级色边框，同时围住米白卡面和黑色尾页，中间分隔带同色；无底色与文字",
+      "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "66badf853cfa423edeb2f6f4029effe9604cadda834fae7f542fea5c1b1fa3b2",
       "instanceCount": 51,
       "cardCount": 51
@@ -32564,7 +32564,7 @@
       "shared": true,
       "width": 313,
       "height": 473,
-      "method": "透明品级色边框，同时围住米白卡面和黑色尾页，中间分隔带同色；无底色与文字",
+      "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "7d2160f8cada663ea005206190415e68faac29d46307fa62aaf15ea676fd5fc9",
       "instanceCount": 10,
       "cardCount": 10
@@ -32577,7 +32577,7 @@
       "shared": true,
       "width": 313,
       "height": 473,
-      "method": "透明品级色边框，同时围住米白卡面和黑色尾页，中间分隔带同色；无底色与文字",
+      "method": "透明品级色边框，同时围住米色卡面和黑色尾页，中间分隔带同色；无底色与文字",
       "sha256": "ef4c5e0e97927704cd7251360adbd189144fc547326337f9046af6cda78a4eb1",
       "instanceCount": 3,
       "cardCount": 3
@@ -32763,13 +32763,13 @@
     "index": "downloads.html"
   },
   "reuse": {
-    "definition": "全164张卡复用同一米白底板与黑色尾页，品级色边框按40/60/51/10/3张复用。",
+    "definition": "全164张卡复用同一米色底板与黑色尾页，品级色边框按40/60/51/10/3张复用。",
     "frame": "五张313×473透明边框PNG，各包含外圈与同色中间分隔带，不包含卡面或文字。",
     "assembly": "底板 → 黑色尾页 → 透明品级色边框 → 独立主体 → 左右角标 → 透明标题。所有卡牌共用此结构。",
     "resourceCards": "粮田、土块、粮仓共用v024资源角标规则；左上按资源类型区分，右上共用道具袋图标。"
   },
   "limitations": [
-    "英雄、小兵与三张资源卡统一复用一张米白底板、一张黑色尾页与五张透明品级色边框。",
+    "英雄、小兵与三张资源卡统一复用一张米色底板、一张黑色尾页与五张透明品级色边框。",
     "评级字母与星级已从卡面和组装配方移除，品级仅由边框颜色表达。",
     "土块与粮仓主体和标题已分离为透明PNG；三张资源卡的角标同尺寸，左上资源类型、右上道具袋。"
   ],
@@ -32780,7 +32780,7 @@
     ],
     "outerBorder": 11,
     "gradeRing": 10,
-    "innerKeyline": 0,
+    "innerKeyline": 3,
     "mainPanel": [
       21,
       21,
@@ -32918,7 +32918,7 @@
   },
   "delivery": {
     "version": "v023",
-    "scope": "全164张卡统一米白卡面、黑色尾页与连续品级色边框；所有卡种共用底板、尾页和组装关系。",
+    "scope": "全164张卡统一米色卡面、黑色尾页与连续品级色边框；所有卡种共用底板、尾页和组装关系。",
     "affectedCards": 164
   },
   "roleIconSystem": {
@@ -32990,7 +32990,7 @@
     "factionBadge": "top-right diamond",
     "resourceBadge": "资源卡左上为具体资源，右上统一为道具袋；左右同尺寸黑圆白剪影",
     "footer": "one shared black footer PNG with transparent title on top; no inset gold border",
-    "face": "one shared warm-white paper base matching the approved soil-card reference for all card kinds and grades",
+    "face": "one shared original warm-beige paper matching the approved farmland reference, with a 3px inset black keyline for all card kinds and grades",
     "cardSize": [
       313,
       473

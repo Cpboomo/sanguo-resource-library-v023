@@ -1,26 +1,26 @@
 ﻿cardId,卡牌,layerId,assetId,图层名称,x,y,z,width,height
-hero:CH01_N01,高升,hero:CH01_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N01,高升,hero:CH01_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N01,高升,hero:CH01_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N01,高升,hero:CH01_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N01,高升,hero:CH01_N01:portrait-v023,portrait-hero_CH01_N01,高升 · 原概念人物,24,48,40,265,321
 hero:CH01_N01,高升,hero:CH01_N01:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N01,高升,hero:CH01_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N01,高升,hero:CH01_N01:name-v023,name-hero_CH01_N01,高升 · 原概念姓名,100,387,70,113,58
-hero:CH01_N02,邓茂,hero:CH01_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N02,邓茂,hero:CH01_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N02,邓茂,hero:CH01_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N02,邓茂,hero:CH01_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N02,邓茂,hero:CH01_N02:portrait-v023,portrait-hero_CH01_N02,邓茂 · 原概念人物,24,62,40,265,307
 hero:CH01_N02,邓茂,hero:CH01_N02:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N02,邓茂,hero:CH01_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N02,邓茂,hero:CH01_N02:name-v023,name-hero_CH01_N02,邓茂 · 原概念姓名,99,387,70,115,58
-hero:CH01_N03,严政,hero:CH01_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N03,严政,hero:CH01_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N03,严政,hero:CH01_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N03,严政,hero:CH01_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N03,严政,hero:CH01_N03:portrait-v023,portrait-hero_CH01_N03,严政 · 原概念人物,30,47,40,252,322
 hero:CH01_N03,严政,hero:CH01_N03:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N03,严政,hero:CH01_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N03,严政,hero:CH01_N03:name-v023,name-hero_CH01_N03,严政 · 原概念姓名,99,387,70,115,58
-hero:CH01_N04,裴元绍,hero:CH01_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N04,裴元绍,hero:CH01_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N04,裴元绍,hero:CH01_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N04,裴元绍,hero:CH01_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N04,裴元绍,hero:CH01_N04:portrait-v023,portrait-hero_CH01_N04,裴元绍 · 原概念人物,24,68,40,265,301
@@ -28,35 +28,35 @@ hero:CH01_N04,裴元绍,hero:CH01_N04:faction-v023,faction-huangjin,原卡阵营
 hero:CH01_N04,裴元绍,hero:CH01_N04:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N04,裴元绍,hero:CH01_N04:role-v023:1,role-v021bw-骑,骑·黑白圆形兵种图标,29,99,62,66,66
 hero:CH01_N04,裴元绍,hero:CH01_N04:name-v023,name-hero_CH01_N04,裴元绍 · 原概念姓名,75,387,70,163,58
-hero:CH01_N05,张曼成,hero:CH01_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N05,张曼成,hero:CH01_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N05,张曼成,hero:CH01_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N05,张曼成,hero:CH01_N05:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N05,张曼成,hero:CH01_N05:portrait-v023,portrait-hero_CH01_N05,张曼成 · 完整头像,24,56,40,265,313
 hero:CH01_N05,张曼成,hero:CH01_N05:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N05,张曼成,hero:CH01_N05:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N05,张曼成,hero:CH01_N05:name-v023,name-hero_CH01_N05,张曼成 · 原概念姓名,72,387,70,169,58
-hero:CH01_N06,波才,hero:CH01_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N06,波才,hero:CH01_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N06,波才,hero:CH01_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N06,波才,hero:CH01_N06:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N06,波才,hero:CH01_N06:portrait-v023,portrait-hero_CH01_N06,波才 · 原概念人物,28,47,40,256,322
 hero:CH01_N06,波才,hero:CH01_N06:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N06,波才,hero:CH01_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N06,波才,hero:CH01_N06:name-v023,name-hero_CH01_N06,波才 · 原概念姓名,98,387,70,116,58
-hero:CH01_N07,张宝,hero:CH01_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N07,张宝,hero:CH01_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N07,张宝,hero:CH01_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N07,张宝,hero:CH01_N07:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N07,张宝,hero:CH01_N07:portrait-v023,portrait-hero_CH01_N07,张宝 · 原概念人物,24,59,40,265,310
 hero:CH01_N07,张宝,hero:CH01_N07:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N07,张宝,hero:CH01_N07:role-v023:0,role-v021bw-召,召·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N07,张宝,hero:CH01_N07:name-v023,name-hero_CH01_N07,张宝 · 原概念姓名,100,387,70,112,58
-hero:CH01_N08,张梁,hero:CH01_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N08,张梁,hero:CH01_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N08,张梁,hero:CH01_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N08,张梁,hero:CH01_N08:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N08,张梁,hero:CH01_N08:portrait-v023,portrait-hero_CH01_N08,张梁 · 原概念人物,24,56,40,265,313
 hero:CH01_N08,张梁,hero:CH01_N08:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N08,张梁,hero:CH01_N08:role-v023:0,role-v021bw-亡,亡·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N08,张梁,hero:CH01_N08:name-v023,name-hero_CH01_N08,张梁 · 原概念姓名,98,387,70,117,58
-hero:CH01_N09,管亥,hero:CH01_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N09,管亥,hero:CH01_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N09,管亥,hero:CH01_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N09,管亥,hero:CH01_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N09,管亥,hero:CH01_N09:portrait-v023,portrait-hero_CH01_N09,管亥 · 原概念人物,24,63,40,265,306
@@ -64,56 +64,56 @@ hero:CH01_N09,管亥,hero:CH01_N09:faction-v023,faction-huangjin,原卡阵营菱
 hero:CH01_N09,管亥,hero:CH01_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N09,管亥,hero:CH01_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH01_N09,管亥,hero:CH01_N09:name-v023,name-hero_CH01_N09,管亥 · 原概念姓名,100,387,70,112,58
-hero:CH01_N10,张角,hero:CH01_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH01_N10,张角,hero:CH01_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH01_N10,张角,hero:CH01_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH01_N10,张角,hero:CH01_N10:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH01_N10,张角,hero:CH01_N10:portrait-v023,portrait-hero_CH01_N10,张角 · 原概念人物,24,53,40,265,316
 hero:CH01_N10,张角,hero:CH01_N10:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 hero:CH01_N10,张角,hero:CH01_N10:role-v023:0,role-v021bw-技,技·黑白圆形兵种图标,29,29,61,66,66
 hero:CH01_N10,张角,hero:CH01_N10:name-v023,name-hero_CH01_N10,张角 · 原概念姓名,101,387,70,110,58
-hero:CH02_N01,董白,hero:CH02_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N01,董白,hero:CH02_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N01,董白,hero:CH02_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N01,董白,hero:CH02_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N01,董白,hero:CH02_N01:portrait-v023,portrait-hero_CH02_N01,董白 · 完整头像,24,101,40,265,268
 hero:CH02_N01,董白,hero:CH02_N01:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N01,董白,hero:CH02_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N01,董白,hero:CH02_N01:name-v023,name-hero_CH02_N01,董白 · 原概念姓名,103,387,70,106,58
-hero:CH02_N02,蔡邕,hero:CH02_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N02,蔡邕,hero:CH02_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N02,蔡邕,hero:CH02_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N02,蔡邕,hero:CH02_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N02,蔡邕,hero:CH02_N02:portrait-v023,portrait-hero_CH02_N02,蔡邕 · 原概念人物,35,47,40,243,322
 hero:CH02_N02,蔡邕,hero:CH02_N02:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N02,蔡邕,hero:CH02_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N02,蔡邕,hero:CH02_N02:name-v023,name-hero_CH02_N02,蔡邕 · 原概念姓名,101,387,70,111,58
-hero:CH02_N03,杨奉,hero:CH02_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N03,杨奉,hero:CH02_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N03,杨奉,hero:CH02_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N03,杨奉,hero:CH02_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N03,杨奉,hero:CH02_N03:portrait-v023,portrait-hero_CH02_N03,杨奉 · 原概念人物,24,76,40,265,293
 hero:CH02_N03,杨奉,hero:CH02_N03:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N03,杨奉,hero:CH02_N03:role-v023:0,role-v021bw-召,召·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N03,杨奉,hero:CH02_N03:name-v023,name-hero_CH02_N03,杨奉 · 原概念姓名,100,387,70,112,58
-hero:CH02_N04,李儒,hero:CH02_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N04,李儒,hero:CH02_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N04,李儒,hero:CH02_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N04,李儒,hero:CH02_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N04,李儒,hero:CH02_N04:portrait-v023,portrait-hero_CH02_N04,李儒 · 原概念人物,29,47,40,254,322
 hero:CH02_N04,李儒,hero:CH02_N04:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N04,李儒,hero:CH02_N04:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N04,李儒,hero:CH02_N04:name-v023,name-hero_CH02_N04,李儒 · 原概念姓名,102,387,70,109,58
-hero:CH02_N05,华雄,hero:CH02_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N05,华雄,hero:CH02_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N05,华雄,hero:CH02_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N05,华雄,hero:CH02_N05:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N05,华雄,hero:CH02_N05:portrait-v023,portrait-hero_CH02_N05,华雄 · 原概念人物,24,57,40,265,312
 hero:CH02_N05,华雄,hero:CH02_N05:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N05,华雄,hero:CH02_N05:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N05,华雄,hero:CH02_N05:name-v023,name-hero_CH02_N05,华雄 · 原概念姓名,101,387,70,111,58
-hero:CH02_N06,李傕,hero:CH02_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N06,李傕,hero:CH02_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N06,李傕,hero:CH02_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N06,李傕,hero:CH02_N06:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N06,李傕,hero:CH02_N06:portrait-v023,portrait-hero_CH02_N06,李傕 · 完整头像,26,47,40,261,322
 hero:CH02_N06,李傕,hero:CH02_N06:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N06,李傕,hero:CH02_N06:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N06,李傕,hero:CH02_N06:name-v023,name-hero_CH02_N06,李傕 · 原概念姓名,100,387,70,113,58
-hero:CH02_N07,郭汜,hero:CH02_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N07,郭汜,hero:CH02_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N07,郭汜,hero:CH02_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N07,郭汜,hero:CH02_N07:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N07,郭汜,hero:CH02_N07:portrait-v023,portrait-hero_CH02_N07,郭汜 · 原概念人物,24,65,40,265,304
@@ -121,56 +121,56 @@ hero:CH02_N07,郭汜,hero:CH02_N07:faction-v023,faction-qun,原卡阵营菱形,2
 hero:CH02_N07,郭汜,hero:CH02_N07:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N07,郭汜,hero:CH02_N07:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH02_N07,郭汜,hero:CH02_N07:name-v023,name-hero_CH02_N07,郭汜 · 原概念姓名,100,387,70,112,58
-hero:CH02_N08,梁兴,hero:CH02_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N08,梁兴,hero:CH02_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N08,梁兴,hero:CH02_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N08,梁兴,hero:CH02_N08:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N08,梁兴,hero:CH02_N08:portrait-v023,portrait-hero_CH02_N08,梁兴 · 原概念人物,24,54,40,265,315
 hero:CH02_N08,梁兴,hero:CH02_N08:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N08,梁兴,hero:CH02_N08:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N08,梁兴,hero:CH02_N08:name-v023,name-hero_CH02_N08,梁兴 · 原概念姓名,100,387,70,112,58
-hero:CH02_N09,貂蝉,hero:CH02_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N09,貂蝉,hero:CH02_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N09,貂蝉,hero:CH02_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N09,貂蝉,hero:CH02_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N09,貂蝉,hero:CH02_N09:portrait-v023,portrait-hero_CH02_N09,貂蝉 · 原概念人物,24,61,40,265,308
 hero:CH02_N09,貂蝉,hero:CH02_N09:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N09,貂蝉,hero:CH02_N09:role-v023:0,role-v021bw-敌,敌·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N09,貂蝉,hero:CH02_N09:name-v023,name-hero_CH02_N09,貂蝉 · 原概念姓名,98,387,70,116,58
-hero:CH02_N10,董卓,hero:CH02_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH02_N10,董卓,hero:CH02_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH02_N10,董卓,hero:CH02_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH02_N10,董卓,hero:CH02_N10:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH02_N10,董卓,hero:CH02_N10:portrait-v023,portrait-hero_CH02_N10,董卓 · 原概念人物,24,64,40,265,305
 hero:CH02_N10,董卓,hero:CH02_N10:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH02_N10,董卓,hero:CH02_N10:role-v023:0,role-v021bw-营,营·黑白圆形兵种图标,29,29,61,66,66
 hero:CH02_N10,董卓,hero:CH02_N10:name-v023,name-hero_CH02_N10,董卓 · 原概念姓名,100,387,70,113,58
-hero:CH03_N01,王门,hero:CH03_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N01,王门,hero:CH03_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N01,王门,hero:CH03_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N01,王门,hero:CH03_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N01,王门,hero:CH03_N01:portrait-v023,portrait-hero_CH03_N01,王门 · 原概念人物,34,47,40,245,322
 hero:CH03_N01,王门,hero:CH03_N01:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N01,王门,hero:CH03_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N01,王门,hero:CH03_N01:name-v023,name-hero_CH03_N01,王门 · 原概念姓名,100,387,70,113,58
-hero:CH03_N02,纪灵,hero:CH03_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N02,纪灵,hero:CH03_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N02,纪灵,hero:CH03_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N02,纪灵,hero:CH03_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N02,纪灵,hero:CH03_N02:portrait-v023,portrait-hero_CH03_N02,纪灵 · 原概念人物,26,47,40,260,322
 hero:CH03_N02,纪灵,hero:CH03_N02:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N02,纪灵,hero:CH03_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N02,纪灵,hero:CH03_N02:name-v023,name-hero_CH03_N02,纪灵 · 原概念姓名,97,387,70,119,58
-hero:CH03_N03,胡车儿,hero:CH03_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N03,胡车儿,hero:CH03_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N03,胡车儿,hero:CH03_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N03,胡车儿,hero:CH03_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N03,胡车儿,hero:CH03_N03:portrait-v023,portrait-hero_CH03_N03,胡车儿 · 原概念人物,24,65,40,265,304
 hero:CH03_N03,胡车儿,hero:CH03_N03:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N03,胡车儿,hero:CH03_N03:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N03,胡车儿,hero:CH03_N03:name-v023,name-hero_CH03_N03,胡车儿 · 原概念姓名,72,387,70,169,58
-hero:CH03_N04,审配,hero:CH03_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N04,审配,hero:CH03_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N04,审配,hero:CH03_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N04,审配,hero:CH03_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N04,审配,hero:CH03_N04:portrait-v023,portrait-hero_CH03_N04,审配 · 完整头像,24,68,40,265,301
 hero:CH03_N04,审配,hero:CH03_N04:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N04,审配,hero:CH03_N04:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N04,审配,hero:CH03_N04:name-v023,name-hero_CH03_N04,审配 · 原概念姓名,100,387,70,112,58
-hero:CH03_N05,公孙瓒,hero:CH03_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N05,公孙瓒,hero:CH03_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N05,公孙瓒,hero:CH03_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N05,公孙瓒,hero:CH03_N05:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N05,公孙瓒,hero:CH03_N05:portrait-v023,portrait-hero_CH03_N05,公孙瓒 · 完整头像,24,51,40,265,318
@@ -178,28 +178,28 @@ hero:CH03_N05,公孙瓒,hero:CH03_N05:faction-v023,faction-qun,原卡阵营菱�
 hero:CH03_N05,公孙瓒,hero:CH03_N05:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N05,公孙瓒,hero:CH03_N05:role-v023:1,role-v021bw-骑,骑·黑白圆形兵种图标,29,99,62,66,66
 hero:CH03_N05,公孙瓒,hero:CH03_N05:name-v023,name-hero_CH03_N05,公孙瓒 · 原概念姓名,73,387,70,167,58
-hero:CH03_N06,潘凤,hero:CH03_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N06,潘凤,hero:CH03_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N06,潘凤,hero:CH03_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N06,潘凤,hero:CH03_N06:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N06,潘凤,hero:CH03_N06:portrait-v023,portrait-hero_CH03_N06,潘凤 · 原概念人物,24,64,40,265,305
 hero:CH03_N06,潘凤,hero:CH03_N06:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N06,潘凤,hero:CH03_N06:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N06,潘凤,hero:CH03_N06:name-v023,name-hero_CH03_N06,潘凤 · 原概念姓名,95,387,70,122,58
-hero:CH03_N07,颜良,hero:CH03_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N07,颜良,hero:CH03_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N07,颜良,hero:CH03_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N07,颜良,hero:CH03_N07:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N07,颜良,hero:CH03_N07:portrait-v023,portrait-hero_CH03_N07,颜良 · 原概念人物,24,68,40,265,301
 hero:CH03_N07,颜良,hero:CH03_N07:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N07,颜良,hero:CH03_N07:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N07,颜良,hero:CH03_N07:name-v023,name-hero_CH03_N07,颜良 · 原概念姓名,98,387,70,116,58
-hero:CH03_N08,文丑,hero:CH03_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N08,文丑,hero:CH03_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N08,文丑,hero:CH03_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N08,文丑,hero:CH03_N08:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N08,文丑,hero:CH03_N08:portrait-v023,portrait-hero_CH03_N08,文丑 · 原概念人物,24,69,40,265,300
 hero:CH03_N08,文丑,hero:CH03_N08:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N08,文丑,hero:CH03_N08:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N08,文丑,hero:CH03_N08:name-v023,name-hero_CH03_N08,文丑 · 原概念姓名,99,387,70,115,58
-hero:CH03_N09,陈宫,hero:CH03_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N09,陈宫,hero:CH03_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N09,陈宫,hero:CH03_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N09,陈宫,hero:CH03_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N09,陈宫,hero:CH03_N09:portrait-v023,portrait-hero_CH03_N09,陈宫 · 原概念人物,24,78,40,265,291
@@ -207,70 +207,70 @@ hero:CH03_N09,陈宫,hero:CH03_N09:faction-v023,faction-qun,原卡阵营菱形,2
 hero:CH03_N09,陈宫,hero:CH03_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N09,陈宫,hero:CH03_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH03_N09,陈宫,hero:CH03_N09:name-v023,name-hero_CH03_N09,陈宫 · 原概念姓名,101,387,70,110,58
-hero:CH03_N10,吕布,hero:CH03_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH03_N10,吕布,hero:CH03_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH03_N10,吕布,hero:CH03_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH03_N10,吕布,hero:CH03_N10:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH03_N10,吕布,hero:CH03_N10:portrait-v023,portrait-hero_CH03_N10,吕布 · 完整头像,24,68,40,265,301
 hero:CH03_N10,吕布,hero:CH03_N10:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH03_N10,吕布,hero:CH03_N10:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH03_N10,吕布,hero:CH03_N10:name-v023,name-hero_CH03_N10,吕布 · 原概念姓名,104,387,70,105,58
-hero:CH04_N01,袁谭,hero:CH04_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N01,袁谭,hero:CH04_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N01,袁谭,hero:CH04_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N01,袁谭,hero:CH04_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N01,袁谭,hero:CH04_N01:portrait-v023,portrait-hero_CH04_N01,袁谭 · 原概念人物,24,47,40,264,322
 hero:CH04_N01,袁谭,hero:CH04_N01:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N01,袁谭,hero:CH04_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N01,袁谭,hero:CH04_N01:name-v023,name-hero_CH04_N01,袁谭 · 原概念姓名,99,387,70,115,58
-hero:CH04_N02,田丰,hero:CH04_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N02,田丰,hero:CH04_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N02,田丰,hero:CH04_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N02,田丰,hero:CH04_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N02,田丰,hero:CH04_N02:portrait-v023,portrait-hero_CH04_N02,田丰 · 完整头像,31,47,40,250,322
 hero:CH04_N02,田丰,hero:CH04_N02:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N02,田丰,hero:CH04_N02:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N02,田丰,hero:CH04_N02:name-v023,name-hero_CH04_N02,田丰 · 原概念姓名,102,387,70,109,58
-hero:CH04_N03,鞠义,hero:CH04_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N03,鞠义,hero:CH04_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N03,鞠义,hero:CH04_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N03,鞠义,hero:CH04_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N03,鞠义,hero:CH04_N03:portrait-v023,portrait-hero_CH04_N03,鞠义 · 完整头像,26,47,40,261,322
 hero:CH04_N03,鞠义,hero:CH04_N03:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N03,鞠义,hero:CH04_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N03,鞠义,hero:CH04_N03:name-v023,name-hero_CH04_N03,鞠义 · 原概念姓名,98,387,70,117,58
-hero:CH04_N04,范增,hero:CH04_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N04,范增,hero:CH04_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N04,范增,hero:CH04_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N04,范增,hero:CH04_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N04,范增,hero:CH04_N04:portrait-v023,portrait-hero_CH04_N04,范增 · 原概念人物,24,52,40,265,317
 hero:CH04_N04,范增,hero:CH04_N04:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N04,范增,hero:CH04_N04:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N04,范增,hero:CH04_N04:name-v023,name-hero_CH04_N04,范增 · 原概念姓名,100,387,70,113,58
-hero:CH04_N05,张良,hero:CH04_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N05,张良,hero:CH04_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N05,张良,hero:CH04_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N05,张良,hero:CH04_N05:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N05,张良,hero:CH04_N05:portrait-v023,portrait-hero_CH04_N05,张良 · 原概念人物,24,68,40,265,301
 hero:CH04_N05,张良,hero:CH04_N05:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N05,张良,hero:CH04_N05:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N05,张良,hero:CH04_N05:name-v023,name-hero_CH04_N05,张良 · 原概念姓名,102,387,70,108,58
-hero:CH04_N06,龚都,hero:CH04_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N06,龚都,hero:CH04_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N06,龚都,hero:CH04_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N06,龚都,hero:CH04_N06:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N06,龚都,hero:CH04_N06:portrait-v023,portrait-hero_CH04_N06,龚都 · 完整头像,24,61,40,265,308
 hero:CH04_N06,龚都,hero:CH04_N06:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N06,龚都,hero:CH04_N06:role-v023:0,role-v021bw-亡,亡·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N06,龚都,hero:CH04_N06:name-v023,name-hero_CH04_N06,龚都 · 原概念姓名,100,387,70,112,58
-hero:CH04_N07,韩信,hero:CH04_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N07,韩信,hero:CH04_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N07,韩信,hero:CH04_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N07,韩信,hero:CH04_N07:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N07,韩信,hero:CH04_N07:portrait-v023,portrait-hero_CH04_N07,韩信 · 原概念人物,24,56,40,265,313
 hero:CH04_N07,韩信,hero:CH04_N07:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N07,韩信,hero:CH04_N07:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N07,韩信,hero:CH04_N07:name-v023,name-hero_CH04_N07,韩信 · 原概念姓名,98,387,70,116,58
-hero:CH04_N08,淳于琼,hero:CH04_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N08,淳于琼,hero:CH04_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N08,淳于琼,hero:CH04_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N08,淳于琼,hero:CH04_N08:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N08,淳于琼,hero:CH04_N08:portrait-v023,portrait-hero_CH04_N08,淳于琼 · 原概念人物,24,73,40,265,296
 hero:CH04_N08,淳于琼,hero:CH04_N08:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH04_N08,淳于琼,hero:CH04_N08:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N08,淳于琼,hero:CH04_N08:name-v023,name-hero_CH04_N08,淳于琼 · 原概念姓名,73,387,70,166,58
-hero:CH04_N09,袁术,hero:CH04_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N09,袁术,hero:CH04_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N09,袁术,hero:CH04_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N09,袁术,hero:CH04_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N09,袁术,hero:CH04_N09:portrait-v023,portrait-hero_CH04_N09,袁术 · 完整头像,24,52,40,265,317
@@ -278,7 +278,7 @@ hero:CH04_N09,袁术,hero:CH04_N09:faction-v023,faction-qun,原卡阵营菱形,2
 hero:CH04_N09,袁术,hero:CH04_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N09,袁术,hero:CH04_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH04_N09,袁术,hero:CH04_N09:name-v023,name-hero_CH04_N09,袁术 · 原概念姓名,100,387,70,113,58
-hero:CH04_N10,袁绍,hero:CH04_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH04_N10,袁绍,hero:CH04_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH04_N10,袁绍,hero:CH04_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH04_N10,袁绍,hero:CH04_N10:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH04_N10,袁绍,hero:CH04_N10:portrait-v023,portrait-hero_CH04_N10,袁绍 · 原概念人物,24,70,40,265,299
@@ -286,63 +286,63 @@ hero:CH04_N10,袁绍,hero:CH04_N10:faction-v023,faction-qun,原卡阵营菱形,2
 hero:CH04_N10,袁绍,hero:CH04_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH04_N10,袁绍,hero:CH04_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH04_N10,袁绍,hero:CH04_N10:name-v023,name-hero_CH04_N10,袁绍 · 原概念姓名,98,387,70,116,58
-hero:CH05_N01,曹昂,hero:CH05_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N01,曹昂,hero:CH05_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N01,曹昂,hero:CH05_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N01,曹昂,hero:CH05_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N01,曹昂,hero:CH05_N01:portrait-v023,portrait-hero_CH05_N01,曹昂 · 原概念人物,24,71,40,265,298
 hero:CH05_N01,曹昂,hero:CH05_N01:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N01,曹昂,hero:CH05_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N01,曹昂,hero:CH05_N01:name-v023,name-hero_CH05_N01,曹昂 · 原概念姓名,101,387,70,110,58
-hero:CH05_N02,曹彰,hero:CH05_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N02,曹彰,hero:CH05_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N02,曹彰,hero:CH05_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N02,曹彰,hero:CH05_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N02,曹彰,hero:CH05_N02:portrait-v023,portrait-hero_CH05_N02,曹彰 · 原概念人物,49,47,40,214,322
 hero:CH05_N02,曹彰,hero:CH05_N02:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N02,曹彰,hero:CH05_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N02,曹彰,hero:CH05_N02:name-v023,name-hero_CH05_N02,曹彰 · 原概念姓名,100,387,70,113,58
-hero:CH05_N03,曹真,hero:CH05_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N03,曹真,hero:CH05_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N03,曹真,hero:CH05_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N03,曹真,hero:CH05_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N03,曹真,hero:CH05_N03:portrait-v023,portrait-hero_CH05_N03,曹真 · 原概念人物,24,99,40,265,270
 hero:CH05_N03,曹真,hero:CH05_N03:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N03,曹真,hero:CH05_N03:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N03,曹真,hero:CH05_N03:name-v023,name-hero_CH05_N03,曹真 · 原概念姓名,100,387,70,112,58
-hero:CH05_N04,曹仁,hero:CH05_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N04,曹仁,hero:CH05_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N04,曹仁,hero:CH05_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N04,曹仁,hero:CH05_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N04,曹仁,hero:CH05_N04:portrait-v023,portrait-hero_CH05_N04,曹仁 · 原概念人物,40,47,40,232,322
 hero:CH05_N04,曹仁,hero:CH05_N04:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N04,曹仁,hero:CH05_N04:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N04,曹仁,hero:CH05_N04:name-v023,name-hero_CH05_N04,曹仁 · 原概念姓名,100,387,70,113,58
-hero:CH05_N05,典韦,hero:CH05_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N05,典韦,hero:CH05_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N05,典韦,hero:CH05_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N05,典韦,hero:CH05_N05:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N05,典韦,hero:CH05_N05:portrait-v023,portrait-hero_CH05_N05,典韦 · 原概念人物,46,47,40,221,322
 hero:CH05_N05,典韦,hero:CH05_N05:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N05,典韦,hero:CH05_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N05,典韦,hero:CH05_N05:name-v023,name-hero_CH05_N05,典韦 · 原概念姓名,100,387,70,113,58
-hero:CH05_N06,夏侯惇,hero:CH05_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N06,夏侯惇,hero:CH05_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N06,夏侯惇,hero:CH05_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N06,夏侯惇,hero:CH05_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N06,夏侯惇,hero:CH05_N06:portrait-v023,portrait-hero_CH05_N06,夏侯惇 · 完整头像,24,71,40,265,298
 hero:CH05_N06,夏侯惇,hero:CH05_N06:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N06,夏侯惇,hero:CH05_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N06,夏侯惇,hero:CH05_N06:name-v023,name-hero_CH05_N06,夏侯惇 · 原概念姓名,72,387,70,169,58
-hero:CH05_N07,曹丕,hero:CH05_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N07,曹丕,hero:CH05_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N07,曹丕,hero:CH05_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N07,曹丕,hero:CH05_N07:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N07,曹丕,hero:CH05_N07:portrait-v023,portrait-hero_CH05_N07,曹丕 · 原概念人物,44,47,40,224,322
 hero:CH05_N07,曹丕,hero:CH05_N07:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N07,曹丕,hero:CH05_N07:role-v023:0,role-v021bw-隐,隐·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N07,曹丕,hero:CH05_N07:name-v023,name-hero_CH05_N07,曹丕 · 原概念姓名,100,387,70,113,58
-hero:CH05_N08,荀文若,hero:CH05_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N08,荀文若,hero:CH05_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N08,荀文若,hero:CH05_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N08,荀文若,hero:CH05_N08:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N08,荀文若,hero:CH05_N08:portrait-v023,portrait-hero_CH05_N08,荀文若 · 完整头像,46,47,40,220,322
 hero:CH05_N08,荀文若,hero:CH05_N08:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH05_N08,荀文若,hero:CH05_N08:role-v023:0,role-v021bw-爆,爆·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N08,荀文若,hero:CH05_N08:name-v023,name-hero_CH05_N08,荀文若 · 原概念姓名,73,387,70,166,58
-hero:CH05_N09,曹植,hero:CH05_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N09,曹植,hero:CH05_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N09,曹植,hero:CH05_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N09,曹植,hero:CH05_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N09,曹植,hero:CH05_N09:portrait-v023,portrait-hero_CH05_N09,曹植 · 原概念人物,46,47,40,221,322
@@ -350,7 +350,7 @@ hero:CH05_N09,曹植,hero:CH05_N09:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH05_N09,曹植,hero:CH05_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N09,曹植,hero:CH05_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH05_N09,曹植,hero:CH05_N09:name-v023,name-hero_CH05_N09,曹植 · 原概念姓名,99,387,70,115,58
-hero:CH05_N10,曹操,hero:CH05_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH05_N10,曹操,hero:CH05_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH05_N10,曹操,hero:CH05_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH05_N10,曹操,hero:CH05_N10:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH05_N10,曹操,hero:CH05_N10:portrait-v023,portrait-hero_CH05_N10,曹操 · 完整头像,39,47,40,235,322
@@ -358,7 +358,7 @@ hero:CH05_N10,曹操,hero:CH05_N10:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH05_N10,曹操,hero:CH05_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH05_N10,曹操,hero:CH05_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH05_N10,曹操,hero:CH05_N10:name-v023,name-hero_CH05_N10,曹操 · 原概念姓名,100,387,70,113,58
-hero:CH06_N01,曹节,hero:CH06_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N01,曹节,hero:CH06_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N01,曹节,hero:CH06_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N01,曹节,hero:CH06_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N01,曹节,hero:CH06_N01:portrait-v023,portrait-hero_CH06_N01,曹节 · 完整头像,24,91,40,265,278
@@ -366,21 +366,21 @@ hero:CH06_N01,曹节,hero:CH06_N01:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH06_N01,曹节,hero:CH06_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N01,曹节,hero:CH06_N01:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH06_N01,曹节,hero:CH06_N01:name-v023,name-hero_CH06_N01,曹节 · 原概念姓名,100,387,70,113,58
-hero:CH06_N02,陈琳,hero:CH06_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N02,陈琳,hero:CH06_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N02,陈琳,hero:CH06_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N02,陈琳,hero:CH06_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N02,陈琳,hero:CH06_N02:portrait-v023,portrait-hero_CH06_N02,陈琳 · 完整头像,24,69,40,265,300
 hero:CH06_N02,陈琳,hero:CH06_N02:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N02,陈琳,hero:CH06_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N02,陈琳,hero:CH06_N02:name-v023,name-hero_CH06_N02,陈琳 · 原概念姓名,100,387,70,112,58
-hero:CH06_N03,韩福,hero:CH06_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N03,韩福,hero:CH06_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N03,韩福,hero:CH06_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N03,韩福,hero:CH06_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N03,韩福,hero:CH06_N03:portrait-v023,portrait-hero_CH06_N03,韩福 · 完整头像,24,76,40,265,293
 hero:CH06_N03,韩福,hero:CH06_N03:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N03,韩福,hero:CH06_N03:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N03,韩福,hero:CH06_N03:name-v023,name-hero_CH06_N03,韩福 · 原概念姓名,98,387,70,116,58
-hero:CH06_N04,卞夫人,hero:CH06_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N04,卞夫人,hero:CH06_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N04,卞夫人,hero:CH06_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N04,卞夫人,hero:CH06_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N04,卞夫人,hero:CH06_N04:portrait-v023,portrait-hero_CH06_N04,卞夫人 · 完整头像,24,63,40,265,306
@@ -388,35 +388,35 @@ hero:CH06_N04,卞夫人,hero:CH06_N04:faction-v023,faction-wei,原卡阵营菱�
 hero:CH06_N04,卞夫人,hero:CH06_N04:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N04,卞夫人,hero:CH06_N04:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH06_N04,卞夫人,hero:CH06_N04:name-v023,name-hero_CH06_N04,卞夫人 · 原概念姓名,71,387,70,170,58
-hero:CH06_N05,徐庶,hero:CH06_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N05,徐庶,hero:CH06_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N05,徐庶,hero:CH06_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N05,徐庶,hero:CH06_N05:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N05,徐庶,hero:CH06_N05:portrait-v023,portrait-hero_CH06_N05,徐庶 · 完整头像,24,87,40,265,282
 hero:CH06_N05,徐庶,hero:CH06_N05:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N05,徐庶,hero:CH06_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N05,徐庶,hero:CH06_N05:name-v023,name-hero_CH06_N05,徐庶 · 原概念姓名,98,387,70,116,58
-hero:CH06_N06,郭嘉,hero:CH06_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N06,郭嘉,hero:CH06_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N06,郭嘉,hero:CH06_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N06,郭嘉,hero:CH06_N06:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N06,郭嘉,hero:CH06_N06:portrait-v023,portrait-hero_CH06_N06,郭嘉 · 完整头像,24,86,40,265,283
 hero:CH06_N06,郭嘉,hero:CH06_N06:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N06,郭嘉,hero:CH06_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N06,郭嘉,hero:CH06_N06:name-v023,name-hero_CH06_N06,郭嘉 · 原概念姓名,100,387,70,113,58
-hero:CH06_N07,满宠,hero:CH06_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N07,满宠,hero:CH06_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N07,满宠,hero:CH06_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N07,满宠,hero:CH06_N07:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N07,满宠,hero:CH06_N07:portrait-v023,portrait-hero_CH06_N07,满宠 · 完整头像,24,55,40,265,314
 hero:CH06_N07,满宠,hero:CH06_N07:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N07,满宠,hero:CH06_N07:role-v023:0,role-v021bw-隐,隐·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N07,满宠,hero:CH06_N07:name-v023,name-hero_CH06_N07,满宠 · 原概念姓名,99,387,70,115,58
-hero:CH06_N08,李典,hero:CH06_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N08,李典,hero:CH06_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N08,李典,hero:CH06_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N08,李典,hero:CH06_N08:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N08,李典,hero:CH06_N08:portrait-v023,portrait-hero_CH06_N08,李典 · 完整头像,24,82,40,265,287
 hero:CH06_N08,李典,hero:CH06_N08:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH06_N08,李典,hero:CH06_N08:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N08,李典,hero:CH06_N08:name-v023,name-hero_CH06_N08,李典 · 原概念姓名,100,387,70,113,58
-hero:CH06_N09,乐进,hero:CH06_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH06_N09,乐进,hero:CH06_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH06_N09,乐进,hero:CH06_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH06_N09,乐进,hero:CH06_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH06_N09,乐进,hero:CH06_N09:portrait-v023,portrait-hero_CH06_N09,乐进 · 完整头像,27,47,40,259,322
@@ -424,28 +424,28 @@ hero:CH06_N09,乐进,hero:CH06_N09:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH06_N09,乐进,hero:CH06_N09:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH06_N09,乐进,hero:CH06_N09:role-v023:1,role-v021bw-骑,骑·黑白圆形兵种图标,29,99,62,66,66
 hero:CH06_N09,乐进,hero:CH06_N09:name-v023,name-hero_CH06_N09,乐进 · 原概念姓名,97,387,70,119,58
-hero:CH07_N01,牛金,hero:CH07_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N01,牛金,hero:CH07_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N01,牛金,hero:CH07_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N01,牛金,hero:CH07_N01:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N01,牛金,hero:CH07_N01:portrait-v023,portrait-hero_CH07_N01,牛金 · 完整头像,24,97,40,265,272
 hero:CH07_N01,牛金,hero:CH07_N01:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N01,牛金,hero:CH07_N01:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N01,牛金,hero:CH07_N01:name-v023,name-hero_CH07_N01,牛金 · 原概念姓名,98,387,70,117,58
-hero:CH07_N02,王双,hero:CH07_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N02,王双,hero:CH07_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N02,王双,hero:CH07_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N02,王双,hero:CH07_N02:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N02,王双,hero:CH07_N02:portrait-v023,portrait-hero_CH07_N02,王双 · 完整头像,24,59,40,265,310
 hero:CH07_N02,王双,hero:CH07_N02:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N02,王双,hero:CH07_N02:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N02,王双,hero:CH07_N02:name-v023,name-hero_CH07_N02,王双 · 原概念姓名,96,387,70,120,58
-hero:CH07_N03,文聘,hero:CH07_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N03,文聘,hero:CH07_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N03,文聘,hero:CH07_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N03,文聘,hero:CH07_N03:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N03,文聘,hero:CH07_N03:portrait-v023,portrait-hero_CH07_N03,文聘 · 原概念人物,26,47,40,260,322
 hero:CH07_N03,文聘,hero:CH07_N03:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N03,文聘,hero:CH07_N03:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N03,文聘,hero:CH07_N03:name-v023,name-hero_CH07_N03,文聘 · 原概念姓名,98,387,70,117,58
-hero:CH07_N04,田豫,hero:CH07_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N04,田豫,hero:CH07_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N04,田豫,hero:CH07_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N04,田豫,hero:CH07_N04:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N04,田豫,hero:CH07_N04:portrait-v023,portrait-hero_CH07_N04,田豫 · 原概念人物,24,83,40,265,286
@@ -453,21 +453,21 @@ hero:CH07_N04,田豫,hero:CH07_N04:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH07_N04,田豫,hero:CH07_N04:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N04,田豫,hero:CH07_N04:role-v023:1,role-v021bw-骑,骑·黑白圆形兵种图标,29,99,62,66,66
 hero:CH07_N04,田豫,hero:CH07_N04:name-v023,name-hero_CH07_N04,田豫 · 原概念姓名,99,387,70,115,58
-hero:CH07_N05,郝昭,hero:CH07_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N05,郝昭,hero:CH07_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N05,郝昭,hero:CH07_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N05,郝昭,hero:CH07_N05:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N05,郝昭,hero:CH07_N05:portrait-v023,portrait-hero_CH07_N05,郝昭 · 完整头像,24,67,40,265,302
 hero:CH07_N05,郝昭,hero:CH07_N05:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N05,郝昭,hero:CH07_N05:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N05,郝昭,hero:CH07_N05:name-v023,name-hero_CH07_N05,郝昭 · 原概念姓名,99,387,70,115,58
-hero:CH07_N06,郭淮,hero:CH07_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N06,郭淮,hero:CH07_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N06,郭淮,hero:CH07_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N06,郭淮,hero:CH07_N06:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N06,郭淮,hero:CH07_N06:portrait-v023,portrait-hero_CH07_N06,郭淮 · 完整头像,24,67,40,265,302
 hero:CH07_N06,郭淮,hero:CH07_N06:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N06,郭淮,hero:CH07_N06:role-v023:0,role-v021bw-隐,隐·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N06,郭淮,hero:CH07_N06:name-v023,name-hero_CH07_N06,郭淮 · 原概念姓名,98,387,70,116,58
-hero:CH07_N07,邓艾,hero:CH07_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N07,邓艾,hero:CH07_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N07,邓艾,hero:CH07_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N07,邓艾,hero:CH07_N07:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N07,邓艾,hero:CH07_N07:portrait-v023,portrait-hero_CH07_N07,邓艾 · 完整头像,24,75,40,265,294
@@ -475,49 +475,49 @@ hero:CH07_N07,邓艾,hero:CH07_N07:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH07_N07,邓艾,hero:CH07_N07:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N07,邓艾,hero:CH07_N07:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH07_N07,邓艾,hero:CH07_N07:name-v023,name-hero_CH07_N07,邓艾 · 原概念姓名,97,387,70,119,58
-hero:CH07_N08,陈泰,hero:CH07_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N08,陈泰,hero:CH07_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N08,陈泰,hero:CH07_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N08,陈泰,hero:CH07_N08:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N08,陈泰,hero:CH07_N08:portrait-v023,portrait-hero_CH07_N08,陈泰 · 完整头像,48,47,40,217,322
 hero:CH07_N08,陈泰,hero:CH07_N08:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N08,陈泰,hero:CH07_N08:role-v023:0,role-v021bw-爆,爆·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N08,陈泰,hero:CH07_N08:name-v023,name-hero_CH07_N08,陈泰 · 原概念姓名,98,387,70,116,58
-hero:CH07_N09,贾充,hero:CH07_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N09,贾充,hero:CH07_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N09,贾充,hero:CH07_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N09,贾充,hero:CH07_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N09,贾充,hero:CH07_N09:portrait-v023,portrait-hero_CH07_N09,贾充 · 完整头像,24,89,40,265,280
 hero:CH07_N09,贾充,hero:CH07_N09:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N09,贾充,hero:CH07_N09:role-v023:0,role-v021bw-敌,敌·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N09,贾充,hero:CH07_N09:name-v023,name-hero_CH07_N09,贾充 · 原概念姓名,100,387,70,113,58
-hero:CH07_N10,庞德,hero:CH07_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH07_N10,庞德,hero:CH07_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH07_N10,庞德,hero:CH07_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH07_N10,庞德,hero:CH07_N10:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH07_N10,庞德,hero:CH07_N10:portrait-v023,portrait-hero_CH07_N10,庞德 · 原概念人物,24,69,40,265,300
 hero:CH07_N10,庞德,hero:CH07_N10:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH07_N10,庞德,hero:CH07_N10:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH07_N10,庞德,hero:CH07_N10:name-v023,name-hero_CH07_N10,庞德 · 原概念姓名,100,387,70,112,58
-hero:CH08_N01,周仓,hero:CH08_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N01,周仓,hero:CH08_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N01,周仓,hero:CH08_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N01,周仓,hero:CH08_N01:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N01,周仓,hero:CH08_N01:portrait-v023,portrait-hero_CH08_N01,周仓 · 原概念人物,24,57,40,265,312
 hero:CH08_N01,周仓,hero:CH08_N01:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N01,周仓,hero:CH08_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N01,周仓,hero:CH08_N01:name-v023,name-hero_CH08_N01,周仓 · 原概念姓名,100,387,70,112,58
-hero:CH08_N02,简雍,hero:CH08_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N02,简雍,hero:CH08_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N02,简雍,hero:CH08_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N02,简雍,hero:CH08_N02:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N02,简雍,hero:CH08_N02:portrait-v023,portrait-hero_CH08_N02,简雍 · 完整头像,24,96,40,265,273
 hero:CH08_N02,简雍,hero:CH08_N02:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N02,简雍,hero:CH08_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N02,简雍,hero:CH08_N02:name-v023,name-hero_CH08_N02,简雍 · 原概念姓名,98,387,70,116,58
-hero:CH08_N03,刘封,hero:CH08_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N03,刘封,hero:CH08_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N03,刘封,hero:CH08_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N03,刘封,hero:CH08_N03:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N03,刘封,hero:CH08_N03:portrait-v023,portrait-hero_CH08_N03,刘封 · 完整头像,24,88,40,265,281
 hero:CH08_N03,刘封,hero:CH08_N03:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N03,刘封,hero:CH08_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N03,刘封,hero:CH08_N03:name-v023,name-hero_CH08_N03,刘封 · 原概念姓名,98,387,70,116,58
-hero:CH08_N04,关索,hero:CH08_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N04,关索,hero:CH08_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N04,关索,hero:CH08_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N04,关索,hero:CH08_N04:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N04,关索,hero:CH08_N04:portrait-v023,portrait-hero_CH08_N04,关索 · 原概念人物,24,73,40,265,296
@@ -525,21 +525,21 @@ hero:CH08_N04,关索,hero:CH08_N04:faction-v023,faction-shu,原卡阵营菱形,2
 hero:CH08_N04,关索,hero:CH08_N04:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N04,关索,hero:CH08_N04:role-v023:1,role-v021bw-骑,骑·黑白圆形兵种图标,29,99,62,66,66
 hero:CH08_N04,关索,hero:CH08_N04:name-v023,name-hero_CH08_N04,关索 · 原概念姓名,100,387,70,113,58
-hero:CH08_N05,关银屏,hero:CH08_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N05,关银屏,hero:CH08_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N05,关银屏,hero:CH08_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N05,关银屏,hero:CH08_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N05,关银屏,hero:CH08_N05:portrait-v023,portrait-hero_CH08_N05,关银屏 · 完整头像,24,98,40,265,271
 hero:CH08_N05,关银屏,hero:CH08_N05:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N05,关银屏,hero:CH08_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N05,关银屏,hero:CH08_N05:name-v023,name-hero_CH08_N05,关银屏 · 原概念姓名,71,387,70,170,58
-hero:CH08_N06,鲍三娘,hero:CH08_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N06,鲍三娘,hero:CH08_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N06,鲍三娘,hero:CH08_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N06,鲍三娘,hero:CH08_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N06,鲍三娘,hero:CH08_N06:portrait-v023,portrait-hero_CH08_N06,鲍三娘 · 原概念人物,24,111,40,265,258
 hero:CH08_N06,鲍三娘,hero:CH08_N06:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N06,鲍三娘,hero:CH08_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N06,鲍三娘,hero:CH08_N06:name-v023,name-hero_CH08_N06,鲍三娘 · 原概念姓名,73,387,70,166,58
-hero:CH08_N07,诸葛亮,hero:CH08_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N07,诸葛亮,hero:CH08_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N07,诸葛亮,hero:CH08_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N07,诸葛亮,hero:CH08_N07:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N07,诸葛亮,hero:CH08_N07:portrait-v023,portrait-hero_CH08_N07,诸葛亮 · 完整头像,25,47,40,263,322
@@ -547,14 +547,14 @@ hero:CH08_N07,诸葛亮,hero:CH08_N07:faction-v023,faction-shu,原卡阵营菱�
 hero:CH08_N07,诸葛亮,hero:CH08_N07:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N07,诸葛亮,hero:CH08_N07:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH08_N07,诸葛亮,hero:CH08_N07:name-v023,name-hero_CH08_N07,诸葛亮 · 原概念姓名,74,387,70,165,58
-hero:CH08_N08,赵云,hero:CH08_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N08,赵云,hero:CH08_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N08,赵云,hero:CH08_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N08,赵云,hero:CH08_N08:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N08,赵云,hero:CH08_N08:portrait-v023,portrait-hero_CH08_N08,赵云 · 完整头像,24,81,40,265,288
 hero:CH08_N08,赵云,hero:CH08_N08:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH08_N08,赵云,hero:CH08_N08:role-v023:0,role-v021bw-飞,飞·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N08,赵云,hero:CH08_N08:name-v023,name-hero_CH08_N08,赵云 · 原概念姓名,100,387,70,113,58
-hero:CH08_N09,马超,hero:CH08_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N09,马超,hero:CH08_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N09,马超,hero:CH08_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N09,马超,hero:CH08_N09:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N09,马超,hero:CH08_N09:portrait-v023,portrait-hero_CH08_N09,马超 · 完整头像,24,88,40,265,281
@@ -562,7 +562,7 @@ hero:CH08_N09,马超,hero:CH08_N09:faction-v023,faction-shu,原卡阵营菱形,2
 hero:CH08_N09,马超,hero:CH08_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N09,马超,hero:CH08_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH08_N09,马超,hero:CH08_N09:name-v023,name-hero_CH08_N09,马超 · 原概念姓名,99,387,70,115,58
-hero:CH08_N10,刘备,hero:CH08_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH08_N10,刘备,hero:CH08_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH08_N10,刘备,hero:CH08_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH08_N10,刘备,hero:CH08_N10:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH08_N10,刘备,hero:CH08_N10:portrait-v023,portrait-hero_CH08_N10,刘备 · 完整头像,24,68,40,265,301
@@ -570,63 +570,63 @@ hero:CH08_N10,刘备,hero:CH08_N10:faction-v023,faction-shu,原卡阵营菱形,2
 hero:CH08_N10,刘备,hero:CH08_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH08_N10,刘备,hero:CH08_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH08_N10,刘备,hero:CH08_N10:name-v023,name-hero_CH08_N10,刘备 · 原概念姓名,98,387,70,116,58
-hero:CH09_N01,孟达,hero:CH09_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N01,孟达,hero:CH09_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N01,孟达,hero:CH09_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N01,孟达,hero:CH09_N01:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N01,孟达,hero:CH09_N01:portrait-v023,portrait-hero_CH09_N01,孟达 · 原概念人物,24,76,40,265,293
 hero:CH09_N01,孟达,hero:CH09_N01:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N01,孟达,hero:CH09_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N01,孟达,hero:CH09_N01:name-v023,name-hero_CH09_N01,孟达 · 原概念姓名,98,387,70,116,58
-hero:CH09_N02,黄权,hero:CH09_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N02,黄权,hero:CH09_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N02,黄权,hero:CH09_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N02,黄权,hero:CH09_N02:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N02,黄权,hero:CH09_N02:portrait-v023,portrait-hero_CH09_N02,黄权 · 完整头像,24,76,40,265,293
 hero:CH09_N02,黄权,hero:CH09_N02:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N02,黄权,hero:CH09_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N02,黄权,hero:CH09_N02:name-v023,name-hero_CH09_N02,黄权 · 原概念姓名,99,387,70,115,58
-hero:CH09_N03,张苞,hero:CH09_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N03,张苞,hero:CH09_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N03,张苞,hero:CH09_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N03,张苞,hero:CH09_N03:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N03,张苞,hero:CH09_N03:portrait-v023,portrait-hero_CH09_N03,张苞 · 原概念人物,24,70,40,265,299
 hero:CH09_N03,张苞,hero:CH09_N03:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N03,张苞,hero:CH09_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N03,张苞,hero:CH09_N03:name-v023,name-hero_CH09_N03,张苞 · 原概念姓名,98,387,70,116,58
-hero:CH09_N04,廖化,hero:CH09_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N04,廖化,hero:CH09_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N04,廖化,hero:CH09_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N04,廖化,hero:CH09_N04:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N04,廖化,hero:CH09_N04:portrait-v023,portrait-hero_CH09_N04,廖化 · 原概念人物,24,75,40,265,294
 hero:CH09_N04,廖化,hero:CH09_N04:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N04,廖化,hero:CH09_N04:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N04,廖化,hero:CH09_N04:name-v023,name-hero_CH09_N04,廖化 · 原概念姓名,98,387,70,116,58
-hero:CH09_N05,张任,hero:CH09_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N05,张任,hero:CH09_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N05,张任,hero:CH09_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N05,张任,hero:CH09_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N05,张任,hero:CH09_N05:portrait-v023,portrait-hero_CH09_N05,张任 · 原概念人物,24,83,40,265,286
 hero:CH09_N05,张任,hero:CH09_N05:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N05,张任,hero:CH09_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N05,张任,hero:CH09_N05:name-v023,name-hero_CH09_N05,张任 · 原概念姓名,99,387,70,115,58
-hero:CH09_N06,严颜,hero:CH09_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N06,严颜,hero:CH09_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N06,严颜,hero:CH09_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N06,严颜,hero:CH09_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N06,严颜,hero:CH09_N06:portrait-v023,portrait-hero_CH09_N06,严颜 · 完整头像,24,73,40,265,296
 hero:CH09_N06,严颜,hero:CH09_N06:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N06,严颜,hero:CH09_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N06,严颜,hero:CH09_N06:name-v023,name-hero_CH09_N06,严颜 · 原概念姓名,98,387,70,116,58
-hero:CH09_N07,黄忠,hero:CH09_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N07,黄忠,hero:CH09_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N07,黄忠,hero:CH09_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N07,黄忠,hero:CH09_N07:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N07,黄忠,hero:CH09_N07:portrait-v023,portrait-hero_CH09_N07,黄忠 · 完整头像,24,71,40,265,298
 hero:CH09_N07,黄忠,hero:CH09_N07:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N07,黄忠,hero:CH09_N07:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N07,黄忠,hero:CH09_N07:name-v023,name-hero_CH09_N07,黄忠 · 原概念姓名,98,387,70,116,58
-hero:CH09_N08,王平,hero:CH09_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N08,王平,hero:CH09_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N08,王平,hero:CH09_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N08,王平,hero:CH09_N08:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N08,王平,hero:CH09_N08:portrait-v023,portrait-hero_CH09_N08,王平 · 完整头像,24,76,40,265,293
 hero:CH09_N08,王平,hero:CH09_N08:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N08,王平,hero:CH09_N08:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N08,王平,hero:CH09_N08:name-v023,name-hero_CH09_N08,王平 · 原概念姓名,97,387,70,119,58
-hero:CH09_N09,魏延,hero:CH09_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N09,魏延,hero:CH09_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N09,魏延,hero:CH09_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N09,魏延,hero:CH09_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N09,魏延,hero:CH09_N09:portrait-v023,portrait-hero_CH09_N09,魏延 · 原概念人物,24,72,40,265,297
@@ -634,63 +634,63 @@ hero:CH09_N09,魏延,hero:CH09_N09:faction-v023,faction-shu,原卡阵营菱形,2
 hero:CH09_N09,魏延,hero:CH09_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N09,魏延,hero:CH09_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH09_N09,魏延,hero:CH09_N09:name-v023,name-hero_CH09_N09,魏延 · 原概念姓名,98,387,70,117,58
-hero:CH09_N10,关羽（神）,hero:CH09_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH09_N10,关羽（神）,hero:CH09_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH09_N10,关羽（神）,hero:CH09_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH09_N10,关羽（神）,hero:CH09_N10:shell-v023,card-frame-U-v025,红色边框共用边框与分隔带,0,0,20,313,473
 hero:CH09_N10,关羽（神）,hero:CH09_N10:portrait-v023,portrait-hero_CH09_N10,关羽（神） · 原概念人物,24,72,40,265,297
 hero:CH09_N10,关羽（神）,hero:CH09_N10:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH09_N10,关羽（神）,hero:CH09_N10:role-v023:0,role-v021bw-敌,敌·黑白圆形兵种图标,29,29,61,66,66
 hero:CH09_N10,关羽（神）,hero:CH09_N10:name-v023,name-hero_CH09_N10,关羽（神） · 原概念姓名,44,388,70,225,56
-hero:CH10_N01,罗宪,hero:CH10_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N01,罗宪,hero:CH10_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N01,罗宪,hero:CH10_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N01,罗宪,hero:CH10_N01:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N01,罗宪,hero:CH10_N01:portrait-v023,portrait-hero_CH10_N01,罗宪 · 原概念人物,24,71,40,265,298
 hero:CH10_N01,罗宪,hero:CH10_N01:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N01,罗宪,hero:CH10_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N01,罗宪,hero:CH10_N01:name-v023,name-hero_CH10_N01,罗宪 · 原概念姓名,100,387,70,113,58
-hero:CH10_N02,花鬓,hero:CH10_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N02,花鬓,hero:CH10_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N02,花鬓,hero:CH10_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N02,花鬓,hero:CH10_N02:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N02,花鬓,hero:CH10_N02:portrait-v023,portrait-hero_CH10_N02,花鬓 · 完整头像,24,75,40,265,294
 hero:CH10_N02,花鬓,hero:CH10_N02:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N02,花鬓,hero:CH10_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N02,花鬓,hero:CH10_N02:name-v023,name-hero_CH10_N02,花鬓 · 原概念姓名,99,387,70,115,58
-hero:CH10_N03,忙牙长,hero:CH10_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N03,忙牙长,hero:CH10_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N03,忙牙长,hero:CH10_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N03,忙牙长,hero:CH10_N03:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N03,忙牙长,hero:CH10_N03:portrait-v023,portrait-hero_CH10_N03,忙牙长 · 原概念人物,24,76,40,265,293
 hero:CH10_N03,忙牙长,hero:CH10_N03:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N03,忙牙长,hero:CH10_N03:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N03,忙牙长,hero:CH10_N03:name-v023,name-hero_CH10_N03,忙牙长 · 原概念姓名,69,387,70,174,58
-hero:CH10_N04,阿会喃,hero:CH10_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N04,阿会喃,hero:CH10_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N04,阿会喃,hero:CH10_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N04,阿会喃,hero:CH10_N04:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N04,阿会喃,hero:CH10_N04:portrait-v023,portrait-hero_CH10_N04,阿会喃 · 完整头像,24,82,40,265,287
 hero:CH10_N04,阿会喃,hero:CH10_N04:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N04,阿会喃,hero:CH10_N04:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N04,阿会喃,hero:CH10_N04:name-v023,name-hero_CH10_N04,阿会喃 · 原概念姓名,73,387,70,166,58
-hero:CH10_N05,兀突骨,hero:CH10_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N05,兀突骨,hero:CH10_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N05,兀突骨,hero:CH10_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N05,兀突骨,hero:CH10_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N05,兀突骨,hero:CH10_N05:portrait-v023,portrait-hero_CH10_N05,兀突骨 · 原概念人物,24,81,40,265,288
 hero:CH10_N05,兀突骨,hero:CH10_N05:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N05,兀突骨,hero:CH10_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N05,兀突骨,hero:CH10_N05:name-v023,name-hero_CH10_N05,兀突骨 · 原概念姓名,72,387,70,168,58
-hero:CH10_N06,带来洞主,hero:CH10_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N06,带来洞主,hero:CH10_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N06,带来洞主,hero:CH10_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N06,带来洞主,hero:CH10_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N06,带来洞主,hero:CH10_N06:portrait-v023,portrait-hero_CH10_N06,带来洞主 · 完整头像,24,83,40,265,286
 hero:CH10_N06,带来洞主,hero:CH10_N06:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N06,带来洞主,hero:CH10_N06:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N06,带来洞主,hero:CH10_N06:name-v023,name-hero_CH10_N06,带来洞主 · 原概念姓名,44,387,70,225,58
-hero:CH10_N07,姜维,hero:CH10_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N07,姜维,hero:CH10_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N07,姜维,hero:CH10_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N07,姜维,hero:CH10_N07:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N07,姜维,hero:CH10_N07:portrait-v023,portrait-hero_CH10_N07,姜维 · 原概念人物,24,71,40,265,298
 hero:CH10_N07,姜维,hero:CH10_N07:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 hero:CH10_N07,姜维,hero:CH10_N07:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N07,姜维,hero:CH10_N07:name-v023,name-hero_CH10_N07,姜维 · 原概念姓名,100,387,70,112,58
-hero:CH10_N08,朵思大王,hero:CH10_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N08,朵思大王,hero:CH10_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N08,朵思大王,hero:CH10_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N08,朵思大王,hero:CH10_N08:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N08,朵思大王,hero:CH10_N08:portrait-v023,portrait-hero_CH10_N08,朵思大王 · 完整头像,24,69,40,265,300
@@ -698,7 +698,7 @@ hero:CH10_N08,朵思大王,hero:CH10_N08:faction-v023,faction-qun,原卡阵营�
 hero:CH10_N08,朵思大王,hero:CH10_N08:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N08,朵思大王,hero:CH10_N08:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH10_N08,朵思大王,hero:CH10_N08:name-v023,name-hero_CH10_N08,朵思大王 · 原概念姓名,44,387,70,225,57
-hero:CH10_N09,沙摩柯,hero:CH10_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N09,沙摩柯,hero:CH10_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N09,沙摩柯,hero:CH10_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N09,沙摩柯,hero:CH10_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N09,沙摩柯,hero:CH10_N09:portrait-v023,portrait-hero_CH10_N09,沙摩柯 · 原概念人物,24,76,40,265,293
@@ -706,7 +706,7 @@ hero:CH10_N09,沙摩柯,hero:CH10_N09:faction-v023,faction-qun,原卡阵营菱�
 hero:CH10_N09,沙摩柯,hero:CH10_N09:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N09,沙摩柯,hero:CH10_N09:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH10_N09,沙摩柯,hero:CH10_N09:name-v023,name-hero_CH10_N09,沙摩柯 · 原概念姓名,72,387,70,169,58
-hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:shell-v023,card-frame-U-v025,红色边框共用边框与分隔带,0,0,20,313,473
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:portrait-v023,portrait-hero_CH10_N10,诸葛亮（神） · 完整头像,24,61,40,265,308
@@ -714,28 +714,28 @@ hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:faction-v023,faction-shu,原卡�
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH10_N10,诸葛亮（神）,hero:CH10_N10:name-v023,name-hero_CH10_N10,诸葛亮（神） · 原概念姓名,44,393,70,225,45
-hero:CH11_N01,张子纲,hero:CH11_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N01,张子纲,hero:CH11_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N01,张子纲,hero:CH11_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N01,张子纲,hero:CH11_N01:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N01,张子纲,hero:CH11_N01:portrait-v023,portrait-hero_CH11_N01,张子纲 · 完整头像,24,66,40,265,303
 hero:CH11_N01,张子纲,hero:CH11_N01:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N01,张子纲,hero:CH11_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N01,张子纲,hero:CH11_N01:name-v023,name-hero_CH11_N01,张子纲 · 原概念姓名,70,387,70,173,58
-hero:CH11_N02,董袭,hero:CH11_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N02,董袭,hero:CH11_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N02,董袭,hero:CH11_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N02,董袭,hero:CH11_N02:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N02,董袭,hero:CH11_N02:portrait-v023,portrait-hero_CH11_N02,董袭 · 完整头像,24,68,40,265,301
 hero:CH11_N02,董袭,hero:CH11_N02:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N02,董袭,hero:CH11_N02:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N02,董袭,hero:CH11_N02:name-v023,name-hero_CH11_N02,董袭 · 原概念姓名,100,387,70,113,58
-hero:CH11_N03,全琮,hero:CH11_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N03,全琮,hero:CH11_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N03,全琮,hero:CH11_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N03,全琮,hero:CH11_N03:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N03,全琮,hero:CH11_N03:portrait-v023,portrait-hero_CH11_N03,全琮 · 完整头像,24,66,40,265,303
 hero:CH11_N03,全琮,hero:CH11_N03:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N03,全琮,hero:CH11_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N03,全琮,hero:CH11_N03:name-v023,name-hero_CH11_N03,全琮 · 原概念姓名,98,387,70,116,58
-hero:CH11_N04,吴国太,hero:CH11_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N04,吴国太,hero:CH11_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N04,吴国太,hero:CH11_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N04,吴国太,hero:CH11_N04:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N04,吴国太,hero:CH11_N04:portrait-v023,portrait-hero_CH11_N04,吴国太 · 完整头像,24,82,40,265,287
@@ -743,21 +743,21 @@ hero:CH11_N04,吴国太,hero:CH11_N04:faction-v023,faction-wu,原卡阵营菱形
 hero:CH11_N04,吴国太,hero:CH11_N04:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N04,吴国太,hero:CH11_N04:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH11_N04,吴国太,hero:CH11_N04:name-v023,name-hero_CH11_N04,吴国太 · 原概念姓名,71,387,70,171,58
-hero:CH11_N05,鲁肃,hero:CH11_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N05,鲁肃,hero:CH11_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N05,鲁肃,hero:CH11_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N05,鲁肃,hero:CH11_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N05,鲁肃,hero:CH11_N05:portrait-v023,portrait-hero_CH11_N05,鲁肃 · 完整头像,33,47,40,246,322
 hero:CH11_N05,鲁肃,hero:CH11_N05:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N05,鲁肃,hero:CH11_N05:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N05,鲁肃,hero:CH11_N05:name-v023,name-hero_CH11_N05,鲁肃 · 原概念姓名,100,387,70,113,58
-hero:CH11_N06,程普,hero:CH11_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N06,程普,hero:CH11_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N06,程普,hero:CH11_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N06,程普,hero:CH11_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N06,程普,hero:CH11_N06:portrait-v023,portrait-hero_CH11_N06,程普 · 完整头像,24,85,40,265,284
 hero:CH11_N06,程普,hero:CH11_N06:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N06,程普,hero:CH11_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N06,程普,hero:CH11_N06:name-v023,name-hero_CH11_N06,程普 · 原概念姓名,99,387,70,115,58
-hero:CH11_N07,凌操,hero:CH11_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N07,凌操,hero:CH11_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N07,凌操,hero:CH11_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N07,凌操,hero:CH11_N07:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N07,凌操,hero:CH11_N07:portrait-v023,portrait-hero_CH11_N07,凌操 · 完整头像,24,70,40,265,299
@@ -765,21 +765,21 @@ hero:CH11_N07,凌操,hero:CH11_N07:faction-v023,faction-wu,原卡阵营菱形,22
 hero:CH11_N07,凌操,hero:CH11_N07:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N07,凌操,hero:CH11_N07:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH11_N07,凌操,hero:CH11_N07:name-v023,name-hero_CH11_N07,凌操 · 原概念姓名,98,387,70,116,58
-hero:CH11_N08,孙尚香,hero:CH11_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N08,孙尚香,hero:CH11_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N08,孙尚香,hero:CH11_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N08,孙尚香,hero:CH11_N08:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N08,孙尚香,hero:CH11_N08:portrait-v023,portrait-hero_CH11_N08,孙尚香 · 原概念人物,24,76,40,265,293
 hero:CH11_N08,孙尚香,hero:CH11_N08:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N08,孙尚香,hero:CH11_N08:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N08,孙尚香,hero:CH11_N08:name-v023,name-hero_CH11_N08,孙尚香 · 原概念姓名,69,387,70,174,58
-hero:CH11_N09,太史慈,hero:CH11_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N09,太史慈,hero:CH11_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N09,太史慈,hero:CH11_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N09,太史慈,hero:CH11_N09:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N09,太史慈,hero:CH11_N09:portrait-v023,portrait-hero_CH11_N09,太史慈 · 原概念人物,24,68,40,265,301
 hero:CH11_N09,太史慈,hero:CH11_N09:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH11_N09,太史慈,hero:CH11_N09:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N09,太史慈,hero:CH11_N09:name-v023,name-hero_CH11_N09,太史慈 · 原概念姓名,71,387,70,171,58
-hero:CH11_N10,孙权,hero:CH11_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH11_N10,孙权,hero:CH11_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH11_N10,孙权,hero:CH11_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH11_N10,孙权,hero:CH11_N10:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH11_N10,孙权,hero:CH11_N10:portrait-v023,portrait-hero_CH11_N10,孙权 · 完整头像,24,55,40,265,314
@@ -787,70 +787,70 @@ hero:CH11_N10,孙权,hero:CH11_N10:faction-v023,faction-wu,原卡阵营菱形,22
 hero:CH11_N10,孙权,hero:CH11_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH11_N10,孙权,hero:CH11_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH11_N10,孙权,hero:CH11_N10:name-v023,name-hero_CH11_N10,孙权 · 原概念姓名,96,387,70,120,58
-hero:CH12_N01,陈武,hero:CH12_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N01,陈武,hero:CH12_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N01,陈武,hero:CH12_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N01,陈武,hero:CH12_N01:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N01,陈武,hero:CH12_N01:portrait-v023,portrait-hero_CH12_N01,陈武 · 完整头像,24,64,40,265,305
 hero:CH12_N01,陈武,hero:CH12_N01:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N01,陈武,hero:CH12_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N01,陈武,hero:CH12_N01:name-v023,name-hero_CH12_N01,陈武 · 原概念姓名,100,387,70,112,58
-hero:CH12_N02,周泰,hero:CH12_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N02,周泰,hero:CH12_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N02,周泰,hero:CH12_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N02,周泰,hero:CH12_N02:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N02,周泰,hero:CH12_N02:portrait-v023,portrait-hero_CH12_N02,周泰 · 完整头像,24,81,40,265,288
 hero:CH12_N02,周泰,hero:CH12_N02:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N02,周泰,hero:CH12_N02:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N02,周泰,hero:CH12_N02:name-v023,name-hero_CH12_N02,周泰 · 原概念姓名,100,387,70,113,58
-hero:CH12_N03,韩当,hero:CH12_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N03,韩当,hero:CH12_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N03,韩当,hero:CH12_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N03,韩当,hero:CH12_N03:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N03,韩当,hero:CH12_N03:portrait-v023,portrait-hero_CH12_N03,韩当 · 完整头像,24,65,40,265,304
 hero:CH12_N03,韩当,hero:CH12_N03:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N03,韩当,hero:CH12_N03:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N03,韩当,hero:CH12_N03:name-v023,name-hero_CH12_N03,韩当 · 原概念姓名,101,387,70,110,58
-hero:CH12_N04,蒋钦,hero:CH12_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N04,蒋钦,hero:CH12_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N04,蒋钦,hero:CH12_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N04,蒋钦,hero:CH12_N04:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N04,蒋钦,hero:CH12_N04:portrait-v023,portrait-hero_CH12_N04,蒋钦 · 完整头像,24,79,40,265,290
 hero:CH12_N04,蒋钦,hero:CH12_N04:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N04,蒋钦,hero:CH12_N04:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N04,蒋钦,hero:CH12_N04:name-v023,name-hero_CH12_N04,蒋钦 · 原概念姓名,99,387,70,115,58
-hero:CH12_N05,甘宁,hero:CH12_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N05,甘宁,hero:CH12_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N05,甘宁,hero:CH12_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N05,甘宁,hero:CH12_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N05,甘宁,hero:CH12_N05:portrait-v023,portrait-hero_CH12_N05,甘宁 · 原概念人物,24,89,40,265,280
 hero:CH12_N05,甘宁,hero:CH12_N05:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N05,甘宁,hero:CH12_N05:role-v023:0,role-v021bw-城,城·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N05,甘宁,hero:CH12_N05:name-v023,name-hero_CH12_N05,甘宁 · 原概念姓名,100,387,70,112,58
-hero:CH12_N06,留赞,hero:CH12_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N06,留赞,hero:CH12_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N06,留赞,hero:CH12_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N06,留赞,hero:CH12_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N06,留赞,hero:CH12_N06:portrait-v023,portrait-hero_CH12_N06,留赞 · 原概念人物,24,83,40,265,286
 hero:CH12_N06,留赞,hero:CH12_N06:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N06,留赞,hero:CH12_N06:role-v023:0,role-v021bw-火,火·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N06,留赞,hero:CH12_N06:name-v023,name-hero_CH12_N06,留赞 · 原概念姓名,99,387,70,115,58
-hero:CH12_N07,陆抗,hero:CH12_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N07,陆抗,hero:CH12_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N07,陆抗,hero:CH12_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N07,陆抗,hero:CH12_N07:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N07,陆抗,hero:CH12_N07:portrait-v023,portrait-hero_CH12_N07,陆抗 · 完整头像,24,68,40,265,301
 hero:CH12_N07,陆抗,hero:CH12_N07:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N07,陆抗,hero:CH12_N07:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N07,陆抗,hero:CH12_N07:name-v023,name-hero_CH12_N07,陆抗 · 原概念姓名,100,387,70,112,58
-hero:CH12_N08,丁奉,hero:CH12_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N08,丁奉,hero:CH12_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N08,丁奉,hero:CH12_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N08,丁奉,hero:CH12_N08:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N08,丁奉,hero:CH12_N08:portrait-v023,portrait-hero_CH12_N08,丁奉 · 完整头像,24,67,40,265,302
 hero:CH12_N08,丁奉,hero:CH12_N08:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N08,丁奉,hero:CH12_N08:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N08,丁奉,hero:CH12_N08:name-v023,name-hero_CH12_N08,丁奉 · 原概念姓名,100,387,70,112,58
-hero:CH12_N09,张昭,hero:CH12_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N09,张昭,hero:CH12_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N09,张昭,hero:CH12_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N09,张昭,hero:CH12_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N09,张昭,hero:CH12_N09:portrait-v023,portrait-hero_CH12_N09,张昭 · 完整头像,24,67,40,265,302
 hero:CH12_N09,张昭,hero:CH12_N09:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 hero:CH12_N09,张昭,hero:CH12_N09:role-v023:0,role-v021bw-城,城·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N09,张昭,hero:CH12_N09:name-v023,name-hero_CH12_N09,张昭 · 原概念姓名,100,387,70,113,58
-hero:CH12_N10,吕蒙（神）,hero:CH12_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH12_N10,吕蒙（神）,hero:CH12_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:shell-v023,card-frame-U-v025,红色边框共用边框与分隔带,0,0,20,313,473
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:portrait-v023,portrait-hero_CH12_N10,吕蒙（神） · 完整头像,24,69,40,265,300
@@ -858,35 +858,35 @@ hero:CH12_N10,吕蒙（神）,hero:CH12_N10:faction-v023,faction-wu,原卡阵营
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH12_N10,吕蒙（神）,hero:CH12_N10:name-v023,name-hero_CH12_N10,吕蒙（神） · 原概念姓名,44,388,70,225,56
-hero:CH13_N01,成济,hero:CH13_N01:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N01,成济,hero:CH13_N01:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N01,成济,hero:CH13_N01:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N01,成济,hero:CH13_N01:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N01,成济,hero:CH13_N01:portrait-v023,portrait-hero_CH13_N01,成济 · 完整头像,24,75,40,265,294
 hero:CH13_N01,成济,hero:CH13_N01:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N01,成济,hero:CH13_N01:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N01,成济,hero:CH13_N01:name-v023,name-hero_CH13_N01,成济 · 原概念姓名,99,387,70,115,58
-hero:CH13_N02,文鸯,hero:CH13_N02:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N02,文鸯,hero:CH13_N02:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N02,文鸯,hero:CH13_N02:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N02,文鸯,hero:CH13_N02:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N02,文鸯,hero:CH13_N02:portrait-v023,portrait-hero_CH13_N02,文鸯 · 原概念人物,24,66,40,265,303
 hero:CH13_N02,文鸯,hero:CH13_N02:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N02,文鸯,hero:CH13_N02:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N02,文鸯,hero:CH13_N02:name-v023,name-hero_CH13_N02,文鸯 · 原概念姓名,100,387,70,113,58
-hero:CH13_N03,王基,hero:CH13_N03:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N03,王基,hero:CH13_N03:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N03,王基,hero:CH13_N03:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N03,王基,hero:CH13_N03:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N03,王基,hero:CH13_N03:portrait-v023,portrait-hero_CH13_N03,王基 · 完整头像,24,73,40,265,296
 hero:CH13_N03,王基,hero:CH13_N03:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N03,王基,hero:CH13_N03:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N03,王基,hero:CH13_N03:name-v023,name-hero_CH13_N03,王基 · 原概念姓名,97,387,70,119,58
-hero:CH13_N04,杨修,hero:CH13_N04:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N04,杨修,hero:CH13_N04:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N04,杨修,hero:CH13_N04:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N04,杨修,hero:CH13_N04:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N04,杨修,hero:CH13_N04:portrait-v023,portrait-hero_CH13_N04,杨修 · 完整头像,24,49,40,265,320
 hero:CH13_N04,杨修,hero:CH13_N04:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N04,杨修,hero:CH13_N04:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N04,杨修,hero:CH13_N04:name-v023,name-hero_CH13_N04,杨修 · 原概念姓名,98,387,70,117,58
-hero:CH13_N05,司马师,hero:CH13_N05:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N05,司马师,hero:CH13_N05:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N05,司马师,hero:CH13_N05:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N05,司马师,hero:CH13_N05:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N05,司马师,hero:CH13_N05:portrait-v023,portrait-hero_CH13_N05,司马师 · 完整头像,24,48,40,265,321
@@ -894,35 +894,35 @@ hero:CH13_N05,司马师,hero:CH13_N05:faction-v023,faction-wei,原卡阵营菱�
 hero:CH13_N05,司马师,hero:CH13_N05:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N05,司马师,hero:CH13_N05:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH13_N05,司马师,hero:CH13_N05:name-v023,name-hero_CH13_N05,司马师 · 原概念姓名,72,387,70,169,58
-hero:CH13_N06,夏侯令女,hero:CH13_N06:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N06,夏侯令女,hero:CH13_N06:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N06,夏侯令女,hero:CH13_N06:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N06,夏侯令女,hero:CH13_N06:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N06,夏侯令女,hero:CH13_N06:portrait-v023,portrait-hero_CH13_N06,夏侯令女 · 原概念人物,24,65,40,265,304
 hero:CH13_N06,夏侯令女,hero:CH13_N06:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N06,夏侯令女,hero:CH13_N06:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N06,夏侯令女,hero:CH13_N06:name-v023,name-hero_CH13_N06,夏侯令女 · 原概念姓名,45,387,70,222,58
-hero:CH13_N07,夏侯霸,hero:CH13_N07:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N07,夏侯霸,hero:CH13_N07:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N07,夏侯霸,hero:CH13_N07:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N07,夏侯霸,hero:CH13_N07:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N07,夏侯霸,hero:CH13_N07:portrait-v023,portrait-hero_CH13_N07,夏侯霸 · 原概念人物,24,60,40,265,309
 hero:CH13_N07,夏侯霸,hero:CH13_N07:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N07,夏侯霸,hero:CH13_N07:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N07,夏侯霸,hero:CH13_N07:name-v023,name-hero_CH13_N07,夏侯霸 · 原概念姓名,72,387,70,168,58
-hero:CH13_N08,卫瓘,hero:CH13_N08:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N08,卫瓘,hero:CH13_N08:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N08,卫瓘,hero:CH13_N08:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N08,卫瓘,hero:CH13_N08:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N08,卫瓘,hero:CH13_N08:portrait-v023,portrait-hero_CH13_N08,卫瓘 · 完整头像,24,64,40,265,305
 hero:CH13_N08,卫瓘,hero:CH13_N08:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N08,卫瓘,hero:CH13_N08:role-v023:0,role-v021bw-隐,隐·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N08,卫瓘,hero:CH13_N08:name-v023,name-hero_CH13_N08,卫瓘 · 原概念姓名,101,387,70,110,58
-hero:CH13_N09,甄宓,hero:CH13_N09:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N09,甄宓,hero:CH13_N09:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N09,甄宓,hero:CH13_N09:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N09,甄宓,hero:CH13_N09:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N09,甄宓,hero:CH13_N09:portrait-v023,portrait-hero_CH13_N09,甄宓 · 完整头像,24,73,40,265,296
 hero:CH13_N09,甄宓,hero:CH13_N09:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 hero:CH13_N09,甄宓,hero:CH13_N09:role-v023:0,role-v021bw-敌,敌·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N09,甄宓,hero:CH13_N09:name-v023,name-hero_CH13_N09,甄宓 · 原概念姓名,98,387,70,117,58
-hero:CH13_N10,钟会,hero:CH13_N10:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+hero:CH13_N10,钟会,hero:CH13_N10:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 hero:CH13_N10,钟会,hero:CH13_N10:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 hero:CH13_N10,钟会,hero:CH13_N10:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 hero:CH13_N10,钟会,hero:CH13_N10:portrait-v023,portrait-hero_CH13_N10,钟会 · 完整头像,24,85,40,265,284
@@ -930,224 +930,224 @@ hero:CH13_N10,钟会,hero:CH13_N10:faction-v023,faction-wei,原卡阵营菱形,2
 hero:CH13_N10,钟会,hero:CH13_N10:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 hero:CH13_N10,钟会,hero:CH13_N10:role-v023:1,role-v021bw-盾,盾·黑白圆形兵种图标,29,99,62,66,66
 hero:CH13_N10,钟会,hero:CH13_N10:name-v023,name-hero_CH13_N10,钟会 · 原概念姓名,98,387,70,117,58
-soldier:blade,刀兵,soldier:blade:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:blade,刀兵,soldier:blade:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:blade,刀兵,soldier:blade:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:blade,刀兵,soldier:blade:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 soldier:blade,刀兵,soldier:blade:portrait-v023,portrait-soldier_blade,刀兵 · 原概念人物,24,100,40,265,269
 soldier:blade,刀兵,soldier:blade:faction-v023,faction-neutral,原卡阵营菱形,221,27,60,66,66
 soldier:blade,刀兵,soldier:blade:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 soldier:blade,刀兵,soldier:blade:name-v023,name-soldier_blade,刀兵 · 原概念姓名,98,387,70,116,58
-soldier:spear,枪兵,soldier:spear:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:spear,枪兵,soldier:spear:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:spear,枪兵,soldier:spear:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:spear,枪兵,soldier:spear:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 soldier:spear,枪兵,soldier:spear:portrait-v023,portrait-soldier_spear,枪兵 · 原概念人物,24,103,40,265,266
 soldier:spear,枪兵,soldier:spear:faction-v023,faction-neutral,原卡阵营菱形,221,27,60,66,66
 soldier:spear,枪兵,soldier:spear:role-v023:0,role-v021bw-枪,枪·黑白圆形兵种图标,29,29,61,66,66
 soldier:spear,枪兵,soldier:spear:name-v023,name-soldier_spear,枪兵 · 原概念姓名,99,387,70,115,58
-soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:portrait-v023,portrait-soldier_b1_huangjin,太平弓手 · 原概念人物,24,59,40,265,310
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 soldier:b1_huangjin,太平弓手,soldier:b1_huangjin:name-v023,name-soldier_b1_huangjin,太平弓手 · 原概念姓名,52,387,70,209,58
-soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:portrait-v023,portrait-soldier_b2_huangjin,黄天骑 · 原概念人物,24,106,40,265,263
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 soldier:b2_huangjin,黄天骑,soldier:b2_huangjin:name-v023,name-soldier_b2_huangjin,黄天骑 · 原概念姓名,75,387,70,163,58
-soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:portrait-v023,portrait-soldier_b3_huangjin,黄巾力士 · 原概念人物,24,98,40,265,271
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 soldier:b3_huangjin,黄巾力士,soldier:b3_huangjin:name-v023,name-soldier_b3_huangjin,黄巾力士 · 原概念姓名,49,387,70,215,58
-soldier:b5_huangjin,太平道士,soldier:b5_huangjin:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b5_huangjin,太平道士,soldier:b5_huangjin:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:portrait-v023,portrait-soldier_b5_huangjin,太平道士 · 原概念人物,24,52,40,265,317
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 soldier:b5_huangjin,太平道士,soldier:b5_huangjin:name-v023,name-soldier_b5_huangjin,太平道士 · 原概念姓名,50,387,70,213,58
-soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:portrait-v023,portrait-soldier_c_huang_guidao,鬼道师 · 原概念人物,24,56,40,265,313
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:role-v023:0,role-v021bw-术,术·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_huang_guidao,鬼道师,soldier:c_huang_guidao:name-v023,name-soldier_c_huang_guidao,鬼道师 · 原概念姓名,76,387,70,161,58
-soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:portrait-v023,portrait-soldier_c_huang_zombie,僵尸兵 · 原概念人物,24,100,40,265,269
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:faction-v023,faction-huangjin,原卡阵营菱形,221,27,60,66,66
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:role-v023:0,role-v021bw-尸,尸·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_huang_zombie,僵尸兵,soldier:c_huang_zombie:name-v023,name-soldier_c_huang_zombie,僵尸兵 · 原概念姓名,75,387,70,163,58
-soldier:b1_qun,河北弓手,soldier:b1_qun:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b1_qun,河北弓手,soldier:b1_qun:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b1_qun,河北弓手,soldier:b1_qun:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b1_qun,河北弓手,soldier:b1_qun:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b1_qun,河北弓手,soldier:b1_qun:portrait-v023,portrait-soldier_b1_qun,河北弓手 · 原概念人物,24,77,40,265,292
 soldier:b1_qun,河北弓手,soldier:b1_qun:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:b1_qun,河北弓手,soldier:b1_qun:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 soldier:b1_qun,河北弓手,soldier:b1_qun:name-v023,name-soldier_b1_qun,河北弓手 · 原概念姓名,52,387,70,209,58
-soldier:b2_qun,金戈铁马,soldier:b2_qun:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b2_qun,金戈铁马,soldier:b2_qun:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b2_qun,金戈铁马,soldier:b2_qun:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b2_qun,金戈铁马,soldier:b2_qun:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b2_qun,金戈铁马,soldier:b2_qun:portrait-v023,portrait-soldier_b2_qun,金戈铁马 · 原概念人物,24,71,40,265,298
 soldier:b2_qun,金戈铁马,soldier:b2_qun:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:b2_qun,金戈铁马,soldier:b2_qun:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 soldier:b2_qun,金戈铁马,soldier:b2_qun:name-v023,name-soldier_b2_qun,金戈铁马 · 原概念姓名,44,387,70,225,57
-soldier:b3_qun,金甲勇士,soldier:b3_qun:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b3_qun,金甲勇士,soldier:b3_qun:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b3_qun,金甲勇士,soldier:b3_qun:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b3_qun,金甲勇士,soldier:b3_qun:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b3_qun,金甲勇士,soldier:b3_qun:portrait-v023,portrait-soldier_b3_qun,金甲勇士 · 原概念人物,24,58,40,265,311
 soldier:b3_qun,金甲勇士,soldier:b3_qun:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:b3_qun,金甲勇士,soldier:b3_qun:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 soldier:b3_qun,金甲勇士,soldier:b3_qun:name-v023,name-soldier_b3_qun,金甲勇士 · 原概念姓名,44,387,70,225,57
-soldier:b4_qun,强石车,soldier:b4_qun:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b4_qun,强石车,soldier:b4_qun:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b4_qun,强石车,soldier:b4_qun:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b4_qun,强石车,soldier:b4_qun:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b4_qun,强石车,soldier:b4_qun:portrait-v023,portrait-soldier_b4_qun,强石车 · 原概念人物,29,47,40,254,322
 soldier:b4_qun,强石车,soldier:b4_qun:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:b4_qun,强石车,soldier:b4_qun:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 soldier:b4_qun,强石车,soldier:b4_qun:name-v023,name-soldier_b4_qun,强石车 · 原概念姓名,69,387,70,174,58
-soldier:c_qun_baima,白马义从,soldier:c_qun_baima:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_qun_baima,白马义从,soldier:c_qun_baima:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:portrait-v023,portrait-soldier_c_qun_baima,白马义从 · 原概念人物,24,72,40,265,297
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_qun_baima,白马义从,soldier:c_qun_baima:name-v023,name-soldier_c_qun_baima,白马义从 · 原概念姓名,48,387,70,217,58
-soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:portrait-v023,portrait-soldier_c_qun_xiang,巨象甲兵 · 原概念人物,25,47,40,263,322
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:faction-v023,faction-qun,原卡阵营菱形,221,27,60,66,66
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:role-v023:0,role-v021bw-象,象·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_qun_xiang,巨象甲兵,soldier:c_qun_xiang:name-v023,name-soldier_c_qun_xiang,巨象甲兵 · 原概念姓名,46,387,70,221,58
-soldier:b2_wei,虎豹骑,soldier:b2_wei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b2_wei,虎豹骑,soldier:b2_wei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b2_wei,虎豹骑,soldier:b2_wei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b2_wei,虎豹骑,soldier:b2_wei:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b2_wei,虎豹骑,soldier:b2_wei:portrait-v023,portrait-soldier_b2_wei,虎豹骑 · 原概念人物,24,64,40,265,305
 soldier:b2_wei,虎豹骑,soldier:b2_wei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:b2_wei,虎豹骑,soldier:b2_wei:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 soldier:b2_wei,虎豹骑,soldier:b2_wei:name-v023,name-soldier_b2_wei,虎豹骑 · 原概念姓名,74,387,70,165,58
-soldier:b3_wei,虎卫军,soldier:b3_wei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b3_wei,虎卫军,soldier:b3_wei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b3_wei,虎卫军,soldier:b3_wei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b3_wei,虎卫军,soldier:b3_wei:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b3_wei,虎卫军,soldier:b3_wei:portrait-v023,portrait-soldier_b3_wei,虎卫军 · 原概念人物,35,47,40,242,322
 soldier:b3_wei,虎卫军,soldier:b3_wei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:b3_wei,虎卫军,soldier:b3_wei:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 soldier:b3_wei,虎卫军,soldier:b3_wei:name-v023,name-soldier_b3_wei,虎卫军 · 原概念姓名,73,387,70,167,58
-soldier:b4_wei,霹雳车,soldier:b4_wei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b4_wei,霹雳车,soldier:b4_wei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b4_wei,霹雳车,soldier:b4_wei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b4_wei,霹雳车,soldier:b4_wei:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b4_wei,霹雳车,soldier:b4_wei:portrait-v023,portrait-soldier_b4_wei,霹雳车 · 原概念人物,26,47,40,261,322
 soldier:b4_wei,霹雳车,soldier:b4_wei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:b4_wei,霹雳车,soldier:b4_wei:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 soldier:b4_wei,霹雳车,soldier:b4_wei:name-v023,name-soldier_b4_wei,霹雳车 · 原概念姓名,76,387,70,161,58
-soldier:b5_wei,随军医士,soldier:b5_wei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b5_wei,随军医士,soldier:b5_wei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b5_wei,随军医士,soldier:b5_wei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b5_wei,随军医士,soldier:b5_wei:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b5_wei,随军医士,soldier:b5_wei:portrait-v023,portrait-soldier_b5_wei,随军医士 · 原概念人物,25,47,40,263,322
 soldier:b5_wei,随军医士,soldier:b5_wei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:b5_wei,随军医士,soldier:b5_wei:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 soldier:b5_wei,随军医士,soldier:b5_wei:name-v023,name-soldier_b5_wei,随军医士 · 原概念姓名,52,387,70,208,58
-soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:portrait-v023,portrait-soldier_c_wei_baowei,豹卫军 · 原概念人物,24,89,40,265,280
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_wei_baowei,豹卫军,soldier:c_wei_baowei:name-v023,name-soldier_c_wei_baowei,豹卫军 · 原概念姓名,72,387,70,168,58
-soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:portrait-v023,portrait-soldier_c_wei_huwei,虎卫军 · 原概念人物,28,47,40,257,322
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:faction-v023,faction-wei,原卡阵营菱形,221,27,60,66,66
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_wei_huwei,虎卫军,soldier:c_wei_huwei:name-v023,name-soldier_c_wei_huwei,虎卫军 · 原概念姓名,73,387,70,167,58
-soldier:b1_shu,益州弓手,soldier:b1_shu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b1_shu,益州弓手,soldier:b1_shu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b1_shu,益州弓手,soldier:b1_shu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b1_shu,益州弓手,soldier:b1_shu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b1_shu,益州弓手,soldier:b1_shu:portrait-v023,portrait-soldier_b1_shu,益州弓手 · 原概念人物,24,65,40,265,304
 soldier:b1_shu,益州弓手,soldier:b1_shu:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:b1_shu,益州弓手,soldier:b1_shu:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 soldier:b1_shu,益州弓手,soldier:b1_shu:name-v023,name-soldier_b1_shu,益州弓手 · 原概念姓名,45,387,70,223,58
-soldier:b2_shu,汉中突骑,soldier:b2_shu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b2_shu,汉中突骑,soldier:b2_shu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b2_shu,汉中突骑,soldier:b2_shu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b2_shu,汉中突骑,soldier:b2_shu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b2_shu,汉中突骑,soldier:b2_shu:portrait-v023,portrait-soldier_b2_shu,汉中突骑 · 原概念人物,24,82,40,265,287
 soldier:b2_shu,汉中突骑,soldier:b2_shu:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:b2_shu,汉中突骑,soldier:b2_shu:role-v023:0,role-v021bw-骑,骑·黑白圆形兵种图标,29,29,61,66,66
 soldier:b2_shu,汉中突骑,soldier:b2_shu:name-v023,name-soldier_b2_shu,汉中突骑 · 原概念姓名,47,387,70,219,58
-soldier:b4_shu,旋刃车,soldier:b4_shu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b4_shu,旋刃车,soldier:b4_shu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b4_shu,旋刃车,soldier:b4_shu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b4_shu,旋刃车,soldier:b4_shu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b4_shu,旋刃车,soldier:b4_shu:portrait-v023,portrait-soldier_b4_shu,旋刃车 · 原概念人物,24,69,40,265,300
 soldier:b4_shu,旋刃车,soldier:b4_shu:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:b4_shu,旋刃车,soldier:b4_shu:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 soldier:b4_shu,旋刃车,soldier:b4_shu:name-v023,name-soldier_b4_shu,旋刃车 · 原概念姓名,75,387,70,163,58
-soldier:b5_shu,蜀中医士,soldier:b5_shu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b5_shu,蜀中医士,soldier:b5_shu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b5_shu,蜀中医士,soldier:b5_shu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b5_shu,蜀中医士,soldier:b5_shu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b5_shu,蜀中医士,soldier:b5_shu:portrait-v023,portrait-soldier_b5_shu,蜀中医士 · 原概念人物,33,47,40,247,322
 soldier:b5_shu,蜀中医士,soldier:b5_shu:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:b5_shu,蜀中医士,soldier:b5_shu:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 soldier:b5_shu,蜀中医士,soldier:b5_shu:name-v023,name-soldier_b5_shu,蜀中医士 · 原概念姓名,45,387,70,223,58
-soldier:c_shu_huben,虎贲,soldier:c_shu_huben:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_shu_huben,虎贲,soldier:c_shu_huben:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:portrait-v023,portrait-soldier_c_shu_huben,虎贲 · 原概念人物,24,63,40,265,306
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_shu_huben,虎贲,soldier:c_shu_huben:name-v023,name-soldier_c_shu_huben,虎贲 · 原概念姓名,100,387,70,113,58
-soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:portrait-v023,portrait-soldier_c_shu_kongming,孔明灯 · 原概念人物,30,47,40,253,322
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:faction-v023,faction-shu,原卡阵营菱形,221,27,60,66,66
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:role-v023:0,role-v021bw-飞,飞·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_shu_kongming,孔明灯,soldier:c_shu_kongming:name-v023,name-soldier_c_shu_kongming,孔明灯 · 原概念姓名,72,387,70,168,58
-soldier:b1_wu,江东弓手,soldier:b1_wu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b1_wu,江东弓手,soldier:b1_wu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b1_wu,江东弓手,soldier:b1_wu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b1_wu,江东弓手,soldier:b1_wu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b1_wu,江东弓手,soldier:b1_wu:portrait-v023,portrait-soldier_b1_wu,江东弓手 · 原概念人物,24,64,40,265,305
 soldier:b1_wu,江东弓手,soldier:b1_wu:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:b1_wu,江东弓手,soldier:b1_wu:role-v023:0,role-v021bw-弓,弓·黑白圆形兵种图标,29,29,61,66,66
 soldier:b1_wu,江东弓手,soldier:b1_wu:name-v023,name-soldier_b1_wu,江东弓手 · 原概念姓名,50,387,70,213,58
-resource:farmland,粮田,resource:farmland:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+resource:farmland,粮田,resource:farmland:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 resource:farmland,粮田,resource:farmland:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 resource:farmland,粮田,resource:farmland:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 resource:farmland,粮田,resource:farmland:portrait-v023,resource-art-farmland,粮田 · 麦田插图,24,105,40,265,255
 resource:farmland,粮田,resource:farmland:resource-type-v024,resource-badge-farmland-v024,farmland · 资源类型圆形角标,29,29,61,66,66
 resource:farmland,粮田,resource:farmland:item-v024,resource-badge-item-v024,道具 · 三张资源卡共用圆形角标,218,29,62,66,66
 resource:farmland,粮田,resource:farmland:name-v023,name-resource_farmland,粮田 · 姓名,97,387,70,118,58
-soldier:b3_wu,巾帼卫,soldier:b3_wu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b3_wu,巾帼卫,soldier:b3_wu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b3_wu,巾帼卫,soldier:b3_wu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b3_wu,巾帼卫,soldier:b3_wu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b3_wu,巾帼卫,soldier:b3_wu:portrait-v023,portrait-soldier_wu-new-b3_wu,巾帼卫 · 人物与武器,24,60,40,265,309
 soldier:b3_wu,巾帼卫,soldier:b3_wu:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:b3_wu,巾帼卫,soldier:b3_wu:role-v023:0,role-v021bw-盾,盾·黑白圆形兵种图标,29,29,61,66,66
 soldier:b3_wu,巾帼卫,soldier:b3_wu:name-v023,name-soldier_wu-new-b3_wu,巾帼卫 · 姓名,56,387,70,200,58
-soldier:b4_wu,劲弩车,soldier:b4_wu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b4_wu,劲弩车,soldier:b4_wu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b4_wu,劲弩车,soldier:b4_wu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b4_wu,劲弩车,soldier:b4_wu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b4_wu,劲弩车,soldier:b4_wu:portrait-v023,portrait-soldier_wu-new-b4_wu,劲弩车 · 人物与武器,24,52,40,265,317
 soldier:b4_wu,劲弩车,soldier:b4_wu:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:b4_wu,劲弩车,soldier:b4_wu:role-v023:0,role-v021bw-械,械·黑白圆形兵种图标,29,29,61,66,66
 soldier:b4_wu,劲弩车,soldier:b4_wu:name-v023,name-soldier_wu-new-b4_wu,劲弩车 · 姓名,61,387,70,191,58
-soldier:b5_wu,江东医士,soldier:b5_wu:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:b5_wu,江东医士,soldier:b5_wu:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:b5_wu,江东医士,soldier:b5_wu:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:b5_wu,江东医士,soldier:b5_wu:shell-v023,card-frame-B-v025,蓝色边框共用边框与分隔带,0,0,20,313,473
 soldier:b5_wu,江东医士,soldier:b5_wu:portrait-v023,portrait-soldier_wu-new-b5_wu,江东医士 · 人物与武器,31,47,40,250,322
 soldier:b5_wu,江东医士,soldier:b5_wu:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:b5_wu,江东医士,soldier:b5_wu:role-v023:0,role-v021bw-医,医·黑白圆形兵种图标,29,29,61,66,66
 soldier:b5_wu,江东医士,soldier:b5_wu:name-v023,name-soldier_wu-new-b5_wu,江东医士 · 姓名,44,389,70,225,54
-soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:portrait-v023,portrait-soldier_wu-new-c_wu_firebow,火攻弓手 · 人物与武器,24,92,40,265,277
@@ -1155,21 +1155,21 @@ soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:faction-v023,faction-wu,�
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:role-v023:0,role-v021bw-火,火·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:role-v023:1,role-v021bw-弓,弓·黑白圆形兵种图标,29,99,62,66,66
 soldier:c_wu_firebow,火攻弓手,soldier:c_wu_firebow:name-v023,name-soldier_wu-new-c_wu_firebow,火攻弓手 · 姓名,44,387,70,225,57
-soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:shell-v023,card-frame-A-v025,紫色边框共用边框与分隔带,0,0,20,313,473
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:portrait-v023,portrait-soldier_wu-new-c_wu_jieying,劫营步兵 · 完整头像,24,99,40,265,270
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:faction-v023,faction-wu,原卡阵营菱形,221,27,60,66,66
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:role-v023:0,role-v021bw-刀,刀·黑白圆形兵种图标,29,29,61,66,66
 soldier:c_wu_jieying,劫营步兵,soldier:c_wu_jieying:name-v023,name-soldier_wu-new-c_wu_jieying,劫营步兵 · 姓名,44,389,70,225,54
-resource:soil,土块,resource:soil:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+resource:soil,土块,resource:soil:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 resource:soil,土块,resource:soil:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 resource:soil,土块,resource:soil:shell-v023,card-frame-C-v025,绿色边框共用边框与分隔带,0,0,20,313,473
 resource:soil,土块,resource:soil:portrait-v023,resource-art-soil,土块 · 独立主体,24,146,40,265,174
 resource:soil,土块,resource:soil:resource-type-v024,resource-badge-soil-v024,soil · 资源类型圆形角标,29,29,61,66,66
 resource:soil,土块,resource:soil:item-v024,resource-badge-item-v024,道具 · 三张资源卡共用圆形角标,218,29,62,66,66
 resource:soil,土块,resource:soil:name-v023,name-resource_soil,土块 · 透明标题,92,387,70,128,58
-resource:granary,粮仓,resource:granary:base-v025,card-base-ivory-v025,全卡共用米白底板与黑色外轮廓,0,0,10,313,473
+resource:granary,粮仓,resource:granary:base-v025,card-base-ivory-v025,全卡共用米色底板与黑色外轮廓,0,0,10,313,473
 resource:granary,粮仓,resource:granary:footer-v025,card-footer-black-v025,全卡共用黑色尾页,0,0,15,313,473
 resource:granary,粮仓,resource:granary:shell-v023,card-frame-S-v025,橙色边框共用边框与分隔带,0,0,20,313,473
 resource:granary,粮仓,resource:granary:portrait-v023,resource-art-granary,粮仓 · 独立主体,29,103,40,255,260
