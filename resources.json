@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-26",
   "categories": [
     {
       "id": "cards",
@@ -54,14 +54,14 @@
       "id": "barracks-hud-v020",
       "category": "simulators",
       "type": "兵营模拟器",
-      "version": "v020",
+      "version": "v028",
       "status": "在线副本",
       "name": "36种兵营 HUD 模拟器",
-      "summary": "36种兵营素材的一体圆角方块展示。可切换血量、暂停和重置出兵CD，并对照我方蓝边、敌方红边的34px战场兵营。",
+      "summary": "36种兵营共用1∶1方形轮廓与19%窄黑名称栏。我方蓝色、敌方红色CD沿边缘顺时针推进，支持暂停、重置和血量切换，包含放大与34px战场对照。",
       "facts": [
         "36种兵营",
-        "头像与兵种图标",
-        "血量/CD演示"
+        "方形窄名称栏",
+        "红蓝边缘CD"
       ],
       "preview": "previews/barracks-hud-v020.png",
       "open": "simulators/barracks-hud-v020-20261021/index.html#battle-barracks",
